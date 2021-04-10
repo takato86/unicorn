@@ -1,0 +1,1241 @@
+,source,target
+0,Ant Financial Services Group,Russia-China Investment Fund
+1,Ant Financial Services Group,Foxconn Technology Company
+2,Ant Financial Services Group,GGV Capital
+3,BOLDstart Ventures,Google Ventures
+4,BOLDstart Ventures,Accel
+5,Cowboy Ventures,New Enterprise Associates
+6,Cowboy Ventures,Pear
+7,Polaris Partners,Lowercase Capital
+8,Polaris Partners,Insight Venture Partners
+9,Investment Corporation of Dubai,Centralway
+10,Collaborative Fund,Khosla Ventures
+11,Collaborative Fund,Kleiner Perkins Caufield & Byers
+12,Fidelity Investments,Revolution
+13,Fidelity Investments,Red Sea Ventures
+14,Chengwei Capital,Redpoint Ventures
+15,Chengwei Capital,QiMing Venture Partners
+16,Toyota Motor Corporation,Mizuho Financial Group
+17,Toyota Motor Corporation,FANUC
+18,Loyal Valley Capital,Tencent Holdings
+19,Loyal Valley Capital,Bertelsmann Asia Investments
+20,Russia-China Investment Fund,Foxconn Technology Company
+21,Smash Ventures,Tencent Holdings
+22,Smash Ventures,KKR
+23,Sina Weibo Fund,Zhiping Capital
+24,Sina Weibo Fund,Composite Capital Partners
+25,FTV Capital,Endeavor
+26,Makena Capital Management,Breyer Capital
+27,Makena Capital Management,TPG Growth
+28,Acequia Capital,General Catalyst
+29,Acequia Capital,L Catterton
+30,Warburg Pincus,Sequoia Capital China
+31,Warburg Pincus,Volcanics Ventures
+32,Warburg Pincus,Trifecta Capital Advisors
+33,Warburg Pincus,CreditEase Fintech Investment Fund
+34,Warburg Pincus,General Catalyst
+35,Warburg Pincus,Sequoia Capital India
+36,Warburg Pincus,Aviation Industry Corporation of China
+37,Warburg Pincus,Vertex Ventures China
+38,Warburg Pincus,Morningside Ventures
+39,Warburg Pincus,Shunwei Capital Partners
+40,Warburg Pincus,QingSong Fund
+41,Warburg Pincus,Formation Group
+42,Warburg Pincus,SAIF Partners India
+43,TLV Partners,Zeev Ventures
+44,TLV Partners,Ribbit Capital
+45,CRV,Caffeinated Capital
+46,CRV,Nexus Venture Partners
+47,CRV,Insight Partners
+48,CRV,Founder Collective
+49,CRV,Spark Capital
+50,CRV,SoftBank Group
+51,CRV,Index Ventures
+52,CRV,Thrive Capital
+53,Benchmark Capital,DAG Ventures
+54,Benchmark Capital,Insight Venture Partners
+55,K2 Global,500 Startups
+56,Foresite Capital,Altitude Life Science Ventures
+57,Foresite Capital,ARCH Venture Partners
+58,Escala Capital,LGT Capital Partners
+59,Escala Capital,Cambridge Innovation Capital
+60,Caffeinated Capital,Founder Collective
+61,Caffeinated Capital,Sequoia Capital
+62,Caffeinated Capital,Sozo Ventures
+63,Ignition Partners,Eight Roads Ventures
+64,Ignition Partners,Greycroft
+65,Eight Roads Ventures,Greycroft
+66,Warmsun Holding,IDG Capital Partners
+67,Public Investment Fund of Saudi Arabia,Kinnevik
+68,Public Investment Fund of Saudi Arabia,Vostok New Ventures
+69,Upfront Ventures,Tao Capital Partners
+70,Upfront Ventures,Webb Investment Network
+71,Upfront Ventures,D1 Capital Partners
+72,Upfront Ventures,Andreessen Horowitz
+73,CDH Investments,Sequoia Capital China
+74,CDH Investments,Legend Capital
+75,CDH Investments,Qiming Venture Partners
+76,CDH Investments,Goldstone Investments
+77,CDH Investments,China Broadband Capital
+78,Oriza Holdings,Guangdong Technology Financial Group
+79,Cox Automotive,Amazon
+80,Cox Automotive,Ford Motor Company
+81,Delphi Automotive,Samsung Ventures
+82,Delphi Automotive,Motus Ventures
+83,Temasek,PayPal Ventures
+84,Temasek,MasterCard
+85,Leonardo DiCaprio,Promecap
+86,Leonardo DiCaprio,Goldman Sachs
+87,Affirma Capital,Standard Chartered
+88,Affirma Capital,FinSight Ventures
+89,Volkswagen,Access Industries
+90,Volkswagen,Vostok New Ventures
+91,Highland Capital Partners,Kleiner Perkins Caufield & Byers
+92,Highland Capital Partners,Bain Capital Ventures
+93,Highland Capital Partners,Madrona Venture Group
+94,Amazon,Ford Motor Company
+95,ING,Sequoia Capital China
+96,ING,Alibaba Entrepreneurs Fund
+97,General Catalyst,Foundation Capital
+98,General Catalyst,Sequoia Capital China
+99,General Catalyst,SignalFire
+100,General Catalyst,Target Global
+101,General Catalyst,Andreessen Horowitz
+102,General Catalyst,Durable Capital Partners
+103,General Catalyst,Initialized Capital
+104,General Catalyst,Digital Currency Group
+105,General Catalyst,Institutional Venture Partners
+106,General Catalyst,Lux Capital
+107,General Catalyst,L Catterton
+108,General Catalyst,Breyer Capital
+109,General Catalyst,Accel Partners
+110,General Catalyst,Accel
+111,General Catalyst,dmg ventures
+112,General Catalyst,Octopus Ventures
+113,General Catalyst,Index Ventures
+114,General Catalyst,Matrix Partners
+115,Teamworthy Ventures,Koch Disruptive Technologies
+116,Teamworthy Ventures,GGV Capital
+117,BoxGroup,Formation8
+118,BoxGroup,First Round Capital
+119,BoxGroup,Felicis Ventures
+120,BoxGroup,Khosla Ventures
+121,next47,First Round Capital
+122,next47,Sequoia Capital
+123,Bond,Playground Global
+124,Bond,Tribe Capital
+125,Index Ventures,General Atlantic
+126,Index Ventures,Greylock Partners
+127,Index Ventures,Atlos Ventures
+128,Index Ventures,Kleiner Perkins Caufield & Byers
+129,Index Ventures,First Round Capital
+130,Index Ventures,Google Ventures
+131,Index Ventures,Y Combinator
+132,Index Ventures,Accel
+133,Index Ventures,Battery Ventures
+134,Index Ventures,Airbus Ventures
+135,Index Ventures,Advent International
+136,Index Ventures,ICONIQ Capital
+137,Index Ventures,Scale Venture Partners
+138,Index Ventures,Accel Partners
+139,Index Ventures,Lightspeed Venture Partners
+140,Index Ventures,Sequoia Capital
+141,Index Ventures,Benchmark
+142,Index Ventures,Insight Venture Partners
+143,Index Ventures,Thrive Capital
+144,Moore Capital Management,Khosla Ventures
+145,Moore Capital Management,Foxconn Technology Company
+146,Softbank,PremjiInvest
+147,Softbank,Chiratae Ventures
+148,Zhangjiang Haocheng Venture Capital,Walden International
+149,Zhangjiang Haocheng Venture Capital,Intel Capital
+150,China Creation Ventures,Xingwang Investment Management
+151,China Creation Ventures,Sierra Ventures
+152,Lerer Hippeau Ventures,T. Rowe Price
+153,Lerer Hippeau Ventures,Tiger Global Management
+154,Kaalari Capital,Steadview Capital
+155,Kaalari Capital,Tencent Holdings
+156,LowercaseCapital,Khosla Ventures
+157,LowercaseCapital,capitalG
+158,Formation8,Khosla Ventures
+159,Banyan Capital,New Horizon Capital
+160,Banyan Capital,Sequoia Capital China
+161,Banyan Capital,IDG Capital Partners
+162,Launchpad Venture Group,ICONIQ Capital
+163,Launchpad Venture Group,Insight Venture Partners
+164,Accel,Insight Partners
+165,Accel,Earlybrid Venture Capital
+166,Accel,Social Capital
+167,Accel,Digital Currency Group
+168,Accel,Institutional Venture Partners
+169,Accel,capitalG
+170,Accel,Atomico
+171,Accel,Astral Capital
+172,Accel,T. Rowe Price
+173,Accel,Seedcamp
+174,Accel,Google Ventures
+175,Accel,Y Combinator
+176,Accel,83North
+177,Accel,BPI France
+178,Accel,Kerala Ventures
+179,Accel,Burda Principal Investments
+180,Accel,Benhcmark
+181,Accel,Lightspeed Venture Partners
+182,Accel,Anthos Capital
+183,Accel,Northzone Ventures
+184,Accel,Tiger Global Management
+185,Accel,Summit Partners
+186,Accel,Addition
+187,Accel,Softbank Group
+188,Crosslink Capital,Homebrew
+189,Crosslink Capital,Forerunner Ventures
+190,index Ventures,Ribbit Capital
+191,index Ventures,DST Global
+192,Tiantu Capital,Morningside Ventures
+193,Tiantu Capital,JD.com
+194,Legend Star,Alibaba Group
+195,Legend Star,TAL Education Group
+196,Dragoneer Investment Group,T. Rowe Price
+197,Dragoneer Investment Group,BlackRock
+198,Lightspeed China Partners,Sky9 Capital
+199,Lightspeed China Partners,K2VC
+200,Harrison Metal,Bessemer Venture Partners
+201,Harrison Metal,Redpoint Ventures
+202,Pine Brook,American Express Ventures
+203,Pine Brook,Kleiner Perkins Caufield & Byers
+204,Genesis Partners,Insight Partners
+205,Genesis Partners,Qumra Capital
+206,Genesis Partners,Entree Capital
+207,Genesis Partners,Opus Capital
+208,Genesis Partners,Battery Ventures
+209,RedBird Capital Partners,Tencent Holdings
+210,RedBird Capital Partners,CJ ENM
+211,Zhongrong International Trust,People Electrical Appliance Group China
+212,Basepoint Ventures,Industry Ventures
+213,Basepoint Ventures,and Institutional Venture Partners
+214,August Capital,RRE Ventures
+215,August Capital,Google Ventures
+216,August Capital,Shasta Ventures
+217,August Capital,Tiger Global
+218,NewView Capital,Maveron
+219,NewView Capital,Ridge Ventures
+220,Redalpine Venture Partners,Valar Ventures
+221,Redalpine Venture Partners,Earlybird Venture Capital
+222,KCK Group,EXOR Seeds
+223,KCK Group,OLX Group
+224,Webb Investment Network,D1 Capital Partners
+225,Webb Investment Network,Orient Hontai Capital
+226,Georgian Co-Investment Fund,iTech Capital
+227,Georgian Co-Investment Fund,Galaxy Digital
+228,Google,Pokemon Company International
+229,Google,BNP Paribas
+230,Google,Goldman Sachs
+231,Google,Spark Capital
+232,Google,Nintendo
+233,Greylock Partners,Spark Capital
+234,Greylock Partners,capitalG
+235,Greylock Partners,Kleiner Perkins Caufield & Byers
+236,Greylock Partners,Tencent Holdings
+237,Greylock Partners,Y Combinator
+238,Greylock Partners,SingTel Innov8
+239,Greylock Partners,Khosla Ventures
+240,Greylock Partners,Providence Ventures
+241,Greylock Partners,Gaorong Capital
+242,Greylock Partners,North Bridge Venture Partners
+243,Greylock Partners,Venrock
+244,Greylock Partners,8VC
+245,Greylock Partners,Accel Partners
+246,Greylock Partners,Lightspeed Venture Partners
+247,Greylock Partners,Structure Capital
+248,Greylock Partners,Aspect Ventures
+249,Greylock Partners,Andreessen Horowitz
+250,Greylock Partners,Lowercase Capital
+251,Greylock Partners,New Enterprise Associates
+252,Greylock Partners,Benchmark
+253,Greylock Partners,Technology Crossover Ventures
+254,Greylock Partners,SoftBank Group
+255,Shenzhen Qianhe Capital Management Co.,Fosun RZ Capital
+256,Shenzhen Qianhe Capital Management Co.,Oceanwide Holdings
+257,Foundry Group,iNovia Capital
+258,Foundry Group,Pitango Venture Capital
+259,Foundry Group,Mithril
+260,Foundry Group,DFJ Growth Fund
+261,Wellington Management,Founder Collective
+262,Wellington Management,Founders Fund
+263,Wellington Management,Sequoia Capital
+264,Wellington Management,Thrive Capital
+265,FinSight Ventures,Standard Chartered
+266,Microsoft ScaleUp,Lightspeed Venture Partners
+267,Microsoft ScaleUp,DST Global
+268,T. Rowe Price,BlackRock
+269,T. Rowe Price,Andreessen Horowitz
+270,T. Rowe Price,Y Combinator
+271,T. Rowe Price,Tiger Global Management
+272,T. Rowe Price,GGV Capital
+273,Lightbank,New Enterprise Associates
+274,Lightbank,T. Rowe Associates
+275,Digital Sky Technologies,Founders Fund
+276,Digital Sky Technologies,Piton Capital
+277,Digital Sky Technologies,DN Capital
+278,Digital Sky Technologies,GGV Capital
+279,Digital Sky Technologies,SoftBank Group
+280,Aglae Ventures,Alven Capital
+281,Aglae Ventures,Global Founders Capital
+282,Cybernaut Growth Fund,IDG Capital
+283,Shanghai Puyin Industry,Funa Yuanchuang Technology
+284,Shanghai Puyin Industry,Jiangsu Sha Steel Group
+285,BPI France,Kerala Ventures
+286,Oak HC/FT Partners,Kinnevik
+287,Oak HC/FT Partners,Walgreens Boots Alliance
+288,Asian Development Bank,JERA
+289,Asian Development Bank,Goldman Sachs
+290,Trustbridge Partners,Sequoia Capital China
+291,Trustbridge Partners,IDG Capital
+292,Nor-Cal Invest,TPG Growth
+293,Nor-Cal Invest,Andreessen Horowitz
+294,Summerhill Venture Partners,Mithril Capital Management
+295,Summerhill Venture Partners,Union Square Ventures
+296,Nexus Venture Partners,Insight Partners
+297,Nexus Venture Partners,Sequoia Capital
+298,Nexus Venture Partners,Tenaya Capital
+299,Nexus Venture Partners,Blume Ventures
+300,Nexus Venture Partners,Sequoia Capital India
+301,Nexus Venture Partners,Times Internet
+302,Nexus Venture Partners,SoftBank Group
+303,Ireland Strategic Investment Fund,Insight Partners
+304,Ireland Strategic Investment Fund,TPG Alternative & Renewable Technologies
+305,Vertex Venture Holdings,Softbank Group
+306,Vertex Venture Holdings,GGV Capital
+307,iNovia Capital,Mithril
+308,Lindeman Asia Investment,Nichi-Iko Pharmaceutical
+309,Insights Venture Partners,Pritzker Group Venture Capital
+310,Insights Venture Partners,Goldman Sachs
+311,Charter Venture Capital,New Enterprise Associates
+312,Charter Venture Capital,New Leaf Venture Partners
+313,Sequoia Capital China,GX Capital
+314,Sequoia Capital China,InnoVision Capital
+315,Sequoia Capital China,DST Global
+316,Sequoia Capital China,Kleiner Perkins Caufield & Byers
+317,Sequoia Capital China,Gopher Asset Management
+318,Sequoia Capital China,China Reform Fund
+319,Sequoia Capital China,Redpoint Ventures
+320,Sequoia Capital China,Merrysunny Wealth
+321,Sequoia Capital China,Matrix Partners
+322,Sequoia Capital China,Tencent Holdings
+323,Sequoia Capital China,Alibaba Entrepreneurs Fund
+324,Sequoia Capital China,Shanghai Electric Group
+325,Sequoia Capital China,Qianhai Fund of Funds
+326,Sequoia Capital China,Qiming Venture Partners
+327,Sequoia Capital China,Sinovation Ventures
+328,Sequoia Capital China,Rich Land Capital
+329,Sequoia Capital China,Sina Weibo
+330,Sequoia Capital China,Hillhouse Capital Management
+331,Sequoia Capital China,Coatue Management
+332,Sequoia Capital China,58.com
+333,Sequoia Capital China,IDG Capital
+334,Sequoia Capital China,Gaorong Capital
+335,Sequoia Capital China,K2 Ventures
+336,Sequoia Capital China,Matrix Partners China
+337,Sequoia Capital China,ZhenFund
+338,Sequoia Capital China,Goldman Sachs
+339,Sequoia Capital China,Shunwei Capital Partners
+340,Sequoia Capital China,GGV Capital
+341,Sequoia Capital China,Bank of China
+342,Sequoia Capital China,Blackbird Ventures
+343,Sequoia Capital China,SIG Asia Investments
+344,Sequoia Capital China,Shenzhen Capital Group
+345,Sequoia Capital China,Legend Capital
+346,Sequoia Capital China,DCM Ventures
+347,Sequoia Capital China,Tiger Global Management
+348,Sequoia Capital China,Xiang He Capital
+349,Sequoia Capital China,Softbank Group
+350,Sequoia Capital China,China Construction Bank
+351,Passport Capital,Rho Ventures
+352,Passport Capital,Matrix Partners
+353,Pokemon Company International,Spark Capital
+354,Pokemon Company International,Nintendo
+355,Target Global,Durable Capital Partners
+356,Draper Fisher Jurvetson,Founders Fund
+357,Draper Fisher Jurvetson,Rothenberg Ventures
+358,K9 Ventures,Bessemer Venture Partners
+359,K9 Ventures,Trinity Ventures
+360,TowerBrook Capital Partners,KKR
+361,Costanoa Ventures,Altos Ventures
+362,Costanoa Ventures,Union Square Ventures
+363,Formation Group,Sequoia Capital India
+364,Blackrock,Connecticut Innovations
+365,Blackrock,Google Ventures
+366,Blackrock,SoftBankGroup
+367,Blackrock,Kleiner Perkins Caulfield & Byers
+368,Blackrock,Deerfield Management
+369,Blackrock,capitalG
+370,Blackrock,World Lab Innovation
+371,Blackrock,Alibaba Group
+372,Technology Crossover Ventures,A&E Television Networks
+373,Technology Crossover Ventures,North Bridge Venture Partners
+374,Vickers Venture Partners,IKEA GreenTech
+375,CommerzVentures,83North
+376,CommerzVentures,Granite Ventures
+377,Red Sea Ventures,Revolution
+378,DFJ Growth Fund,Pitango Venture Capital
+379,China Life Insurance,China Development Bank Capital
+380,China Life Insurance,CITIC Securities International
+381,US Venture Partners,Microsoft Ventures
+382,US Venture Partners,BlueCross BlueShield Venture Partners
+383,US Venture Partners,Kleiner Perkins Caufield & Byers
+384,Boxin Capital,IDG Capital
+385,Boxin Capital,DT Capital Partners
+386,IMM Investment,Stonebridge Capital
+387,IMM Investment,Tencent Holdings
+388,IMM Investment,NXC
+389,Trilogy Equity Partners,Threshold Ventures
+390,Trilogy Equity Partners,DN Capital
+391,CJ ENM,Tencent Holdings
+392,Azure Capital Partners,Intel Capital
+393,Azure Capital Partners,Battery Ventures
+394,Gemini Israel Ventures,Giza Venture Capital
+395,Gemini Israel Ventures,Insight Venture Partners
+396,Sapphire Ventures,Intel Capital
+397,Sapphire Ventures,Alibaba Group
+398,Silverlink Capital,Temasek Holdings
+399,Silverlink Capital,QiMing Venture Partners
+400,SignalFire,AME Cloud Ventures
+401,SignalFire,Initialized Capital
+402,SignalFire,Softbank Group
+403,Maveron,Ridge Ventures
+404,Google Ventures,Kleiner Perkins Caulfield & Byers
+405,Google Ventures,Section 32
+406,Google Ventures,Bessemer Venture Partners
+407,Google Ventures,DST Global
+408,Google Ventures,Kleiner Perkins Caufield & Byers
+409,Google Ventures,MPM Capital
+410,Google Ventures,Khosla Ventures
+411,Google Ventures,Battery Ventures
+412,Google Ventures,Wakefield Group
+413,Google Ventures,ICONIQ Capital
+414,Google Ventures,Scale Venture Partners
+415,Google Ventures,Shasta Ventures
+416,Google Ventures,Sequoia Capital
+417,Google Ventures,Andreessen Horowitz
+418,Google Ventures,New Enterprise Associates
+419,Google Ventures,General Catalyst Partners
+420,Google Ventures,Tiger Global Management
+421,Google Ventures,Summit Partners
+422,Google Ventures,InCube Ventures
+423,Google Ventures,VentureHealth
+424,Google Ventures,Baillie Gifford & Co.
+425,Sinovation Ventures,Tencent Holdings
+426,Sinovation Ventures,Qiming Venture Partners
+427,Khosla Ventures,Bessemer Venture Partners
+428,Khosla Ventures,capitalG
+429,Khosla Ventures,Lockheed Martin
+430,Khosla Ventures,Kleiner Perkins Caufield & Byers
+431,Khosla Ventures,Forerunner Ventures
+432,Khosla Ventures,ICONIQ Capital
+433,Khosla Ventures,Temasek Holdings
+434,Khosla Ventures,Goldman Sachs
+435,Khosla Ventures,Geodesic Capital
+436,Khosla Ventures,Lightspeed Venture Partners
+437,Khosla Ventures,Founders Fund
+438,Khosla Ventures,Sequoia Capital
+439,Khosla Ventures,Andreessen Horowitz
+440,Khosla Ventures,Horizons Ventures
+441,Khosla Ventures,Foxconn Technology Company
+442,Khosla Ventures,Softbank Group
+443,Khosla Ventures,Singapore Wealth Fund
+444,SingTel Innov8,Aspect Ventures
+445,QiMing Venture Partnersl,GGV Capital
+446,China Environmental Protection Industry,China Fortune Ocean
+447,Galaxy Digital,iTech Capital
+448,Jinhui Xingye,Gaopeng Capital
+449,Jinhui Xingye,China Reform Fund
+450,Samsung Ventures,Motus Ventures
+451,Felicis Ventures,First Round Capital
+452,MHS Capital,Mayfield Fund
+453,MHS Capital,Insight Partners
+454,MHS Capital,Norwest Venture Partners
+455,MHS Capital,NextView Ventures
+456,QingSong Fund,Shunwei Capital Partners
+457,Tiger Global,RRE Ventures
+458,Tiger Global,Sequoia Capital
+459,Tiger Global,Google Capital
+460,GGV Capital,Koch Disruptive Technologies
+461,GGV Capital,Founders Fund
+462,GGV Capital,Morningside Venture Capital
+463,GGV Capital,Linear Venture
+464,GGV Capital,ZhenFund
+465,GGV Capital,Bertelsmann Asia Investments
+466,GGV Capital,Andreessen Horowitz
+467,GGV Capital,Tencent
+468,GGV Capital,IDG Capital
+469,GGV Capital,Xiang He Capital
+470,GGV Capital,Softbank Group
+471,Playground Global,Tribe Capital
+472,Blackbird Ventures,Matrix Partners
+473,Pear,New Enterprise Associates
+474,Beijing Shuju Xinrong Fund,Beijing Juneng Hesheng Industry Investment Fund
+475,Ten Eleven Ventures,Elephant Venture Capital
+476,Ten Eleven Ventures,Summit Partners
+477,Ten Eleven Ventures,KKR
+478,CreditEase Fintech Investment Fund,BMW i Ventures
+479,CreditEase Fintech Investment Fund,SoftBank Group
+480,CreditEase Fintech Investment Fund,Morningside Ventures
+481,China Broadband Capital,83North
+482,China Broadband Capital,Qiming Venture Partners
+483,China Broadband Capital,Susquehanna Growth Equity
+484,China Health Industry Investment Fund,and Sequoia Capital China
+485,China Health Industry Investment Fund,China Renaissance
+486,Ribbit Capital,VY Capital
+487,Ribbit Capital,Union Square Ventures
+488,Ribbit Capital,Zeev Ventures
+489,Ribbit Capital,DCM Ventures
+490,Ribbit Capital,RPM Ventures
+491,Ribbit Capital,DST Global
+492,Ribbit Capital,Greenoaks Capital Management
+493,China Construction Bank,Bank of China
+494,Mithril Capital Management,Union Square Ventures
+495,Baillie Gifford & Co.,Alaska Permanent Fund
+496,Baillie Gifford & Co.,Activant Capital Group
+497,Baillie Gifford & Co.,Sequoia Capital
+498,Kefa Capital,Dark Horse Technology Group
+499,Kefa Capital,Hopu Investment Management
+500,Qualcomm Ventures,WRVI Capital
+501,Qualcomm Ventures,S-Cubed Capital
+502,Qualcomm Ventures,Andreessen Horowitz
+503,Qualcomm Ventures,China Internet Investment Fund
+504,Qualcomm Ventures,Obvious Ventures
+505,Qualcomm Ventures,Qiming Venture Partners
+506,Qualcomm Ventures,Draper Fisher Jurtson
+507,Qualcomm Ventures,Bessemer Venture Partners
+508,Qualcomm Ventures,Kleiner Perkins Caufield & Byers
+509,Qualcomm Ventures,Alibaba Group
+510,Qualcomm Ventures,SoftBank Group. Monashees+
+511,Prometheus Capital,JD Capital Management
+512,Prometheus Capital,Matrix Partners China
+513,Jiangsu Sha Steel Group,Aviation Industry Corporation of China
+514,Jiangsu Sha Steel Group,Funa Yuanchuang Technology
+515,Jiangsu Sha Steel Group,Essence Financial
+516,Global Logistic Properties,Source Code Capital
+517,Global Logistic Properties,K2VC
+518,Blue Label Telecoms,Net1 UEPS Technologies
+519,Valiant Capital Partners,SoftBank Group
+520,Valiant Capital Partners,SAIF Partners India
+521,Rakuten,Otter Rock Capital
+522,Rakuten,Seaya Ventures
+523,North Bridge Growth Equity,ES Ventures
+524,North Bridge Growth Equity,KKR
+525,FAW Group,Tencent Holdings
+526,FAW Group,Tus Holdings
+527,GF Xinde Investment Management Co.,Haitong Leading Capital Management
+528,GF Xinde Investment Management Co.,V Star Capital
+529,Eastern Bell Capital,SF Holding Co
+530,Eastern Bell Capital,STO Express
+531,IDG Capital Partners,New Horizon Capital
+532,Felix Capital,83North
+533,Felix Capital,Elaia Partners
+534,MMC Ventures,BGF Ventures
+535,MMC Ventures,Unilever Ventures
+536,Shanghai Electric Group,Gopher Asset Management
+537,Qianhai Fund of Funds,InnoVision Capital
+538,Qiming Venture Partners,Tencent Holdings
+539,Qiming Venture Partners,China Internet Investment Fund
+540,Qiming Venture Partners,Capital Today
+541,Qiming Venture Partners,General Atlantic
+542,Qiming Venture Partners,Far East Horizon
+543,Qiming Venture Partners,Goldstone Investments
+544,Qiming Venture Partners,Yaxia Automobile
+545,Temasek Holdings Ltd.,Advantech Capital
+546,Temasek Holdings Ltd.,Tiantu Capital Co.
+547,Revolution Ventures,Founders Fund
+548,Revolution Ventures,Andreessen Horowitz
+549,F-Prime Capital,Spark Capital
+550,F-Prime Capital,Kibo Ventures
+551,F-Prime Capital,Venrock
+552,F-Prime Capital,Andreessen Horowitz
+553,Airbus Ventures,Advent International
+554,Lakestar,New Enterprise Associates
+555,Lakestar,Battery Ventures
+556,Lakestar,Seaya Ventures
+557,Lakestar,IDInvest Partners
+558,S-Cubed Capital,WRVI Capital
+559,Alibaba Group,Boyu Capital
+560,Alibaba Group,Infore Capital
+561,Alibaba Group,Bessemer Venture Partners
+562,Alibaba Group,Borui Capital
+563,Alibaba Group,Star VC
+564,Alibaba Group,Ping An Insurance
+565,Alibaba Group,IDG Capital
+566,Alibaba Group,TAL Education Group
+567,Alibaba Group,KKR
+568,Alibaba Group,Goldman Sachs
+569,Alibaba Group,Telling Telecommunication Holding Co.
+570,Alibaba Group,Yinxinggu Capital
+571,Alibaba Group,Intel Capital
+572,Alibaba Group,China Everbright Investment Management
+573,Alibaba Group,SoftBankGroup
+574,Alibaba Group,Draper Fisher Jurtson
+575,Alibaba Group,Sequoia Capital India
+576,Alibaba Group,Helion Venture Partners
+577,iFLYTEK,China Everbright Limited
+578,iFLYTEK,IDG Capital
+579,TA Associates,SoftBank Group
+580,TA Associates,GS Growth
+581,DC Thomson Ventures,Hopu Investment Management
+582,DC Thomson Ventures,Boyu Capital
+583,Causeway Media Partners,Novator Partners
+584,Causeway Media Partners,True
+585,Founders Fund,Bloomberg Beta
+586,Founders Fund,First Round Capital
+587,Founders Fund,Goldman Sachs
+588,Founders Fund,Andreessen Horowitz
+589,Founders Fund,Horizons Ventures
+590,Founders Fund,SoftBankGroup
+591,Founders Fund,Rothenberg Ventures
+592,Founders Fund,Bedrock Capital
+593,Founders Fund,Thrive Capital
+594,Founders Fund,Quantum Energy Partners
+595,JD Capital Management,Matrix Partners China
+596,Andreessen Horowitz,Obvious Ventures
+597,Andreessen Horowitz,Access Industries
+598,Andreessen Horowitz,Section 32
+599,Andreessen Horowitz,DST Global
+600,Andreessen Horowitz,IA Ventures
+601,Andreessen Horowitz,Matrix Partners
+602,Andreessen Horowitz,Tao Capital Partners
+603,Andreessen Horowitz,Battery Ventures
+604,Andreessen Horowitz,Monashees+
+605,Andreessen Horowitz,Temasek Holdings
+606,Andreessen Horowitz,Zeev Ventures
+607,Andreessen Horowitz,Venrock
+608,Andreessen Horowitz,Lux Capital
+609,Andreessen Horowitz,Lightspeed Venture Partners
+610,Andreessen Horowitz,Sequoia Capital
+611,Andreessen Horowitz,New Enterprise Associates
+612,Andreessen Horowitz,General Catalyst Partners
+613,Andreessen Horowitz,ENIAC Ventures
+614,Andreessen Horowitz,QED Investors
+615,Andreessen Horowitz,Redpoint e.ventures
+616,Andreessen Horowitz,TPG Growth
+617,Andreessen Horowitz,SoftBank Group
+618,Andreessen Horowitz,Singapore Wealth Fund
+619,Qumra Capital,Magma Venture Partners
+620,Qumra Capital,Entree Capital
+621,Qumra Capital,Pitango Venture Capital
+622,Intel Capital,Aviv Venture Capital
+623,Intel Capital,Walden International
+624,Intel Capital,Battery Ventures
+625,JAFCO Co,IDG Capital
+626,JAFCO Co,Bitmain Technologies_
+627,Charlotte Angel Partners,TPG Growth
+628,Charlotte Angel Partners,Temasek Holdings
+629,World Lab Innovation,capitalG
+630,SoftBank Group,General Atlantic
+631,SoftBank Group,Lightspeed India Partners
+632,SoftBank Group,DN Capital
+633,SoftBank Group,Mountain Nazca
+634,SoftBank Group,Spark Capital
+635,SoftBank Group,Atomico
+636,SoftBank Group,DST Global
+637,SoftBank Group,Matrix Partners India
+638,SoftBank Group,BMW i Ventures
+639,SoftBank Group,Wing Venture Capital
+640,SoftBank Group,Kaszek Ventures
+641,SoftBank Group,SAIF Partners India
+642,SoftBank Group,Gaorong Capital
+643,SoftBank Group,Piton Capital
+644,SoftBank Group,Temasek Holdings
+645,SoftBank Group,Data Collective
+646,SoftBank Group,Accel Partners
+647,SoftBank Group,Times Internet
+648,SoftBank Group,Sequoia Capital
+649,SoftBank Group,GS Growth
+650,SoftBank Group,Sequoia Capital India
+651,SoftBank Group,Tiger Global Management
+652,SoftBank Group,True Ventures
+653,Gaopeng Capital,China Reform Fund
+654,Tokopedia_,Grab_
+655,Tokopedia_,Tokyo Century Corporation
+656,Artiman Ventures,Anthos Capital
+657,Artiman Ventures,Plug and Play Ventures
+658,IDInvest Partners,Seaya Ventures
+659,Trifecta Capital Advisors,SAIF Partners India
+660,TSG Consumer Partners,Crowdcube
+661,Dell Technologies Capital,Norwest Venture Partners
+662,Dell Technologies Capital,Goldman Sachs
+663,Dell Technologies Capital,Bain Capital Ventures
+664,Dell Technologies Capital,Pitango Venture Capital
+665,Dell Technologies Capital,Amadeus Capital Partners
+666,Dell Technologies Capital,Viola Ventures
+667,Citi Ventures,ICONIQ Capital
+668,Citi Ventures,Susquehanna Growth Equity
+669,Vattenfall,Volkswagen Group
+670,Vattenfall,Goldman Sachs
+671,Seedcamp,Earlybrid Venture Capital
+672,Seedcamp,Salesforce Ventures
+673,Seedcamp,capitalG
+674,Seedcamp,OMERS Ventures
+675,Altitude Life Science Ventures,ARCH Venture Partners
+676,OpenView Venture Partners,Fifth Wall Ventures
+677,OpenView Venture Partners,Trinity Ventures
+678,Ping An Insurance,KKR
+679,DT Capital Partners,IDG Capital
+680,Coatue Management,IDG Capital
+681,Coatue Management,Y Combinator
+682,Coatue Management,Sequoia Capital
+683,Blackstone,China Resources Holdings
+684,Blackstone,Verlinvest
+685,Monashees+,QED Investors
+686,Scale Venture Partners,Sequoia Capital Israel
+687,Scale Venture Partners,Commerce Ventures
+688,Co-Energy Finance,Grandland
+689,Commerce Ventures,Sequoia Capital Israel
+690,Breyer Capital,TPG Growth
+691,Breyer Capital,Institutional Venture Partners
+692,Highland Europe,Spark Capital
+693,Highland Europe,Sunstone Capital
+694,China Investment Corporation,New Enterprise Associates
+695,Elaia Partners,83North
+696,Sky9 Capital,K2VC
+697,Zhiping Capital,Composite Capital Partners
+698,Sequoia Capital,VY Capital
+699,Sequoia Capital,Morningside Venture Capital
+700,Sequoia Capital,General Atlantic
+701,Sequoia Capital,Institutional Venture Partners
+702,Sequoia Capital,Baidu
+703,Sequoia Capital,DST Global
+704,Sequoia Capital,First Round Capital
+705,Sequoia Capital,Wing Venture Capital
+706,Sequoia Capital,Comcast Ventures
+707,Sequoia Capital,Y Combinator
+708,Sequoia Capital,Google Capital
+709,Sequoia Capital,Forerunner Ventures
+710,Sequoia Capital,Eniac Ventures
+711,Sequoia Capital,Kaszek Ventures
+712,Sequoia Capital,NextView Ventures
+713,Sequoia Capital,Tusk Ventures
+714,Sequoia Capital,Wakefield Group
+715,Sequoia Capital,Sozo Ventures
+716,Sequoia Capital,Founder Collective
+717,Sequoia Capital,Accel Partners
+718,Sequoia Capital,Tenaya Capital
+719,Sequoia Capital,New Enterprise Associates
+720,Sequoia Capital,Benchmark
+721,Sequoia Capital,Craft Ventures
+722,Sequoia Capital,Redpoint e.ventures
+723,Sequoia Capital,Softbank Group
+724,5Y Capital,Legend Capital
+725,5Y Capital,Shunwei Capital Partners
+726,Legend Capital,Shunwei Capital Partners
+727,Quadrille Capital,New Enterprise Associates
+728,Quadrille Capital,Global Bridge Capital
+729,Two Sigma Ventures,Promus Ventures
+730,Two Sigma Ventures,NextView Ventures
+731,SoftBankGroup,Sequoia Capital India
+732,Tiger Global Management,Bessemer Venture Partners
+733,Tiger Global Management,capitalG
+734,Tiger Global Management,Matrix Partners India
+735,Tiger Global Management,Ardian
+736,Tiger Global Management,FirstMark Capital
+737,Tiger Global Management,Matrix Partners
+738,Tiger Global Management,Global Asset Capital
+739,Tiger Global Management,Y Combinator
+740,Tiger Global Management,Tao Capital Partners
+741,Tiger Global Management,Softbank Corp.
+742,Tiger Global Management,ICONIQ Capital
+743,Tiger Global Management,KKR
+744,Tiger Global Management,ZhenFund
+745,Tiger Global Management,Data Collective
+746,Tiger Global Management,Shunwei Capital Partners
+747,Tiger Global Management,Blue Lake Capital
+748,Tiger Global Management,Granite Hill Capital Partners
+749,Neuberger Berman,Francisco Partners
+750,Neuberger Berman,K1 Capital
+751,DAG Ventures,Insight Venture Partners
+752,Helion Venture Partners,Bessemer Venture Partners
+753,Granite Hill Capital Partners,Data Collective
+754,Bedrock Capital,Quantum Energy Partners
+755,Expedia Inc.,East Ventures
+756,Expedia Inc.,Global Founders Capital
+757,CITIC Securities International,China Development Bank Capital
+758,and Institutional Venture Partners,Industry Ventures
+759,Seaya Ventures,Otter Rock Capital
+760,Obvious Ventures,Freigeist Capital
+761,Obvious Ventures,Atomico
+762,SAIF Partners China,Baidu
+763,SAIF Partners China,IDG Capital
+764,SAIF Partners China,Green Pine Capital Partners
+765,SAIF Partners China,R-Z Capital
+766,JERA,Goldman Sachs
+767,V Star Capital,Haitong Leading Capital Management
+768,SV Angel,Norwest Venture Partners
+769,SV Angel,Ventures
+770,SV Angel,New Enterprise Associates
+771,SV Angel,Venrock
+772,SV Angel,Section 32
+773,SV Angel,Index
+774,SV Angel,Institutional Venture Partners
+775,SV Angel,RRE Ventures
+776,SV Angel,IA Ventures
+777,Revolution,New Enterprise Associates
+778,Revolution,Caterpillar
+779,Coltrane Asset Management,Toscafund Asset Management
+780,Coltrane Asset Management,Clermont Group
+781,DST Global,Tencent Holdings
+782,DST Global,Insight Partners
+783,DST Global,Temasek Holdings
+784,DST Global,Gaorong Capital
+785,DST Global,Battery Ventures
+786,DST Global,Lightspeed Venture Partners
+787,DST Global,Unbound
+788,DST Global,Moore Strategic Ventures
+789,DST Global,Mountain Nazca
+790,DST Global,Redpoint e.ventures
+791,DST Global,Greenoaks Capital Management
+792,Pitango Venture Capital,RiverPark Ventures
+793,Pitango Venture Capital,83North
+794,Pitango Venture Capital,Magma Venture Partners
+795,Pitango Venture Capital,Amadeus Capital Partners
+796,China Reform Fund,Hillhouse Capital Management
+797,Nintendo,Spark Capital
+798,Vcanbio,Tencent
+799,Bain Capital Ventures,Tribeca Venture Partners
+800,Bain Capital Ventures,Bessemer Venture Partners
+801,Bain Capital Ventures,Kleiner Perkins Caufield & Byers
+802,Bain Capital Ventures,Viola Ventures
+803,Yunfeng Capital,SDIC Innovation Investment Management
+804,Yunfeng Capital,Shang Qi Capital
+805,Core Capital Partners,Battery Ventures
+806,Core Capital Partners,Contour Venture Partners
+807,Northern Light Venture Capital,IDG Capital
+808,Northern Light Venture Capital,DCM Ventures
+809,Sands Capital,Greycroft
+810,Sands Capital,Revolution Growth
+811,Formation 8,General Catalyst Partners
+812,Formation 8,Data Collective
+813,Sina Weibo,Kleiner Perkins Caufield & Byers
+814,Sina Weibo,Redpoint Ventures
+815,Sina Weibo,Softbank Group
+816,Sina Weibo,SIG Asia Investments
+817,Providence Ventures,Venrock
+818,Piton Capital,DN Capital
+819,Songhyun Investment,Bain Capital
+820,Songhyun Investment,Altos Ventures
+821,Batavia Incubator,500 Startups
+822,Batavia Incubator,Emtek Group
+823,ICONIQ Capital,Bessemer Venture Partners
+824,ICONIQ Capital,FirstMark Capital
+825,ICONIQ Capital,Battery Ventures
+826,ICONIQ Capital,Insight Venture Partners
+827,ICONIQ Capital,Susquehanna Growth Equity
+828,ZhenFund,K2 Ventures
+829,ZhenFund,Tencent
+830,ZhenFund,Blue Lake Capital
+831,Elephant Venture Capital,KKR
+832,Structure Capital,Spark Capital
+833,Anthos Capital,Plug and Play Ventures
+834,Anthos Capital,Softbank Group
+835,German Media Pool,Seven Venture Capital
+836,STO Express,SF Holding Co
+837,FANUC,Mizuho Financial Group
+838,General Catalyst Partners,Data Collective
+839,General Catalyst Partners,ENIAC Ventures
+840,General Catalyst Partners,Kleiner Perkins Caufield & Byers
+841,Benchmark,Tencent Holdings
+842,Benchmark,Y Combinator
+843,Benchmark,Institutional Venture Partners
+844,Benchmark,Bessemer Venture Partners
+845,Benchmark,Battery Ventures
+846,Benchmark,Matrix Partners
+847,Summit Partners,KKR
+848,Summit Partners,Astral Capital
+849,QED Investors,Silicon Valley Bank
+850,QED Investors,European Founders Fund
+851,Greenoaks Capital Management,Jackson Square Ventures
+852,Greenoaks Capital Management,Softbank Group
+853,InCube Ventures,VentureHealth
+854,Japan Post Capital,Globis Capital Partners
+855,Japan Post Capital,Atomico
+856,Thrive Capital,Orange Digital Ventures
+857,Thrive Capital,Passion Capital
+858,Thrive Capital,Institutional Venture Partners
+859,Thrive Capital,Forerunner Ventures
+860,Verlinvest,China Resources Holdings
+861,Giza Venture Capital,Insight Venture Partners
+862,Microsoft Ventures,Kleiner Perkins Caufield & Byers
+863,BNP Paribas,Goldman Sachs
+864,Clal Industries and Investments,Access Industries
+865,General Atlantic,Gaorong Capital
+866,General Atlantic,CMC Capital Partners
+867,General Atlantic,Goldman Sachs
+868,General Atlantic,Capital Today
+869,General Atlantic,New Enterprise Associates
+870,General Atlantic,Jackson Square Ventures
+871,General Atlantic,Lightspeed Venture Partners
+872,General Atlantic,Institutional Venture Partners
+873,General Atlantic,Comcast Ventures
+874,General Atlantic,Unternehmertum Venture Capital
+875,General Atlantic,Accel Partners
+876,General Atlantic,Atomico
+877,General Atlantic,Holtzbrinck Ventures
+878,General Atlantic,Silver Lake Partners
+879,General Atlantic,Kaszek Ventures
+880,Warbug Pincus,Tencent Holdings
+881,Warbug Pincus,IDG Capital
+882,Granite Ventures,83North
+883,Spark Capital,Union Square Ventures
+884,Spark Capital,Menlo Ventures
+885,Spark Capital,Sunstone Capital
+886,Spark Capital,Kibo Ventures
+887,Bessemer Venture Partners,Social Capital
+888,Bessemer Venture Partners,O'Connor Ventures
+889,Bessemer Venture Partners,Lockheed Martin
+890,Bessemer Venture Partners,Kleiner Perkins Caufield & Byers
+891,Bessemer Venture Partners,Redpoint Ventures
+892,Bessemer Venture Partners,Matrix Partners
+893,Bessemer Venture Partners,Sutter Hill Ventures
+894,Bessemer Venture Partners,Battery Ventures
+895,Bessemer Venture Partners,Flare Capital Partners
+896,Bessemer Venture Partners,Iconiq Capital
+897,Bessemer Venture Partners,Tribeca Venture Partners
+898,Bessemer Venture Partners,New Enterprise Associates
+899,Bessemer Venture Partners,Trinity Ventures
+900,Toscafund Asset Management,Clermont Group
+901,ES Ventures,KKR
+902,FirstMark Capital,capitalG
+903,FirstMark Capital,Alven Capital
+904,DJF,Salesforce Ventures
+905,DJF,Storm Ventures
+906,Tiger Global management,Tencent
+907,Tiger Global management,Foxconn
+908,Tiger Global management,New Enterprise Associates
+909,Newmark Knight Frank,Norwest Venture Partners
+910,Newmark Knight Frank,Bloomberg Beta
+911,Sutter Hill Ventures,Matrix Partners
+912,Cambridge Innovation Capital,LGT Capital Partners
+913,New Leaf Venture Partners,New Enterprise Associates
+914,Xingwang Investment Management,Sierra Ventures
+915,Hillhouse Capital Management,Shenzhen Capital Group
+916,Hillhouse Capital Management,Morningside Venture Capital
+917,Hillhouse Capital Management,Linear Venture
+918,Vertex Ventures China,Volcanics Ventures
+919,China Minsheng Investment,Wanxin Media
+920,China Minsheng Investment,Baidu
+921,Ventures,Index
+922,Ventures,IA Ventures
+923,Data Collective,Y Combinator
+924,Data Collective,8VC
+925,Data Collective,MassVentures
+926,Data Collective,Lightspeed Venture Partners
+927,Data Collective,True Ventures
+928,Opus Capital,Battery Ventures
+929,Foxconn,Tencent
+930,Bertelsmann Asia Investments,Tencent Holdings
+931,Bertelsmann Asia Investments,Morningside Venture Capital
+932,Kinnevik,Walgreens Boots Alliance
+933,Kinnevik,Vostok New Ventures
+934,Hongxiu VC,BOC International
+935,Hongxiu VC,TopoScend Capital
+936,Yaxia Automobile,Far East Horizon
+937,Rusnano,A&NN
+938,JD.com,Baidu
+939,JD.com,Morningside Ventures
+940,JD.com,Vision Plus Capital
+941,Softbank Group,CapitalG
+942,Softbank Group,AME Cloud Ventures
+943,Softbank Group,Jackson Square Ventures
+944,Softbank Group,SIG Asia Investments
+945,VY Capital,Union Square Ventures
+946,Pritzker Group Venture Capital,Goldman Sachs
+947,True,Novator Partners
+948,Rho Ventures,Matrix Partners
+949,Movile,Naspers
+950,Movile,Just Eat
+951,e.ventures,Greycroft
+952,e.ventures,FinLab
+953,Silicon Valley Bank,European Founders Fund
+954,MasterCard,PayPal Ventures
+955,Matrix Partners,Softbank Corp.
+956,Matrix Partners,Y Combinator
+957,Alaska Permanent Fund,Activant Capital Group
+958,Merrysunny Wealth,Rich Land Capital
+959,Star VC,IDG Capital
+960,Star VC,Infore Capital
+961,and Sequoia Capital China,China Renaissance
+962,MPM Capital,New Enterprise Associates
+963,Francisco Partners,K1 Capital
+964,Propel Venture Partners,Horizons Ventures
+965,Propel Venture Partners,Comcast Ventures
+966,Forerunner Ventures,Comcast Ventures
+967,Forerunner Ventures,Institutional Venture Partners
+968,Forerunner Ventures,Global Founders Capital
+969,Forerunner Ventures,Homebrew
+970,OLX Group,EXOR Seeds
+971,Battery Ventures,New Enterprise Associates
+972,Battery Ventures,Institutional Venture Partners
+973,Battery Ventures,Contour Venture Partners
+974,Advent International,Upper90
+975,Advent International,RiverPark Ventures
+976,Ford Autonomous Vehicles,Volkswagen Group
+977,Relay Ventures,Canapi Ventures
+978,Relay Ventures,TTV Capital
+979,Revolution Growth,Greycroft
+980,FinLab,Greycroft
+981,Hopu Investment Management,Dark Horse Technology Group
+982,Hopu Investment Management,Boyu Capital
+983,Accel India,Norwest Venture Partners
+984,Accel India,SAIF Partners
+985,Accel Partners,Lowercase Capital
+986,Accel Partners,Comcast Ventures
+987,Accel Partners,Insight Venture Partners
+988,Promus Ventures,NextView Ventures
+989,Lightspeed Venture Partners,Viking Global Investors
+990,Lightspeed Venture Partners,Social Capital
+991,Lightspeed Venture Partners,Lowercase Capital
+992,Lightspeed Venture Partners,IDG Capital
+993,Lightspeed Venture Partners,Jackson Square Ventures
+994,Lightspeed Venture Partners,8VC
+995,Lightspeed Venture Partners,Redpoint Ventures
+996,Lightspeed Venture Partners,Geodesic Capital
+997,Lightspeed Venture Partners,Zeev Ventures
+998,Lightspeed Venture Partners,Venture51
+999,Upper90,RiverPark Ventures
+1000,Franklin Square,GSO Capital Partners
+1001,Fifth Wall Ventures,Trinity Ventures
+1002,Index,IA Ventures
+1003,Redpoint e.ventures,Kaszek Ventures
+1004,Founder H Fund,Richland Equities
+1005,Founder H Fund,U.S.-China Green Fund
+1006,Fosun RZ Capital,Oceanwide Holdings
+1007,Access Industries,Orange Digital Ventures
+1008,Access Industries,Vostok New Ventures
+1009,Access Industries,IA Ventures
+1010,True Ventures,Mayfield Fund
+1011,True Ventures,Redpoint Ventures
+1012,Insight Partners,Norwest Venture Partners
+1013,Insight Partners,VebVentures
+1014,Insight Partners,Burda Principal Investments
+1015,Insight Partners,Goldman Sachs
+1016,Insight Partners,ClalTech
+1017,Insight Partners,Entree Capital
+1018,Insight Partners,Viola Ventures
+1019,Insight Partners,TPG Alternative & Renewable Technologies
+1020,TMT Investments,Didi Chuxing_
+1021,TMT Investments,Diamler
+1022,ClalTech,Goldman Sachs
+1023,ClalTech,Viola Ventures
+1024,Section 32,Norwest Venture Partners
+1025,Chiratae Ventures,PremjiInvest
+1026,O'Connor Ventures,Iconiq Capital
+1027,Unternehmertum Venture Capital,Holtzbrinck Ventures
+1028,Info Edge,Softbank Capital
+1029,IA Ventures,Accomplice
+1030,IA Ventures,New Enterprise Associates
+1031,SDIC Innovation Investment Management,Shang Qi Capital
+1032,Borui Capital,Boyu Capital
+1033,Global Catalyst Partnera,Walden Venture Capital
+1034,Global Catalyst Partnera,Tencent Holdings
+1035,Redpoint Ventures,Viking Global Investors
+1036,Redpoint Ventures,Mayfield Fund
+1037,Redpoint Ventures,Kleiner Perkins Caufield & Byers
+1038,Redpoint Ventures,QiMing Venture Partners
+1039,Invesco Perpetual,IP Group
+1040,Invesco Perpetual,Illumina
+1041,Western Capital Management,GP Capital
+1042,Western Capital Management,Zheshang Venture Capital
+1043,Y Combinator,Union Square Ventures
+1044,Y Combinator,Initialized Capital
+1045,Y Combinator,DFJ Growth
+1046,Y Combinator,capitalG
+1047,Y Combinator,Kleiner Perkins Caufield & Byers
+1048,Y Combinator,Atomico
+1049,Y Combinator,MassVentures
+1050,Y Combinator,Matrix Partners India
+1051,Wing Venture Capital,Norwest Venture Partners
+1052,Wing Venture Capital,Next World Capital
+1053,Next World Capital,Norwest Venture Partners
+1054,Tao Capital Partners,Global Asset Capital
+1055,IFC,Ajinomoto
+1056,Baidu Capital,Tencent
+1057,Baidu Capital,Linear Venture
+1058,Tusk Ventures,Craft Ventures
+1059,Passion Capital,Orange Digital Ventures
+1060,Deerfield Management,Connecticut Innovations
+1061,Salesforce Ventures,OMERS Ventures
+1062,Salesforce Ventures,Storm Ventures
+1063,QiMing Venture Partners,Temasek Holdings
+1064,QiMing Venture Partners,Ceyuan Ventures
+1065,Level Equity,NewSpring Holdings
+1066,Level Equity,Riverwood Capital
+1067,Norwest Venture Partners,Bloomberg Beta
+1068,Norwest Venture Partners,Berkshire Partners
+1069,Norwest Venture Partners,Goldman Sachs
+1070,Norwest Venture Partners,SAIF Partners
+1071,Visa,March Capital Partners
+1072,Visa,Temasek Holdings
+1073,Naspers,Just Eat
+1074,Volkswagen Group,Goldman Sachs
+1075,Baseline Ventures,DCM Ventures
+1076,Baseline Ventures,Institutional Venture Partners
+1077,K2VC,Source Code Capital
+1078,01 Advisors,Zeev Ventures
+1079,01 Advisors,Group 11
+1080,Morningside Group,Tencent
+1081,Xiang He Capital,MindWorks Ventures
+1082,Xiang He Capital,Shunwei Capital Partners
+1083,Morningside Venture Capital,Linear Venture
+1084,Morningside Venture Capital,DCM Ventures
+1085,Morningside Venture Capital,Baidu
+1086,Morningside Venture Capital,IDG Capital
+1087,Madrona Venture Group,Kleiner Perkins Caufield & Byers
+1088,Infore Capital,IDG Capital
+1089,Institutional Venture Partners,Foundation Capital
+1090,Institutional Venture Partners,Goldman Sachs
+1091,Institutional Venture Partners,Northzone Ventures
+1092,Institutional Venture Partners,Venrock
+1093,Institutional Venture Partners,DCM Ventures
+1094,Genral Atlantic,Addition
+1095,capitalG,Union Square Ventures
+1096,capitalG,Earlybrid Venture Capital
+1097,capitalG,New Enterprise Associates
+1098,capitalG,Alven Capital
+1099,Emtek Group,500 Startups
+1100,Green Pine Capital Partners,IDG Capital
+1101,Green Pine Capital Partners,R-Z Capital
+1102,Green Pine Capital Partners,V FUND
+1103,V FUND,IDG Capital
+1104,JOY Capital,Morningside Ventures
+1105,JOY Capital,Capital Today
+1106,DFJ Growth,Union Square Ventures
+1107,Mayfield Fund,Trinity Ventures
+1108,Mayfield Fund,M12
+1109,Mayfield Fund,NextView Ventures
+1110,TopoScend Capital,BOC International
+1111,Octopus Ventures,dmg ventures
+1112,Flare Capital Partners,New Enterprise Associates
+1113,VebVentures,Goldman Sachs
+1114,RiverPark Ventures,83North
+1115,Kite Ventures,Scentan Ventures
+1116,Kite Ventures,Notion Capital
+1117,Partners Investment,SBI Investment Korea
+1118,Partners Investment,GIC
+1119,Bain Capital,Altos Ventures
+1120,M12,Trinity Ventures
+1121,Yinxinggu Capital,China Everbright Investment Management
+1122,Tus Holdings,Tencent Holdings
+1123,Horizons Ventures,Temasek Holdings
+1124,Horizons Ventures,Comcast Ventures
+1125,Tencent,Linear Venture
+1126,Tencent,New Enterprise Associates
+1127,Tencent,Baidu
+1128,Tencent,Huasheng Capital
+1129,Zheshang Venture Capital,GP Capital
+1130,Richland Equities,U.S.-China Green Fund
+1131,Insight Venture Partners,Lowercase Capital
+1132,Insight Venture Partners,TPG Growth
+1133,Insight Venture Partners,Sound Ventures
+1134,Wanxin Media,Baidu
+1135,Lightspeed India Partners,Sequoia Capital India
+1136,Lightspeed India Partners,Tencent Holdings
+1137,DN Capital,Threshold Ventures
+1138,Moore Strategic Ventures,Unbound
+1139,Tokyo Century Corporation,Grab_
+1140,Atlos Ventures,First Round Capital
+1141,Venture51,IDG Capital
+1142,First Round Capital,Bloomberg Beta
+1143,Linear Venture,IDG Capital
+1144,Altos Ventures,Union Square Ventures
+1145,KKR,Tencent Holdings
+1146,KKR,Goldman Sachs
+1147,KKR,Ardian
+1148,Venrock,Goldman Sachs
+1149,Huasheng Capital,Baidu
+1150,Alven Capital,Global Founders Capital
+1151,Valar Ventures,Earlybird Venture Capital
+1152,Steadview Capital,Tencent Holdings
+1153,Accomplice,New Enterprise Associates
+1154,Propulsion Ventures,BDC Venture Capital
+1155,Propulsion Ventures,Fonds de Solidarite FTQ
+1156,Koch Disruptive Technologies,York Capital Management
+1157,Koch Disruptive Technologies,GE Healthcare
+1158,Capital Today,Morningside Ventures
+1159,SBI Investment Korea,GIC
+1160,TPG Growth,Temasek Holdings
+1161,TPG Growth,Goldman Sachs
+1162,TPG Growth,Sound Ventures
+1163,Tianjin Haihe Industry Fund,Phoenix New Media
+1164,York Capital Management,GE Healthcare
+1165,Caterpillar,New Enterprise Associates
+1166,Aviation Industry Corporation of China,Essence Financial
+1167,Notion Capital,Scentan Ventures
+1168,Source Code Capital,Tencent Holdings
+1169,Source Code Capital,Meituan Dianping
+1170,East Ventures,Global Founders Capital
+1171,American Express Ventures,Kleiner Perkins Caufield & Byers
+1172,Comcast Ventures,New Enterprise Associates
+1173,Comcast Ventures,Global Founders Capital
+1174,Illumina,IP Group
+1175,Learn Capital,New Enterprise Associates
+1176,Learn Capital,GSV Capital
+1177,Learn Capital,Kleiner Perkins Caufield & Byers
+1178,Susquehanna Growth Equity,83North
+1179,China Media Group,Guangzhou Huiyin Aofeng Equity Investment Fund
+1180,China Media Group,Shunwei Capital Partners
+1181,Tiantu Capital Co.,Advantech Capital
+1182,Promecap,Goldman Sachs
+1183,Diamler,Didi Chuxing_
+1184,Unilever Ventures,BGF Ventures
+1185,Addition,Benhcmark
+1186,Ceyuan Ventures,Temasek Holdings
+1187,Vision Plus Capital,Baidu
+1188,Meituan Dianping,Tencent Holdings
+1189,Global Bridge Capital,New Enterprise Associates
+1190,RRE Ventures,New Enterprise Associates
+1191,Stonebridge Capital,Tencent Holdings
+1192,Eniac Ventures,NextView Ventures
+1193,Guangzhou Huiyin Aofeng Equity Investment Fund,Shunwei Capital Partners
+1194,Temasek Holdings,March Capital Partners
+1195,Matrix Partners China,Shenzhen Capital Group
+1196,Matrix Partners China,K2 Ventures
+1197,Matrix Partners China,Goldman Sachs
+1198,Matrix Partners China,Bright Venture Capita
+1199,Matrix Partners China,IDG Capital
+1200,Matrix Partners China,58.com
+1201,Blume Ventures,Sequoia Capital India
+1202,Mayfair Equity Partners,Mitsubishi Corporation
+1203,MindWorks Ventures,Shunwei Capital Partners
+1204,CMC Capital Partners,Gaorong Capital
+1205,Riverwood Capital,NewSpring Holdings
+1206,TTV Capital,Canapi Ventures
+1207,China Everbright Limited,IDG Capital
+1208,Sequoia Capital India,Tencent Holdings
+1209,Freigeist Capital,Atomico
+1210,Sherpalo Ventures,Softbank Corp.
+1211,Sherpalo Ventures,Kleiner Perkins Caufield & Byers
+1212,Viola Ventures,Goldman Sachs
+1213,Union Square Ventures,Menlo Ventures
+1214,Union Square Ventures,New Enterprise Associates
+1215,Atomico,Globis Capital Partners
+1216,GSV Capital,New Enterprise Associates
+1217,GSV Capital,Kleiner Perkins Caufield & Byers
+1218,Tencent Holdings,Baidu
+1219,Tencent Holdings,IDG Capital
+1220,Tencent Holdings,Gaorong Capital
+1221,Tencent Holdings,Walden Venture Capital
+1222,Tencent Holdings,Goldman Sachs
+1223,Tencent Holdings,DCM Ventures
+1224,Tencent Holdings,58.com
+1225,T. Rowe Associates,New Enterprise Associates
+1226,K2 Ventures,IDG Capital
+1227,Softbank Corp.,Kleiner Perkins Caufield & Byers
+1228,Goldman Sachs,New Enterprise Associates
+1229,Zeev Ventures,Group 11
+1230,One Luxury Group,Eurazeo
+1231,Shenzhen Capital Group,Bright Venture Capita
+1232,Initialized Capital,Kleiner Perkins Caufield & Byers
+1233,DCM Ventures,RPM Ventures
+1234,DCM Ventures,IDG Capital
+1235,Baidu,IDG Capital
+1236,Kleiner Perkins Caufield & Byers,New Enterprise Associates
+1237,IDG Capital,Gaorong Capital
+1238,IDG Capital,Bitmain Technologies_
+1239,Fonds de Solidarite FTQ,BDC Venture Capital
