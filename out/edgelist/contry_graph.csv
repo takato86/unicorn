@@ -1,127 +1,127 @@
 ,source,target,weight
 0,Australia,Australia,1
-1,Australia,China,47
-2,Australia,France,1
-3,Australia,Hong Kong,1
-4,Australia,United Kingdom,1
-5,Australia,United States,10
-6,Australia,Colombia,1
-7,Australia,India,4
-8,Australia,Mexico,1
-9,Australia,South Korea,1
-10,China,Brazil,2
+1,Australia,China,29
+2,Australia,Colombia,1
+3,Australia,France,1
+4,Australia,Hong Kong,4
+5,Australia,India,2
+6,Australia,Mexico,1
+7,Australia,South Korea,1
+8,Australia,United Kingdom,1
+9,Australia,United States,7
+10,China,Brazil,4
 11,China,China,582
-12,China,Colombia,2
-13,China,France,3
-14,China,Germany,1
-15,China,Hong Kong,8
-16,China,India,58
-17,China,Indonesia,5
-18,China,Israel,2
-19,China,Japan,10
-20,China,Singapore,1
-21,China,South Korea,17
-22,China,Sweden,2
-23,China,Switzerland,1
-24,China,United Kingdom,10
-25,China,United States,164
-26,China,Mexico,2
-27,China,Portugal,2
-28,France,Hong Kong,1
-29,France,India,3
-30,France,Israel,2
-31,France,United Kingdom,3
-32,France,United States,31
-33,France,Germany,2
-34,France,Indonesia,1
-35,France,Lithuania,1
-36,France,Netherlands,1
-37,France,Portugal,1
-38,France,South Korea,2
-39,France,Sweden,1
-40,France,Switzerland,1
-41,Hong Kong,Hong Kong,1
-42,Hong Kong,United States,7
-43,Hong Kong,India,1
-44,Hong Kong,Israel,1
-45,Hong Kong,South Korea,1
-46,Hong Kong,Sweden,1
-47,Hong Kong,Switzerland,1
-48,United Kingdom,Brazil,1
-49,United Kingdom,Colombia,1
-50,United Kingdom,Germany,2
-51,United Kingdom,India,5
-52,United Kingdom,Israel,2
-53,United Kingdom,Mexico,4
-54,United Kingdom,Portugal,1
-55,United Kingdom,Sweden,1
-56,United Kingdom,Lithuania,2
-57,United Kingdom,Netherlands,1
-58,United Kingdom,Switzerland,1
-59,United Kingdom,United Kingdom,6
-60,United Kingdom,United States,69
-61,United States,Brazil,36
-62,United States,Colombia,8
-63,United States,Germany,47
-64,United States,India,92
-65,United States,Israel,15
-66,United States,Japan,10
-67,United States,Lithuania,11
-68,United States,Mexico,1
-69,United States,Netherlands,12
-70,United States,Portugal,4
-71,United States,Singapore,6
-72,United States,South Korea,23
-73,United States,Sweden,17
-74,United States,Switzerland,5
-75,United States,Canada,1
-76,United States,Indonesia,3
-77,United States,United States,1364
-78,United States,Uruguay,1
-79,Brazil,Brazil,1
-80,Brazil,Germany,3
-81,Brazil,India,4
-82,Brazil,Sweden,1
-83,Brazil,Colombia,2
-84,Brazil,Japan,1
-85,Brazil,Mexico,1
-86,Brazil,South Korea,4
-87,Germany,Germany,1
-88,Germany,India,4
-89,Germany,Lithuania,1
-90,Germany,Netherlands,1
-91,Germany,Spain,1
-92,Germany,Japan,1
-93,Germany,Mexico,1
-94,Germany,Sweden,2
-95,India,Colombia,1
-96,India,India,27
-97,India,Indonesia,5
-98,India,Israel,2
-99,India,Mexico,7
-100,India,South Korea,7
-101,India,Sweden,2
-102,India,Japan,2
-103,India,Netherlands,1
-104,India,Switzerland,1
-105,Sweden,Colombia,1
-106,Sweden,Israel,1
-107,Sweden,South Korea,1
-108,Sweden,Japan,1
-109,Sweden,Switzerland,1
-110,Colombia,Japan,1
-111,Colombia,South Korea,1
-112,Colombia,Mexico,1
-113,Indonesia,Indonesia,1
-114,Indonesia,Philippines,1
-115,Israel,Israel,2
-116,Israel,Lithuania,1
-117,Israel,South Korea,1
-118,Israel,Switzerland,2
+12,China,Colombia,1
+13,China,France,6
+14,China,Germany,5
+15,China,Hong Kong,14
+16,China,India,45
+17,China,Indonesia,3
+18,China,Japan,15
+19,China,Mexico,2
+20,China,Singapore,2
+21,China,South Korea,7
+22,China,Sweden,5
+23,China,United Kingdom,9
+24,China,United States,116
+25,China,Israel,2
+26,China,Portugal,2
+27,China,Switzerland,1
+28,Colombia,Brazil,1
+29,Colombia,India,2
+30,Colombia,Mexico,1
+31,Colombia,South Korea,1
+32,Colombia,Sweden,1
+33,Colombia,United Kingdom,2
+34,Colombia,United States,22
+35,Colombia,Japan,1
+36,France,Hong Kong,1
+37,France,Indonesia,1
+38,France,Lithuania,1
+39,France,South Korea,1
+40,France,Sweden,1
+41,France,United Kingdom,2
+42,France,United States,28
+43,France,Germany,2
+44,France,India,4
+45,France,Israel,3
+46,France,Netherlands,1
+47,France,Portugal,1
+48,France,Switzerland,1
+49,Hong Kong,Hong Kong,1
+50,Hong Kong,Sweden,1
+51,Hong Kong,United States,7
+52,Hong Kong,India,1
+53,Hong Kong,Israel,1
+54,Hong Kong,South Korea,1
+55,Hong Kong,Switzerland,1
+56,India,Brazil,5
+57,India,Germany,4
+58,India,India,27
+59,India,Indonesia,2
+60,India,Israel,1
+61,India,Mexico,2
+62,India,South Korea,3
+63,India,Sweden,3
+64,India,United Kingdom,9
+65,India,United States,74
+66,India,Japan,2
+67,India,Netherlands,1
+68,India,Switzerland,1
+69,Mexico,Brazil,1
+70,Mexico,Germany,1
+71,Mexico,United Kingdom,3
+72,Mexico,United States,4
+73,South Korea,Brazil,1
+74,South Korea,Japan,2
+75,South Korea,Israel,1
+76,South Korea,South Korea,2
+77,South Korea,Sweden,1
+78,South Korea,Switzerland,1
+79,South Korea,United States,46
+80,United Kingdom,Brazil,4
+81,United Kingdom,Germany,1
+82,United Kingdom,Israel,1
+83,United Kingdom,Lithuania,1
+84,United Kingdom,Netherlands,1
+85,United Kingdom,Portugal,1
+86,United Kingdom,Sweden,2
+87,United Kingdom,Switzerland,1
+88,United Kingdom,United Kingdom,6
+89,United Kingdom,United States,74
+90,United States,Brazil,32
+91,United States,Canada,1
+92,United States,Germany,22
+93,United States,Indonesia,2
+94,United States,Israel,19
+95,United States,Japan,2
+96,United States,Lithuania,7
+97,United States,Netherlands,4
+98,United States,Portugal,4
+99,United States,Singapore,6
+100,United States,Sweden,30
+101,United States,Switzerland,5
+102,United States,United States,1364
+103,United States,Uruguay,1
+104,Brazil,Brazil,1
+105,Brazil,Germany,1
+106,Brazil,Sweden,2
+107,Brazil,Japan,1
+108,Germany,Germany,1
+109,Germany,Lithuania,1
+110,Germany,Spain,1
+111,Germany,Sweden,2
+112,Germany,Japan,1
+113,Germany,Netherlands,2
+114,Sweden,Israel,1
+115,Sweden,Japan,1
+116,Sweden,Switzerland,1
+117,Indonesia,Indonesia,1
+118,Indonesia,Philippines,1
 119,Japan,Netherlands,1
-120,Japan,South Korea,1
-121,South Korea,South Korea,2
-122,South Korea,Switzerland,1
-123,Switzerland,Lithuania,1
-124,Lithuania,Netherlands,1
-125,Spain,Spain,1
+120,Lithuania,Israel,2
+121,Lithuania,Netherlands,1
+122,Lithuania,Switzerland,1
+123,Spain,Spain,1
+124,Israel,Israel,2
+125,Israel,Switzerland,1
