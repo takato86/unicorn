@@ -1,21 +1,21 @@
-                      OLS Regression Results                     
-Dep. Variable:   ,y               ,  R-squared:         ,   0.068
-Model:           ,OLS             ,  Adj. R-squared:    ,   0.064
-Method:          ,Least Squares   ,  F-statistic:       ,   15.37
-Date:            ,Fri, 16 Apr 2021,  Prob (F-statistic):,3.62e-07
-Time:            ,18:38:56        ,  Log-Likelihood:    , -583.85
-No. Observations:,   422          ,  AIC:               ,   1174.
-Df Residuals:    ,   419          ,  BIC:               ,   1186.
-Df Model:        ,     2          ,                     ,        
-Covariance Type: ,nonrobust       ,                     ,        
-     ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
-const,-8.489e-17,    0.047, -1.8e-15, 1.000,   -0.093,    0.093
-x1   ,    0.0990,    0.070,    1.411, 0.159,   -0.039,    0.237
-x2   ,    0.1795,    0.070,    2.559, 0.011,    0.042,    0.317
-Omnibus:      ,792.858,  Durbin-Watson:     ,   1.989  
-Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,600407.050
-Skew:         ,12.009 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,186.220,  Cond. No.          ,    2.59  
+                        OLS Regression Results                        
+Dep. Variable:   ,Valuation($B) flaot_x,  R-squared:         ,   0.068
+Model:           ,OLS                  ,  Adj. R-squared:    ,   0.064
+Method:          ,Least Squares        ,  F-statistic:       ,   15.33
+Date:            ,Fri, 16 Apr 2021     ,  Prob (F-statistic):,3.74e-07
+Time:            ,20:25:00             ,  Log-Likelihood:    , -583.89
+No. Observations:,   422               ,  AIC:               ,   1174.
+Df Residuals:    ,   419               ,  BIC:               ,   1186.
+Df Model:        ,     2               ,                     ,        
+Covariance Type: ,nonrobust            ,                     ,        
+                     ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+const                ,-9.964e-17,    0.047,-2.11e-15, 1.000,   -0.093,    0.093
+Out-degree Centrality,    0.1016,    0.070,    1.458, 0.146,   -0.035,    0.239
+Expansion            ,    0.1772,    0.070,    2.543, 0.011,    0.040,    0.314
+Omnibus:      ,792.635,  Durbin-Watson:     ,   1.897  
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,599315.902
+Skew:         ,12.003 ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,186.052,  Cond. No.          ,    2.57  
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

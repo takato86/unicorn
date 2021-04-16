@@ -1,130 +1,130 @@
 ,source,target,weight
 0,Artificial intelligence,Artificial intelligence,20
 1,Artificial intelligence,Auto & transportation,12
-2,Artificial intelligence,Consumer & retail,6
-3,Artificial intelligence,Cybersecurity,10
-4,Artificial intelligence,Data management & analytics,19
-5,Artificial intelligence,E-commerce & direct-to-consumer,45
-6,Artificial intelligence,Edtech,16
-7,Artificial intelligence,Education,3
-8,Artificial intelligence,Fintech,38
-9,Artificial intelligence,Hardware,18
-10,Artificial intelligence,Health,23
-11,Artificial intelligence,Internet software & services,56
-12,Artificial intelligence,Mobile & telecommunications,19
-13,Artificial intelligence,Other,29
-14,Artificial intelligence,"Supply chain, logistics, & delivery",18
-15,Artificial intelligence,Travel,11
+2,Artificial intelligence,Consumer & retail,8
+3,Artificial intelligence,Cybersecurity,8
+4,Artificial intelligence,Data management & analytics,16
+5,Artificial intelligence,E-commerce & direct-to-consumer,69
+6,Artificial intelligence,Edtech,31
+7,Artificial intelligence,Fintech,38
+8,Artificial intelligence,Hardware,22
+9,Artificial intelligence,Health,18
+10,Artificial intelligence,Internet software & services,58
+11,Artificial intelligence,Mobile & telecommunications,24
+12,Artificial intelligence,Other,24
+13,Artificial intelligence,"Supply chain, logistics, & delivery",16
+14,Artificial intelligence,Travel,14
+15,Artificial intelligence,Education,4
 16,Auto & transportation,Auto & transportation,12
 17,Auto & transportation,Consumer & retail,3
-18,Auto & transportation,Cybersecurity,11
-19,Auto & transportation,Data management & analytics,16
-20,Auto & transportation,E-commerce & direct-to-consumer,24
-21,Auto & transportation,Edtech,2
-22,Auto & transportation,Fintech,17
+18,Auto & transportation,Cybersecurity,6
+19,Auto & transportation,Data management & analytics,17
+20,Auto & transportation,E-commerce & direct-to-consumer,36
+21,Auto & transportation,Edtech,10
+22,Auto & transportation,Fintech,25
 23,Auto & transportation,Hardware,9
-24,Auto & transportation,Health,5
-25,Auto & transportation,Internet software & services,35
-26,Auto & transportation,Mobile & telecommunications,9
-27,Auto & transportation,Other,12
+24,Auto & transportation,Health,6
+25,Auto & transportation,Internet software & services,34
+26,Auto & transportation,Mobile & telecommunications,12
+27,Auto & transportation,Other,13
 28,Auto & transportation,"Supply chain, logistics, & delivery",12
-29,Auto & transportation,Travel,6
+29,Auto & transportation,Travel,10
 30,Consumer & retail,Consumer & retail,2
-31,Consumer & retail,Cybersecurity,1
-32,Consumer & retail,Data management & analytics,1
+31,Consumer & retail,Cybersecurity,2
+32,Consumer & retail,Data management & analytics,3
 33,Consumer & retail,E-commerce & direct-to-consumer,6
-34,Consumer & retail,Edtech,2
-35,Consumer & retail,Fintech,12
-36,Consumer & retail,Hardware,3
-37,Consumer & retail,Health,8
-38,Consumer & retail,Internet software & services,8
-39,Consumer & retail,Mobile & telecommunications,1
-40,Consumer & retail,Other,5
-41,Consumer & retail,"Supply chain, logistics, & delivery",4
+34,Consumer & retail,Edtech,5
+35,Consumer & retail,Fintech,13
+36,Consumer & retail,Hardware,2
+37,Consumer & retail,Health,5
+38,Consumer & retail,Internet software & services,9
+39,Consumer & retail,Other,7
+40,Consumer & retail,"Supply chain, logistics, & delivery",10
+41,Consumer & retail,Mobile & telecommunications,3
 42,Cybersecurity,Cybersecurity,5
-43,Cybersecurity,Data management & analytics,9
-44,Cybersecurity,E-commerce & direct-to-consumer,13
+43,Cybersecurity,Data management & analytics,11
+44,Cybersecurity,E-commerce & direct-to-consumer,14
 45,Cybersecurity,Edtech,1
-46,Cybersecurity,Fintech,20
-47,Cybersecurity,Hardware,3
-48,Cybersecurity,Health,9
-49,Cybersecurity,Internet software & services,25
+46,Cybersecurity,Fintech,19
+47,Cybersecurity,Hardware,4
+48,Cybersecurity,Health,8
+49,Cybersecurity,Internet software & services,29
 50,Cybersecurity,Mobile & telecommunications,10
 51,Cybersecurity,Other,8
-52,Cybersecurity,"Supply chain, logistics, & delivery",4
+52,Cybersecurity,"Supply chain, logistics, & delivery",8
 53,Cybersecurity,Travel,5
 54,Data management & analytics,Data management & analytics,21
-55,Data management & analytics,E-commerce & direct-to-consumer,23
-56,Data management & analytics,Edtech,2
-57,Data management & analytics,Education,2
-58,Data management & analytics,Fintech,21
-59,Data management & analytics,Hardware,7
-60,Data management & analytics,Health,11
-61,Data management & analytics,Internet software & services,48
-62,Data management & analytics,Mobile & telecommunications,11
-63,Data management & analytics,Other,13
-64,Data management & analytics,"Supply chain, logistics, & delivery",15
-65,Data management & analytics,Travel,5
+55,Data management & analytics,E-commerce & direct-to-consumer,31
+56,Data management & analytics,Edtech,7
+57,Data management & analytics,Fintech,20
+58,Data management & analytics,Hardware,16
+59,Data management & analytics,Health,12
+60,Data management & analytics,Internet software & services,43
+61,Data management & analytics,Mobile & telecommunications,17
+62,Data management & analytics,Other,16
+63,Data management & analytics,"Supply chain, logistics, & delivery",14
+64,Data management & analytics,Travel,14
+65,Data management & analytics,Education,2
 66,E-commerce & direct-to-consumer,E-commerce & direct-to-consumer,81
-67,E-commerce & direct-to-consumer,Edtech,30
+67,E-commerce & direct-to-consumer,Edtech,27
 68,E-commerce & direct-to-consumer,Education,1
-69,E-commerce & direct-to-consumer,Fintech,66
-70,E-commerce & direct-to-consumer,Hardware,37
-71,E-commerce & direct-to-consumer,Health,13
-72,E-commerce & direct-to-consumer,Internet software & services,53
-73,E-commerce & direct-to-consumer,Mobile & telecommunications,44
-74,E-commerce & direct-to-consumer,Other,23
-75,E-commerce & direct-to-consumer,"Supply chain, logistics, & delivery",35
-76,E-commerce & direct-to-consumer,Travel,21
+69,E-commerce & direct-to-consumer,Fintech,60
+70,E-commerce & direct-to-consumer,Hardware,28
+71,E-commerce & direct-to-consumer,Health,15
+72,E-commerce & direct-to-consumer,Internet software & services,61
+73,E-commerce & direct-to-consumer,Mobile & telecommunications,37
+74,E-commerce & direct-to-consumer,Other,27
+75,E-commerce & direct-to-consumer,"Supply chain, logistics, & delivery",25
+76,E-commerce & direct-to-consumer,Travel,16
 77,Edtech,Edtech,14
-78,Edtech,Fintech,32
-79,Edtech,Hardware,16
-80,Edtech,Health,6
-81,Edtech,Internet software & services,19
-82,Edtech,Mobile & telecommunications,16
-83,Edtech,Other,12
-84,Edtech,"Supply chain, logistics, & delivery",11
-85,Edtech,Travel,6
-86,Edtech,Education,2
-87,Education,Fintech,3
-88,Education,Health,2
-89,Education,Internet software & services,3
-90,Education,Travel,1
-91,Education,Mobile & telecommunications,1
-92,Education,"Supply chain, logistics, & delivery",1
-93,Fintech,Fintech,68
-94,Fintech,Hardware,19
-95,Fintech,Health,16
-96,Fintech,Internet software & services,71
-97,Fintech,Mobile & telecommunications,30
-98,Fintech,Other,26
-99,Fintech,"Supply chain, logistics, & delivery",26
-100,Fintech,Travel,10
-101,Hardware,Hardware,8
-102,Hardware,Health,5
-103,Hardware,Internet software & services,13
-104,Hardware,Mobile & telecommunications,11
-105,Hardware,Other,12
-106,Hardware,"Supply chain, logistics, & delivery",8
-107,Hardware,Travel,5
-108,Health,Health,15
-109,Health,Internet software & services,21
-110,Health,Mobile & telecommunications,6
-111,Health,Other,13
-112,Health,"Supply chain, logistics, & delivery",10
-113,Health,Travel,4
-114,Internet software & services,Internet software & services,85
-115,Internet software & services,Mobile & telecommunications,24
-116,Internet software & services,Other,34
-117,Internet software & services,"Supply chain, logistics, & delivery",31
-118,Internet software & services,Travel,9
-119,Mobile & telecommunications,Mobile & telecommunications,10
-120,Mobile & telecommunications,Other,8
-121,Mobile & telecommunications,"Supply chain, logistics, & delivery",6
-122,Mobile & telecommunications,Travel,6
-123,Other,Other,24
-124,Other,"Supply chain, logistics, & delivery",10
-125,Other,Travel,9
-126,"Supply chain, logistics, & delivery","Supply chain, logistics, & delivery",12
-127,"Supply chain, logistics, & delivery",Travel,6
+78,Edtech,Education,1
+79,Edtech,Fintech,15
+80,Edtech,Hardware,9
+81,Edtech,Health,9
+82,Edtech,Internet software & services,12
+83,Edtech,Mobile & telecommunications,12
+84,Edtech,Other,6
+85,Edtech,"Supply chain, logistics, & delivery",8
+86,Edtech,Travel,3
+87,Fintech,Education,6
+88,Fintech,Fintech,68
+89,Fintech,Hardware,24
+90,Fintech,Health,19
+91,Fintech,Internet software & services,71
+92,Fintech,Mobile & telecommunications,31
+93,Fintech,Other,23
+94,Fintech,"Supply chain, logistics, & delivery",29
+95,Fintech,Travel,15
+96,Hardware,Hardware,8
+97,Hardware,Health,1
+98,Hardware,Internet software & services,10
+99,Hardware,Mobile & telecommunications,15
+100,Hardware,Other,4
+101,Hardware,"Supply chain, logistics, & delivery",5
+102,Hardware,Travel,3
+103,Health,Education,5
+104,Health,Health,15
+105,Health,Internet software & services,33
+106,Health,Mobile & telecommunications,11
+107,Health,Other,13
+108,Health,"Supply chain, logistics, & delivery",10
+109,Health,Travel,7
+110,Internet software & services,Education,2
+111,Internet software & services,Internet software & services,85
+112,Internet software & services,Mobile & telecommunications,31
+113,Internet software & services,Other,25
+114,Internet software & services,"Supply chain, logistics, & delivery",38
+115,Internet software & services,Travel,12
+116,Mobile & telecommunications,Education,1
+117,Mobile & telecommunications,Mobile & telecommunications,10
+118,Mobile & telecommunications,Other,3
+119,Mobile & telecommunications,"Supply chain, logistics, & delivery",6
+120,Mobile & telecommunications,Travel,3
+121,Other,Other,24
+122,Other,"Supply chain, logistics, & delivery",11
+123,Other,Travel,6
+124,"Supply chain, logistics, & delivery",Education,1
+125,"Supply chain, logistics, & delivery","Supply chain, logistics, & delivery",12
+126,"Supply chain, logistics, & delivery",Travel,6
+127,Travel,Education,1
 128,Travel,Travel,3
