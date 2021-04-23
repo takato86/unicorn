@@ -1,22 +1,22 @@
                         OLS Regression Results                       
-Dep. Variable:   ,Total valuation($B),  R-squared:         ,   0.535 
-Model:           ,OLS                ,  Adj. R-squared:    ,   0.533 
-Method:          ,Least Squares      ,  F-statistic:       ,   257.8 
-Date:            ,Mon, 19 Apr 2021   ,  Prob (F-statistic):,2.88e-111
-Time:            ,10:32:21           ,  Log-Likelihood:    , -699.00 
-No. Observations:,   675             ,  AIC:               ,   1406. 
-Df Residuals:    ,   671             ,  BIC:               ,   1424. 
+Dep. Variable:   ,Total valuation($B),  R-squared:         ,   0.525 
+Model:           ,OLS                ,  Adj. R-squared:    ,   0.523 
+Method:          ,Least Squares      ,  F-statistic:       ,   247.2 
+Date:            ,Fri, 23 Apr 2021   ,  Prob (F-statistic):,5.22e-108
+Time:            ,18:57:34           ,  Log-Likelihood:    , -706.56 
+No. Observations:,   675             ,  AIC:               ,   1421. 
+Df Residuals:    ,   671             ,  BIC:               ,   1439. 
 Df Model:        ,     3             ,                     ,         
 Covariance Type: ,nonrobust          ,                     ,         
                       ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
-const                 , 3.036e-17,    0.026, 1.15e-15, 1.000,   -0.052,    0.052
-Betweenness Centrality,    0.1472,    0.045,    3.256, 0.001,    0.058,    0.236
-Expansion             ,    0.1864,    0.032,    5.856, 0.000,    0.124,    0.249
-#unicorns             ,    0.4877,    0.050,    9.840, 0.000,    0.390,    0.585
-Omnibus:      ,946.146,  Durbin-Watson:     ,   1.528  
-Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,197389.635
-Skew:         , 7.505 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,85.420 ,  Cond. No.          ,    3.61  
+const                 , 7.091e-17,    0.027, 2.66e-15, 1.000,   -0.052,    0.052
+Betweenness Centrality,    0.1220,    0.046,    2.639, 0.009,    0.031,    0.213
+Expansion             ,    0.1456,    0.032,    4.550, 0.000,    0.083,    0.208
+#unicorns             ,    0.5313,    0.050,   10.585, 0.000,    0.433,    0.630
+Omnibus:      ,945.684,  Durbin-Watson:     ,   1.471  
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,188211.115
+Skew:         , 7.523 ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,83.409 ,  Cond. No.          ,    3.63  
 
 Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
