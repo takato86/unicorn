@@ -1,178 +1,178 @@
-,source,target,weight
-0,Australia,Australia,1
-1,Australia,China,18
-2,Australia,France,1
-3,Australia,Hong Kong,1
-4,Australia,India,2
-5,Australia,Mexico,1
-6,Australia,United Kingdom,1
-7,Australia,United States,5
-8,Brazil,Brazil,1
-9,Brazil,China,1
-10,Brazil,Colombia,1
-11,Brazil,India,2
-12,Brazil,Japan,1
-13,Brazil,Mexico,1
-14,Brazil,South Korea,1
-15,Brazil,United Kingdom,1
-16,Brazil,United States,16
-17,Canada,United States,1
-18,China,Australia,39
-19,China,Brazil,4
-20,China,China,582
-21,China,Colombia,3
-22,China,France,15
-23,China,Germany,4
-24,China,Hong Kong,29
-25,China,India,48
-26,China,Indonesia,3
-27,China,Israel,1
-28,China,Japan,13
-29,China,Mexico,2
-30,China,Portugal,2
-31,China,Singapore,2
-32,China,South Korea,13
-33,China,Sweden,1
-34,China,Switzerland,1
-35,China,United Kingdom,13
-36,China,United States,216
-37,Colombia,Australia,1
-38,Colombia,Brazil,1
-39,Colombia,China,1
-40,Colombia,India,2
-41,Colombia,Japan,1
-42,Colombia,Mexico,1
-43,Colombia,South Korea,1
-44,Colombia,United Kingdom,1
-45,Colombia,United States,20
-46,France,China,2
-47,France,Lithuania,1
-48,France,Netherlands,1
-49,France,Portugal,1
-50,France,United Kingdom,4
-51,France,United States,26
-52,Germany,Brazil,3
-53,Germany,China,3
-54,Germany,France,2
-55,Germany,Germany,1
-56,Germany,India,5
-57,Germany,Lithuania,1
-58,Germany,Mexico,1
-59,Germany,Netherlands,2
-60,Germany,Spain,1
-61,Germany,United Kingdom,6
-62,Germany,United States,38
-63,Hong Kong,Australia,3
-64,Hong Kong,China,26
-65,Hong Kong,France,1
-66,Hong Kong,Hong Kong,1
-67,Hong Kong,Israel,1
-68,Hong Kong,South Korea,1
-69,Hong Kong,Sweden,1
-70,Hong Kong,Switzerland,1
-71,Hong Kong,United States,2
-72,India,Australia,2
-73,India,Brazil,7
-74,India,China,31
-75,India,Colombia,2
-76,India,France,4
-77,India,Germany,1
-78,India,Hong Kong,1
-79,India,India,27
-80,India,Indonesia,2
-81,India,Israel,2
-82,India,Japan,2
-83,India,Mexico,7
-84,India,South Korea,5
-85,India,Sweden,1
-86,India,Switzerland,1
-87,India,United Kingdom,4
-88,India,United States,87
-89,Indonesia,China,9
-90,Indonesia,France,1
-91,Indonesia,India,8
-92,Indonesia,Indonesia,1
-93,Indonesia,United States,2
-94,Israel,China,1
-95,Israel,France,3
-96,Israel,Israel,2
-97,Israel,Lithuania,2
-98,Israel,Switzerland,2
-99,Israel,United Kingdom,1
-100,Israel,United States,10
-101,Japan,China,3
-102,Japan,Germany,1
-103,Japan,Netherlands,1
-104,Japan,United States,2
-105,Lithuania,Netherlands,1
-106,Lithuania,United Kingdom,1
-107,Lithuania,United States,7
-108,Mexico,India,1
-109,Netherlands,India,1
-110,Netherlands,United Kingdom,1
-111,Netherlands,United States,2
-112,Philippines,Indonesia,1
-113,Portugal,United States,4
-114,Singapore,China,8
-115,Singapore,United States,7
-116,South Korea,Australia,1
-117,South Korea,Brazil,3
-118,South Korea,China,7
-119,South Korea,Colombia,1
-120,South Korea,France,2
-121,South Korea,India,4
-122,South Korea,Israel,1
-123,South Korea,Japan,2
-124,South Korea,South Korea,2
-125,South Korea,Sweden,1
-126,South Korea,Switzerland,1
-127,South Korea,United States,33
-128,Spain,Spain,1
-129,Sweden,Brazil,2
-130,Sweden,China,4
-131,Sweden,Colombia,1
-132,Sweden,France,1
-133,Sweden,Germany,2
-134,Sweden,India,2
-135,Sweden,Israel,1
-136,Sweden,Japan,1
-137,Sweden,South Korea,2
-138,Sweden,Switzerland,1
-139,Sweden,United Kingdom,3
-140,Sweden,United States,29
-141,Switzerland,France,1
-142,Switzerland,Lithuania,1
-143,Switzerland,United States,3
-144,United Kingdom,Australia,1
-145,United Kingdom,Brazil,3
-146,United Kingdom,China,6
-147,United Kingdom,Colombia,2
-148,United Kingdom,Germany,1
-149,United Kingdom,India,14
-150,United Kingdom,Israel,2
-151,United Kingdom,Lithuania,1
-152,United Kingdom,Mexico,4
-153,United Kingdom,Portugal,1
-154,United Kingdom,Switzerland,1
-155,United Kingdom,United Kingdom,6
-156,United Kingdom,United States,85
-157,United States,Australia,8
-158,United States,Brazil,49
-159,United States,China,108
-160,United States,Colombia,16
-161,United States,France,24
-162,United States,Germany,33
-163,United States,Hong Kong,8
-164,United States,India,97
-165,United States,Indonesia,1
-166,United States,Israel,26
-167,United States,Japan,16
-168,United States,Lithuania,8
-169,United States,Mexico,12
-170,United States,Netherlands,18
-171,United States,South Korea,33
-172,United States,Sweden,7
-173,United States,Switzerland,9
-174,United States,United Kingdom,52
-175,United States,United States,1364
-176,Uruguay,United States,1
+	source	target	weight
+0	Australia	Australia	1
+1	Australia	China	18
+2	Australia	France	1
+3	Australia	Hong Kong	1
+4	Australia	India	2
+5	Australia	Mexico	1
+6	Australia	United Kingdom	1
+7	Australia	United States	5
+8	Brazil	Brazil	1
+9	Brazil	China	1
+10	Brazil	Colombia	1
+11	Brazil	India	2
+12	Brazil	Japan	1
+13	Brazil	Mexico	1
+14	Brazil	South Korea	1
+15	Brazil	United Kingdom	1
+16	Brazil	United States	17
+17	Canada	United States	1
+18	China	Australia	39
+19	China	Brazil	4
+20	China	China	582
+21	China	Colombia	3
+22	China	France	15
+23	China	Germany	4
+24	China	Hong Kong	29
+25	China	India	48
+26	China	Indonesia	3
+27	China	Israel	1
+28	China	Japan	13
+29	China	Mexico	2
+30	China	Portugal	2
+31	China	Singapore	2
+32	China	South Korea	13
+33	China	Sweden	1
+34	China	Switzerland	1
+35	China	United Kingdom	13
+36	China	United States	216
+37	Colombia	Australia	1
+38	Colombia	Brazil	1
+39	Colombia	China	1
+40	Colombia	India	2
+41	Colombia	Japan	1
+42	Colombia	Mexico	1
+43	Colombia	South Korea	1
+44	Colombia	United Kingdom	1
+45	Colombia	United States	20
+46	France	China	2
+47	France	Lithuania	1
+48	France	Netherlands	1
+49	France	Portugal	1
+50	France	United Kingdom	4
+51	France	United States	26
+52	Germany	Brazil	3
+53	Germany	China	3
+54	Germany	France	2
+55	Germany	Germany	1
+56	Germany	India	5
+57	Germany	Lithuania	1
+58	Germany	Mexico	1
+59	Germany	Netherlands	2
+60	Germany	Spain	1
+61	Germany	United Kingdom	6
+62	Germany	United States	38
+63	Hong Kong	Australia	3
+64	Hong Kong	China	26
+65	Hong Kong	France	1
+66	Hong Kong	Hong Kong	1
+67	Hong Kong	Israel	1
+68	Hong Kong	South Korea	1
+69	Hong Kong	Sweden	1
+70	Hong Kong	Switzerland	1
+71	Hong Kong	United States	2
+72	India	Australia	2
+73	India	Brazil	7
+74	India	China	31
+75	India	Colombia	2
+76	India	France	4
+77	India	Germany	1
+78	India	Hong Kong	1
+79	India	India	27
+80	India	Indonesia	2
+81	India	Israel	2
+82	India	Japan	2
+83	India	Mexico	7
+84	India	South Korea	5
+85	India	Sweden	1
+86	India	Switzerland	1
+87	India	United Kingdom	4
+88	India	United States	87
+89	Indonesia	China	9
+90	Indonesia	France	1
+91	Indonesia	India	8
+92	Indonesia	Indonesia	1
+93	Indonesia	United States	2
+94	Israel	China	1
+95	Israel	France	3
+96	Israel	Israel	2
+97	Israel	Lithuania	2
+98	Israel	Switzerland	2
+99	Israel	United Kingdom	1
+100	Israel	United States	10
+101	Japan	China	3
+102	Japan	Germany	1
+103	Japan	Netherlands	1
+104	Japan	United States	2
+105	Lithuania	Netherlands	1
+106	Lithuania	United Kingdom	1
+107	Lithuania	United States	7
+108	Mexico	India	1
+109	Netherlands	India	1
+110	Netherlands	United Kingdom	1
+111	Netherlands	United States	2
+112	Philippines	Indonesia	1
+113	Portugal	United States	4
+114	Singapore	China	8
+115	Singapore	United States	7
+116	South Korea	Australia	1
+117	South Korea	Brazil	3
+118	South Korea	China	7
+119	South Korea	Colombia	1
+120	South Korea	France	2
+121	South Korea	India	4
+122	South Korea	Israel	1
+123	South Korea	Japan	2
+124	South Korea	South Korea	2
+125	South Korea	Sweden	1
+126	South Korea	Switzerland	1
+127	South Korea	United States	33
+128	Spain	Spain	1
+129	Sweden	Brazil	2
+130	Sweden	China	4
+131	Sweden	Colombia	1
+132	Sweden	France	1
+133	Sweden	Germany	2
+134	Sweden	India	2
+135	Sweden	Israel	1
+136	Sweden	Japan	1
+137	Sweden	South Korea	2
+138	Sweden	Switzerland	1
+139	Sweden	United Kingdom	3
+140	Sweden	United States	29
+141	Switzerland	France	1
+142	Switzerland	Lithuania	1
+143	Switzerland	United States	3
+144	United Kingdom	Australia	1
+145	United Kingdom	Brazil	3
+146	United Kingdom	China	6
+147	United Kingdom	Colombia	2
+148	United Kingdom	Germany	1
+149	United Kingdom	India	14
+150	United Kingdom	Israel	2
+151	United Kingdom	Lithuania	1
+152	United Kingdom	Mexico	4
+153	United Kingdom	Portugal	1
+154	United Kingdom	Switzerland	1
+155	United Kingdom	United Kingdom	6
+156	United Kingdom	United States	85
+157	United States	Australia	8
+158	United States	Brazil	48
+159	United States	China	108
+160	United States	Colombia	16
+161	United States	France	24
+162	United States	Germany	33
+163	United States	Hong Kong	8
+164	United States	India	97
+165	United States	Indonesia	1
+166	United States	Israel	26
+167	United States	Japan	16
+168	United States	Lithuania	8
+169	United States	Mexico	12
+170	United States	Netherlands	18
+171	United States	South Korea	33
+172	United States	Sweden	7
+173	United States	Switzerland	9
+174	United States	United Kingdom	52
+175	United States	United States	1364
+176	Uruguay	United States	1
