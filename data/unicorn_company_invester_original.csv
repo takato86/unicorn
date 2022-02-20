@@ -1,4 +1,4 @@
-Company,Valuation($B),Date Joined,Country,Industry,Select Investors
+Company,Valuation ($B) ,Date Added,Country,Category,Select Investors
 100credit,$1 ,4/18/2018,China,Fintech,"Sequoia Capital China, China Reform Fund, Hillhouse Capital Management"
 17zuoye,$1 ,3/7/2018,China,Edtech,"DST Global, Temasek Holdings"
 23andMe,$2.50 ,7/3/2015,United States,Health,"Google Ventures, New Enterprise Associates, MPM Capital"

@@ -1,0 +1,22 @@
+                        OLS Regression Results                       
+Dep. Variable:   ,Total valuation($B),  R-squared:         ,   0.720 
+Model:           ,OLS                ,  Adj. R-squared:    ,   0.720 
+Method:          ,Least Squares      ,  F-statistic:       ,   1004. 
+Date:            ,Sun, 20 Feb 2022   ,  Prob (F-statistic):,8.89e-323
+Time:            ,13:55:26           ,  Log-Likelihood:    , -917.17 
+No. Observations:,  1173             ,  AIC:               ,   1842. 
+Df Residuals:    ,  1169             ,  BIC:               ,   1863. 
+Df Model:        ,     3             ,                     ,         
+Covariance Type: ,nonrobust          ,                     ,         
+                      ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+const                 , -4.51e-17,    0.015,-2.92e-15, 1.000,   -0.030,    0.030
+Betweenness Centrality,   -0.1040,    0.031,   -3.345, 0.001,   -0.165,   -0.043
+Expansion             ,    0.0993,    0.019,    5.167, 0.000,    0.062,    0.137
+#unicorns             ,    0.8748,    0.034,   25.415, 0.000,    0.807,    0.942
+Omnibus:      ,1526.735,  Durbin-Watson:     ,   1.857  
+Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,245487.104
+Skew:         , 6.963  ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,72.490  ,  Cond. No.          ,    4.38  
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

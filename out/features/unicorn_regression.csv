@@ -1,21 +1,21 @@
                         OLS Regression Results                        
-Dep. Variable:   ,Valuation($B) flaot_x,  R-squared:         ,   0.068
-Model:           ,OLS                  ,  Adj. R-squared:    ,   0.064
-Method:          ,Least Squares        ,  F-statistic:       ,   15.37
-Date:            ,Fri, 30 Apr 2021     ,  Prob (F-statistic):,3.63e-07
-Time:            ,11:09:51             ,  Log-Likelihood:    , -583.86
-No. Observations:,   422               ,  AIC:               ,   1174.
-Df Residuals:    ,   419               ,  BIC:               ,   1186.
+Dep. Variable:   ,Valuation($B) flaot_x,  R-squared:         ,   0.071
+Model:           ,OLS                  ,  Adj. R-squared:    ,   0.069
+Method:          ,Least Squares        ,  F-statistic:       ,   34.76
+Date:            ,Sun, 20 Feb 2022     ,  Prob (F-statistic):,2.84e-15
+Time:            ,13:21:48             ,  Log-Likelihood:    , -1257.6
+No. Observations:,   910               ,  AIC:               ,   2521.
+Df Residuals:    ,   907               ,  BIC:               ,   2536.
 Df Model:        ,     2               ,                     ,        
 Covariance Type: ,nonrobust            ,                     ,        
                      ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
-const                ,-3.469e-18,    0.047,-7.36e-17, 1.000,   -0.093,    0.093
-Out-degree Centrality,    0.0991,    0.070,    1.412, 0.159,   -0.039,    0.237
-Expansion            ,    0.1794,    0.070,    2.556, 0.011,    0.041,    0.317
-Omnibus:      ,792.853,  Durbin-Watson:     ,   2.027  
-Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,600350.519
-Skew:         ,12.009 ,  Prob(JB):          ,    0.00  
-Kurtosis:     ,186.211,  Cond. No.          ,    2.59  
+const                , -4.51e-17,    0.032,-1.41e-15, 1.000,   -0.063,    0.063
+Out-degree Centrality,    0.0978,    0.042,    2.348, 0.019,    0.016,    0.180
+Expansion            ,    0.1934,    0.042,    4.640, 0.000,    0.112,    0.275
+Omnibus:      ,1549.342,  Durbin-Watson:     ,   2.097  
+Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,972526.176
+Skew:         ,10.932  ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,161.654 ,  Cond. No.          ,    2.14  
 
-Warnings:
+Notes:
 [1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

@@ -1,0 +1,21 @@
+                        OLS Regression Results                        
+Dep. Variable:   ,Valuation($B) flaot_x,  R-squared:         ,   0.071
+Model:           ,OLS                  ,  Adj. R-squared:    ,   0.069
+Method:          ,Least Squares        ,  F-statistic:       ,   34.76
+Date:            ,Sun, 20 Feb 2022     ,  Prob (F-statistic):,2.84e-15
+Time:            ,13:55:26             ,  Log-Likelihood:    , -1257.6
+No. Observations:,   910               ,  AIC:               ,   2521.
+Df Residuals:    ,   907               ,  BIC:               ,   2536.
+Df Model:        ,     2               ,                     ,        
+Covariance Type: ,nonrobust            ,                     ,        
+                     ,   coef   , std err ,    t    ,P>|t| ,  [0.025 ,  0.975] 
+const                ,-3.643e-17,    0.032,-1.14e-15, 1.000,   -0.063,    0.063
+Out-degree Centrality,    0.0984,    0.042,    2.366, 0.018,    0.017,    0.180
+Expansion            ,    0.1930,    0.042,    4.638, 0.000,    0.111,    0.275
+Omnibus:      ,1549.403,  Durbin-Watson:     ,   2.043  
+Prob(Omnibus):, 0.000  ,  Jarque-Bera (JB):  ,972727.180
+Skew:         ,10.933  ,  Prob(JB):          ,    0.00  
+Kurtosis:     ,161.670 ,  Cond. No.          ,    2.13  
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

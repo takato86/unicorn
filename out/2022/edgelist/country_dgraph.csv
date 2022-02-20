@@ -1,0 +1,523 @@
+	source	target	weight
+0	Argentina	India	1
+1	Argentina	Mexico	1
+2	Argentina	United States	2
+3	Australia	Australia	4
+4	Australia	Brazil	1
+5	Australia	Chile	2
+6	Australia	China	43
+7	Australia	Estonia	1
+8	Australia	France	5
+9	Australia	Germany	4
+10	Australia	Hong Kong	3
+11	Australia	India	8
+12	Australia	Indonesia	3
+13	Australia	Ireland	3
+14	Australia	Mexico	2
+15	Australia	Nigeria	2
+16	Australia	Singapore	3
+17	Australia	South Korea	2
+18	Australia	United Kingdom	2
+19	Australia	United States	31
+20	Austria	China	1
+21	Austria	France	1
+22	Austria	India	1
+23	Austria	Ireland	1
+24	Austria	Norway	1
+25	Austria	United States	13
+26	Belgium	Australia	1
+27	Belgium	Czech Republic	1
+28	Belgium	France	4
+29	Belgium	Israel	2
+30	Belgium	Sweden	1
+31	Belgium	Turkey	1
+32	Belgium	United Kingdom	2
+33	Belgium	United States	32
+34	Brazil	Argentina	2
+35	Brazil	Brazil	10
+36	Brazil	Canada	2
+37	Brazil	Chile	5
+38	Brazil	China	5
+39	Brazil	Estonia	1
+40	Brazil	France	8
+41	Brazil	Germany	1
+42	Brazil	Hong Kong	1
+43	Brazil	India	19
+44	Brazil	Indonesia	1
+45	Brazil	Ireland	2
+46	Brazil	Israel	4
+47	Brazil	Mexico	11
+48	Brazil	Netherlands	1
+49	Brazil	Norway	1
+50	Brazil	South Korea	1
+51	Brazil	Spain	2
+52	Brazil	United Kingdom	4
+53	Brazil	United States	77
+54	Canada	Belgium	2
+55	Canada	Brazil	2
+56	Canada	Estonia	1
+57	Canada	France	2
+58	Canada	Hong Kong	2
+59	Canada	India	7
+60	Canada	Indonesia	1
+61	Canada	Israel	3
+62	Canada	Norway	1
+63	Canada	United Kingdom	3
+64	Canada	United States	72
+65	Chile	Brazil	1
+66	Chile	Estonia	1
+67	Chile	Germany	1
+68	Chile	India	4
+69	Chile	Ireland	1
+70	Chile	Mexico	1
+71	Chile	United States	8
+72	China	Australia	40
+73	China	Austria	2
+74	China	Brazil	7
+75	China	Canada	6
+76	China	Chile	3
+77	China	China	1162
+78	China	Colombia	1
+79	China	Estonia	2
+80	China	France	55
+81	China	Germany	50
+82	China	Hong Kong	62
+83	China	India	62
+84	China	Indonesia	31
+85	China	Ireland	30
+86	China	Israel	12
+87	China	Japan	11
+88	China	Mexico	4
+89	China	Netherlands	1
+90	China	Nigeria	40
+91	China	Norway	4
+92	China	Philippines	5
+93	China	Singapore	50
+94	China	South Korea	40
+95	China	Spain	1
+96	China	Sweden	1
+97	China	Switzerland	1
+98	China	Turkey	3
+99	China	United Kingdom	11
+100	China	United States	390
+101	China	Vietnam	5
+102	Colombia	Australia	1
+103	Colombia	Brazil	3
+104	Colombia	Canada	2
+105	Colombia	Chile	1
+106	Colombia	China	1
+107	Colombia	France	1
+108	Colombia	Germany	1
+109	Colombia	Hong Kong	2
+110	Colombia	India	3
+111	Colombia	Ireland	1
+112	Colombia	Israel	2
+113	Colombia	Japan	1
+114	Colombia	Mexico	3
+115	Colombia	Singapore	1
+116	Colombia	South Korea	2
+117	Colombia	Turkey	1
+118	Colombia	United Kingdom	1
+119	Colombia	United States	66
+120	Czech Republic	Australia	1
+121	Czech Republic	France	3
+122	Czech Republic	Senegal	1
+123	Czech Republic	United Kingdom	1
+124	Czech Republic	United States	5
+125	Denmark	Spain	1
+126	Estonia	India	1
+127	Estonia	United States	1
+128	Finland	Estonia	1
+129	Finland	Germany	1
+130	Finland	Spain	1
+131	France	Australia	2
+132	France	Belgium	2
+133	France	Brazil	2
+134	France	Canada	2
+135	France	China	7
+136	France	Czech Republic	2
+137	France	Estonia	2
+138	France	France	23
+139	France	Germany	5
+140	France	Hong Kong	1
+141	France	India	15
+142	France	Indonesia	1
+143	France	Ireland	6
+144	France	Israel	3
+145	France	Lithuania	1
+146	France	Mexico	1
+147	France	Netherlands	1
+148	France	Norway	1
+149	France	Senegal	1
+150	France	Singapore	3
+151	France	Spain	2
+152	France	Sweden	5
+153	France	Turkey	2
+154	France	United Kingdom	11
+155	France	United States	117
+156	Germany	Austria	2
+157	Germany	Belgium	2
+158	Germany	Brazil	7
+159	Germany	Canada	2
+160	Germany	Chile	1
+161	Germany	China	5
+162	Germany	Denmark	1
+163	Germany	Estonia	2
+164	Germany	Finland	1
+165	Germany	France	13
+166	Germany	Germany	11
+167	Germany	Hong Kong	1
+168	Germany	India	20
+169	Germany	Indonesia	1
+170	Germany	Ireland	6
+171	Germany	Israel	5
+172	Germany	Lithuania	1
+173	Germany	Mexico	5
+174	Germany	Netherlands	3
+175	Germany	Norway	3
+176	Germany	Singapore	4
+177	Germany	South Korea	1
+178	Germany	Spain	2
+179	Germany	Sweden	5
+180	Germany	Switzerland	1
+181	Germany	United Kingdom	14
+182	Germany	United States	121
+183	Hong Kong	Australia	3
+184	Hong Kong	Brazil	1
+185	Hong Kong	Chile	2
+186	Hong Kong	China	51
+187	Hong Kong	Estonia	1
+188	Hong Kong	France	1
+189	Hong Kong	Germany	3
+190	Hong Kong	Hong Kong	1
+191	Hong Kong	India	6
+192	Hong Kong	Indonesia	2
+193	Hong Kong	Ireland	2
+194	Hong Kong	Israel	2
+195	Hong Kong	Mexico	1
+196	Hong Kong	Nigeria	2
+197	Hong Kong	Singapore	3
+198	Hong Kong	South Korea	3
+199	Hong Kong	Sweden	1
+200	Hong Kong	Switzerland	1
+201	Hong Kong	United Kingdom	1
+202	Hong Kong	United States	32
+203	India	Argentina	1
+204	India	Australia	8
+205	India	Brazil	17
+206	India	Canada	4
+207	India	Chile	10
+208	India	China	42
+209	India	Colombia	1
+210	India	Estonia	16
+211	India	France	23
+212	India	Germany	10
+213	India	Hong Kong	11
+214	India	India	406
+215	India	Indonesia	27
+216	India	Ireland	17
+217	India	Israel	5
+218	India	Japan	1
+219	India	Mexico	18
+220	India	Norway	4
+221	India	Philippines	2
+222	India	Singapore	7
+223	India	South Korea	5
+224	India	Spain	9
+225	India	Sweden	3
+226	India	Turkey	5
+227	India	United Kingdom	23
+228	India	United States	414
+229	India	Vietnam	2
+230	Indonesia	China	11
+231	Indonesia	Estonia	1
+232	Indonesia	France	3
+233	Indonesia	Germany	4
+234	Indonesia	India	6
+235	Indonesia	Indonesia	1
+236	Indonesia	Ireland	1
+237	Indonesia	Nigeria	1
+238	Indonesia	Singapore	1
+239	Indonesia	South Korea	1
+240	Indonesia	United Kingdom	1
+241	Indonesia	United States	10
+242	Ireland	Brazil	1
+243	Ireland	Canada	1
+244	Ireland	Chile	1
+245	Ireland	Estonia	2
+246	Ireland	France	1
+247	Ireland	India	8
+248	Ireland	Indonesia	1
+249	Ireland	Israel	3
+250	Ireland	Philippines	1
+251	Ireland	Spain	1
+252	Ireland	United Kingdom	3
+253	Ireland	United States	23
+254	Israel	Australia	2
+255	Israel	Brazil	2
+256	Israel	Canada	5
+257	Israel	China	2
+258	Israel	Czech Republic	1
+259	Israel	Estonia	1
+260	Israel	France	9
+261	Israel	Hong Kong	1
+262	Israel	India	19
+263	Israel	Indonesia	1
+264	Israel	Ireland	5
+265	Israel	Israel	30
+266	Israel	Lithuania	1
+267	Israel	Norway	2
+268	Israel	Philippines	6
+269	Israel	Singapore	2
+270	Israel	Spain	7
+271	Israel	Sweden	3
+272	Israel	Switzerland	1
+273	Israel	Turkey	2
+274	Israel	United Kingdom	7
+275	Israel	United States	217
+276	Japan	Canada	1
+277	Japan	China	7
+278	Japan	Finland	1
+279	Japan	Germany	1
+280	Japan	Hong Kong	2
+281	Japan	India	2
+282	Japan	Israel	2
+283	Japan	Netherlands	1
+284	Japan	Spain	1
+285	Japan	Turkey	1
+286	Japan	United States	30
+287	Lithuania	Brazil	1
+288	Lithuania	Canada	1
+289	Lithuania	Estonia	1
+290	Lithuania	France	1
+291	Lithuania	India	9
+292	Lithuania	Indonesia	1
+293	Lithuania	Ireland	1
+294	Lithuania	Israel	7
+295	Lithuania	Netherlands	1
+296	Lithuania	Norway	1
+297	Lithuania	Philippines	1
+298	Lithuania	Singapore	1
+299	Lithuania	Spain	1
+300	Lithuania	Sweden	1
+301	Lithuania	United Kingdom	5
+302	Lithuania	United States	48
+303	Mexico	Brazil	4
+304	Mexico	Chile	4
+305	Mexico	China	2
+306	Mexico	France	4
+307	Mexico	Germany	1
+308	Mexico	Hong Kong	1
+309	Mexico	India	11
+310	Mexico	Ireland	4
+311	Mexico	Israel	2
+312	Mexico	Mexico	3
+313	Mexico	Singapore	1
+314	Mexico	South Korea	1
+315	Mexico	Spain	2
+316	Mexico	Sweden	1
+317	Mexico	United States	25
+318	Netherlands	Australia	1
+319	Netherlands	Brazil	2
+320	Netherlands	Canada	3
+321	Netherlands	Estonia	1
+322	Netherlands	Finland	1
+323	Netherlands	France	3
+324	Netherlands	Germany	1
+325	Netherlands	India	10
+326	Netherlands	Indonesia	1
+327	Netherlands	Ireland	1
+328	Netherlands	Israel	2
+329	Netherlands	Mexico	1
+330	Netherlands	Netherlands	1
+331	Netherlands	Norway	3
+332	Netherlands	Singapore	1
+333	Netherlands	Spain	1
+334	Netherlands	Sweden	1
+335	Netherlands	United Kingdom	7
+336	Netherlands	United States	45
+337	Nigeria	China	1
+338	Nigeria	Germany	1
+339	Norway	Brazil	2
+340	Norway	Canada	1
+341	Norway	Denmark	1
+342	Norway	Estonia	1
+343	Norway	France	1
+344	Norway	Germany	3
+345	Norway	India	6
+346	Norway	Indonesia	1
+347	Norway	Ireland	1
+348	Norway	Spain	1
+349	Norway	United Kingdom	2
+350	Norway	United States	23
+351	Philippines	Canada	1
+352	Philippines	Israel	1
+353	Philippines	Malaysia	1
+354	Philippines	United States	3
+355	Philippines	Vietnam	1
+356	Santa Clara	United States	1
+357	Senegal	United States	4
+358	Singapore	Brazil	2
+359	Singapore	Canada	1
+360	Singapore	Chile	1
+361	Singapore	China	11
+362	Singapore	Estonia	1
+363	Singapore	France	2
+364	Singapore	Germany	2
+365	Singapore	Hong Kong	1
+366	Singapore	India	7
+367	Singapore	Indonesia	5
+368	Singapore	Ireland	4
+369	Singapore	Mexico	1
+370	Singapore	Nigeria	1
+371	Singapore	Norway	1
+372	Singapore	Singapore	1
+373	Singapore	South Korea	2
+374	Singapore	Sweden	1
+375	Singapore	United Kingdom	2
+376	Singapore	United States	15
+377	Singapore	Vietnam	1
+378	South Korea	Brazil	5
+379	South Korea	Canada	2
+380	South Korea	Chile	1
+381	South Korea	China	6
+382	South Korea	France	1
+383	South Korea	Germany	2
+384	South Korea	Hong Kong	2
+385	South Korea	India	3
+386	South Korea	Ireland	1
+387	South Korea	Israel	6
+388	South Korea	Japan	1
+389	South Korea	Mexico	1
+390	South Korea	Nigeria	1
+391	South Korea	Santa Clara	1
+392	South Korea	South Korea	1
+393	South Korea	Sweden	1
+394	South Korea	Switzerland	1
+395	South Korea	Turkey	1
+396	South Korea	United Kingdom	1
+397	South Korea	United States	53
+398	Spain	Germany	1
+399	Spain	India	1
+400	Spain	Israel	1
+401	Spain	Philippines	1
+402	Spain	United States	6
+403	Sweden	Australia	1
+404	Sweden	Brazil	3
+405	Sweden	Canada	2
+406	Sweden	China	2
+407	Sweden	Colombia	1
+408	Sweden	Czech Republic	1
+409	Sweden	Denmark	1
+410	Sweden	Estonia	2
+411	Sweden	Finland	1
+412	Sweden	France	6
+413	Sweden	Germany	3
+414	Sweden	Hong Kong	1
+415	Sweden	India	9
+416	Sweden	Indonesia	1
+417	Sweden	Ireland	1
+418	Sweden	Israel	5
+419	Sweden	Japan	1
+420	Sweden	Mexico	1
+421	Sweden	Netherlands	1
+422	Sweden	Norway	1
+423	Sweden	Singapore	1
+424	Sweden	South Korea	1
+425	Sweden	Switzerland	1
+426	Sweden	Turkey	2
+427	Sweden	United Kingdom	8
+428	Sweden	United States	76
+429	Switzerland	France	2
+430	Switzerland	India	1
+431	Switzerland	Ireland	1
+432	Switzerland	Israel	6
+433	Switzerland	Lithuania	1
+434	Switzerland	Philippines	1
+435	Switzerland	Spain	1
+436	Switzerland	United Kingdom	1
+437	Switzerland	United States	25
+438	Turkey	Australia	2
+439	Turkey	Canada	1
+440	Turkey	Chile	1
+441	Turkey	Czech Republic	1
+442	Turkey	Estonia	1
+443	Turkey	France	2
+444	Turkey	Germany	1
+445	Turkey	Hong Kong	2
+446	Turkey	India	7
+447	Turkey	Ireland	1
+448	Turkey	Israel	1
+449	Turkey	United Kingdom	2
+450	Turkey	United States	35
+451	United Kingdom	Argentina	1
+452	United Kingdom	Australia	3
+453	United Kingdom	Brazil	13
+454	United Kingdom	Canada	6
+455	United Kingdom	Chile	4
+456	United Kingdom	China	5
+457	United Kingdom	Colombia	2
+458	United Kingdom	Estonia	6
+459	United Kingdom	Finland	1
+460	United Kingdom	France	17
+461	United Kingdom	Germany	11
+462	United Kingdom	Hong Kong	5
+463	United Kingdom	India	68
+464	United Kingdom	Indonesia	3
+465	United Kingdom	Ireland	7
+466	United Kingdom	Israel	20
+467	United Kingdom	Lithuania	1
+468	United Kingdom	Mexico	12
+469	United Kingdom	Netherlands	2
+470	United Kingdom	Norway	4
+471	United Kingdom	Philippines	2
+472	United Kingdom	Santa Clara	1
+473	United Kingdom	Singapore	5
+474	United Kingdom	South Korea	2
+475	United Kingdom	Spain	5
+476	United Kingdom	Sweden	6
+477	United Kingdom	Switzerland	2
+478	United Kingdom	Turkey	1
+479	United Kingdom	United Kingdom	20
+480	United Kingdom	United States	311
+481	United States	Argentina	3
+482	United States	Australia	54
+483	United States	Austria	7
+484	United States	Belgium	8
+485	United States	Brazil	81
+486	United States	Canada	114
+487	United States	Chile	24
+488	United States	China	155
+489	United States	Colombia	9
+490	United States	Czech Republic	14
+491	United States	Denmark	1
+492	United States	Estonia	58
+493	United States	Finland	8
+494	United States	France	177
+495	United States	Germany	93
+496	United States	Hong Kong	82
+497	United States	India	547
+498	United States	Indonesia	39
+499	United States	Ireland	73
+500	United States	Israel	249
+501	United States	Japan	15
+502	United States	Lithuania	7
+503	United States	Malaysia	1
+504	United States	Mexico	61
+505	United States	Netherlands	20
+506	United States	Nigeria	1
+507	United States	Norway	69
+508	United States	Philippines	27
+509	United States	Santa Clara	11
+510	United States	Senegal	12
+511	United States	Singapore	35
+512	United States	South Korea	33
+513	United States	Spain	38
+514	United States	Sweden	43
+515	United States	Switzerland	10
+516	United States	Turkey	41
+517	United States	United Kingdom	211
+518	United States	United States	5390
+519	United States	Vietnam	6
+520	Vietnam	Canada	1
+521	Vietnam	United States	2

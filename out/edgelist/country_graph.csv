@@ -1,127 +1,370 @@
 ,source,target,weight
-0,Australia,Australia,1
-1,Australia,China,39
-2,Australia,France,1
-3,Australia,Hong Kong,3
-4,Australia,India,2
-5,Australia,Mexico,1
-6,Australia,United Kingdom,1
-7,Australia,United States,8
-8,Australia,Colombia,1
-9,Australia,South Korea,1
-10,China,Brazil,4
-11,China,China,582
-12,China,Colombia,1
-13,China,France,2
-14,China,Germany,3
-15,China,Hong Kong,26
-16,China,India,31
-17,China,Indonesia,9
-18,China,Israel,1
-19,China,Japan,3
-20,China,Mexico,2
-21,China,Portugal,2
-22,China,Singapore,8
-23,China,South Korea,7
-24,China,Sweden,4
-25,China,Switzerland,1
-26,China,United Kingdom,6
-27,China,United States,108
-28,France,Lithuania,1
-29,France,Netherlands,1
-30,France,Portugal,1
-31,France,United Kingdom,4
-32,France,United States,24
-33,France,Germany,2
-34,France,Hong Kong,1
-35,France,India,4
-36,France,Indonesia,1
-37,France,Israel,3
-38,France,South Korea,2
-39,France,Sweden,1
-40,France,Switzerland,1
-41,Hong Kong,Hong Kong,1
-42,Hong Kong,Israel,1
-43,Hong Kong,South Korea,1
-44,Hong Kong,Sweden,1
-45,Hong Kong,Switzerland,1
-46,Hong Kong,United States,8
-47,Hong Kong,India,1
-48,India,Brazil,7
-49,India,Colombia,2
-50,India,Germany,1
-51,India,India,27
-52,India,Indonesia,8
-53,India,Israel,2
-54,India,Japan,2
-55,India,Mexico,1
-56,India,South Korea,4
-57,India,Sweden,2
-58,India,Switzerland,1
-59,India,United Kingdom,14
-60,India,United States,97
-61,India,Netherlands,1
-62,Mexico,Brazil,1
-63,Mexico,Colombia,1
-64,Mexico,Germany,1
-65,Mexico,United Kingdom,4
-66,Mexico,United States,12
-67,United Kingdom,Brazil,3
-68,United Kingdom,Colombia,2
-69,United Kingdom,Germany,1
-70,United Kingdom,Israel,2
-71,United Kingdom,Lithuania,1
-72,United Kingdom,Netherlands,1
-73,United Kingdom,Sweden,3
-74,United Kingdom,Portugal,1
-75,United Kingdom,Switzerland,1
-76,United Kingdom,United Kingdom,6
-77,United Kingdom,United States,52
-78,United States,Brazil,48
-79,United States,Canada,1
-80,United States,Colombia,16
-81,United States,Germany,33
-82,United States,Indonesia,1
-83,United States,Israel,26
-84,United States,Japan,16
-85,United States,Lithuania,8
-86,United States,Netherlands,18
-87,United States,Portugal,4
-88,United States,Singapore,7
-89,United States,South Korea,33
-90,United States,Sweden,7
-91,United States,Switzerland,9
-92,United States,United States,1364
-93,United States,Uruguay,1
-94,Brazil,Brazil,1
-95,Brazil,Colombia,1
-96,Brazil,Japan,1
-97,Brazil,South Korea,3
-98,Brazil,Germany,3
-99,Brazil,Sweden,2
-100,Colombia,Japan,1
-101,Colombia,South Korea,1
-102,Colombia,Sweden,1
-103,Japan,Germany,1
-104,Japan,Netherlands,1
-105,Japan,South Korea,2
-106,Japan,Sweden,1
-107,South Korea,Israel,1
-108,South Korea,South Korea,2
-109,South Korea,Sweden,2
-110,South Korea,Switzerland,1
-111,Germany,Germany,1
-112,Germany,Lithuania,1
-113,Germany,Netherlands,2
-114,Germany,Spain,1
-115,Germany,Sweden,2
-116,Indonesia,Indonesia,1
-117,Indonesia,Philippines,1
-118,Israel,Israel,2
-119,Israel,Lithuania,2
-120,Israel,Switzerland,2
-121,Israel,Sweden,1
-122,Sweden,Switzerland,1
-123,Switzerland,Lithuania,1
-124,Lithuania,Netherlands,1
-125,Spain,Spain,1
+0,Argentina,India,1
+1,Argentina,Mexico,1
+2,Argentina,United States,3
+3,Argentina,Brazil,2
+4,Argentina,United Kingdom,1
+5,India,Australia,8
+6,India,Austria,1
+7,India,Brazil,17
+8,India,Canada,4
+9,India,Chile,10
+10,India,China,42
+11,India,Colombia,1
+12,India,Estonia,16
+13,India,France,23
+14,India,Germany,10
+15,India,Hong Kong,11
+16,India,India,406
+17,India,Indonesia,6
+18,India,Ireland,8
+19,India,Israel,19
+20,India,Japan,2
+21,India,Mexico,11
+22,India,Norway,6
+23,India,Philippines,2
+24,India,Singapore,7
+25,India,South Korea,3
+26,India,Spain,1
+27,India,Sweden,10
+28,India,Turkey,8
+29,India,United Kingdom,68
+30,India,United States,548
+31,India,Vietnam,2
+32,India,Lithuania,9
+33,India,Netherlands,10
+34,India,Switzerland,1
+35,Mexico,Australia,2
+36,Mexico,Brazil,4
+37,Mexico,Chile,4
+38,Mexico,China,2
+39,Mexico,Colombia,3
+40,Mexico,France,4
+41,Mexico,Germany,1
+42,Mexico,Hong Kong,1
+43,Mexico,Ireland,4
+44,Mexico,Israel,2
+45,Mexico,Mexico,3
+46,Mexico,Singapore,1
+47,Mexico,South Korea,1
+48,Mexico,Spain,2
+49,Mexico,Sweden,1
+50,Mexico,United States,61
+51,Mexico,Netherlands,1
+52,Mexico,United Kingdom,12
+53,United States,Australia,54
+54,United States,Austria,7
+55,United States,Belgium,8
+56,United States,Brazil,81
+57,United States,Canada,115
+58,United States,Chile,24
+59,United States,China,154
+60,United States,Colombia,9
+61,United States,Czech Republic,14
+62,United States,Estonia,57
+63,United States,France,177
+64,United States,Germany,93
+65,United States,Hong Kong,82
+66,United States,Indonesia,39
+67,United States,Ireland,73
+68,United States,Israel,248
+69,United States,Japan,15
+70,United States,Lithuania,7
+71,United States,Netherlands,20
+72,United States,Norway,69
+73,United States,Philippines,27
+74,United States,Santa Clara,11
+75,United States,Senegal,12
+76,United States,Singapore,35
+77,United States,South Korea,33
+78,United States,Spain,38
+79,United States,Sweden,43
+80,United States,Switzerland,10
+81,United States,Turkey,41
+82,United States,United Kingdom,211
+83,United States,Denmark,1
+84,United States,Finland,8
+85,United States,Malaysia,1
+86,United States,Nigeria,1
+87,United States,United States,5390
+88,United States,Vietnam,2
+89,Australia,Australia,4
+90,Australia,Brazil,1
+91,Australia,Chile,2
+92,Australia,China,40
+93,Australia,Estonia,1
+94,Australia,France,2
+95,Australia,Germany,4
+96,Australia,Hong Kong,3
+97,Australia,Indonesia,3
+98,Australia,Ireland,3
+99,Australia,Nigeria,2
+100,Australia,Singapore,3
+101,Australia,South Korea,2
+102,Australia,United Kingdom,3
+103,Australia,Belgium,1
+104,Australia,Colombia,1
+105,Australia,Czech Republic,1
+106,Australia,Israel,2
+107,Australia,Netherlands,1
+108,Australia,Sweden,1
+109,Australia,Turkey,2
+110,Brazil,Brazil,10
+111,Brazil,Canada,2
+112,Brazil,Chile,1
+113,Brazil,China,7
+114,Brazil,Estonia,1
+115,Brazil,France,2
+116,Brazil,Germany,7
+117,Brazil,Hong Kong,1
+118,Brazil,Indonesia,1
+119,Brazil,Ireland,1
+120,Brazil,Israel,2
+121,Brazil,Netherlands,2
+122,Brazil,Norway,2
+123,Brazil,South Korea,5
+124,Brazil,Spain,2
+125,Brazil,United Kingdom,13
+126,Brazil,Colombia,3
+127,Brazil,Lithuania,1
+128,Brazil,Singapore,2
+129,Brazil,Sweden,3
+130,Chile,Estonia,1
+131,Chile,Germany,1
+132,Chile,Ireland,1
+133,Chile,China,3
+134,Chile,Colombia,1
+135,Chile,Hong Kong,2
+136,Chile,Singapore,1
+137,Chile,South Korea,1
+138,Chile,Turkey,1
+139,Chile,United Kingdom,4
+140,China,Austria,2
+141,China,Canada,6
+142,China,China,1162
+143,China,Colombia,1
+144,China,Estonia,2
+145,China,France,7
+146,China,Germany,5
+147,China,Hong Kong,51
+148,China,Indonesia,11
+149,China,Ireland,30
+150,China,Israel,2
+151,China,Japan,7
+152,China,Netherlands,1
+153,China,Nigeria,1
+154,China,Norway,4
+155,China,Philippines,5
+156,China,Singapore,11
+157,China,South Korea,6
+158,China,Spain,1
+159,China,Sweden,2
+160,China,Switzerland,1
+161,China,Turkey,3
+162,China,United Kingdom,5
+163,China,Vietnam,5
+164,Estonia,Canada,1
+165,Estonia,Finland,1
+166,Estonia,France,2
+167,Estonia,Germany,2
+168,Estonia,Hong Kong,1
+169,Estonia,Indonesia,1
+170,Estonia,Ireland,2
+171,Estonia,Israel,1
+172,Estonia,Lithuania,1
+173,Estonia,Netherlands,1
+174,Estonia,Norway,1
+175,Estonia,Singapore,1
+176,Estonia,Sweden,2
+177,Estonia,Turkey,1
+178,Estonia,United Kingdom,6
+179,France,Austria,1
+180,France,Belgium,2
+181,France,Canada,2
+182,France,Colombia,1
+183,France,Czech Republic,2
+184,France,France,23
+185,France,Germany,13
+186,France,Hong Kong,1
+187,France,Indonesia,3
+188,France,Ireland,1
+189,France,Israel,9
+190,France,Lithuania,1
+191,France,Netherlands,3
+192,France,Norway,1
+193,France,Senegal,1
+194,France,Singapore,2
+195,France,Spain,2
+196,France,Sweden,6
+197,France,Turkey,2
+198,France,United Kingdom,17
+199,France,South Korea,1
+200,France,Switzerland,2
+201,Germany,Colombia,1
+202,Germany,Finland,1
+203,Germany,Austria,2
+204,Germany,Belgium,2
+205,Germany,Canada,2
+206,Germany,Denmark,1
+207,Germany,Germany,11
+208,Germany,Hong Kong,3
+209,Germany,Indonesia,4
+210,Germany,Ireland,6
+211,Germany,Israel,5
+212,Germany,Lithuania,1
+213,Germany,Netherlands,1
+214,Germany,Norway,3
+215,Germany,Singapore,2
+216,Germany,South Korea,2
+217,Germany,Spain,1
+218,Germany,Sweden,3
+219,Germany,Switzerland,1
+220,Germany,United Kingdom,11
+221,Germany,Japan,1
+222,Germany,Nigeria,1
+223,Germany,Turkey,1
+224,Hong Kong,Canada,2
+225,Hong Kong,Colombia,2
+226,Hong Kong,Hong Kong,1
+227,Hong Kong,Indonesia,2
+228,Hong Kong,Ireland,2
+229,Hong Kong,Israel,1
+230,Hong Kong,Nigeria,2
+231,Hong Kong,Singapore,1
+232,Hong Kong,South Korea,2
+233,Hong Kong,Sweden,1
+234,Hong Kong,Switzerland,1
+235,Hong Kong,United Kingdom,5
+236,Hong Kong,Japan,2
+237,Hong Kong,Turkey,2
+238,Indonesia,Canada,1
+239,Indonesia,Ireland,1
+240,Indonesia,Nigeria,1
+241,Indonesia,Singapore,4
+242,Indonesia,South Korea,1
+243,Indonesia,United Kingdom,3
+244,Indonesia,"Indonesia,",1
+245,Indonesia,Israel,1
+246,Indonesia,Lithuania,1
+247,Indonesia,Netherlands,1
+248,Indonesia,Norway,1
+249,Indonesia,Sweden,1
+250,Ireland,Austria,1
+251,Ireland,Colombia,1
+252,Ireland,Canada,1
+253,Ireland,Israel,5
+254,Ireland,Philippines,1
+255,Ireland,Spain,1
+256,Ireland,United Kingdom,7
+257,Ireland,Lithuania,1
+258,Ireland,Netherlands,1
+259,Ireland,Norway,1
+260,Ireland,Singapore,4
+261,Ireland,South Korea,1
+262,Ireland,Sweden,1
+263,Ireland,Switzerland,1
+264,Ireland,Turkey,1
+265,Nigeria,Singapore,1
+266,Nigeria,South Korea,1
+267,Singapore,Colombia,1
+268,Singapore,Israel,2
+269,Singapore,Lithuania,1
+270,Singapore,Netherlands,1
+271,Singapore,Canada,1
+272,Singapore,"Indonesia,",1
+273,Singapore,Norway,1
+274,Singapore,Singapore,1
+275,Singapore,South Korea,2
+276,Singapore,Sweden,1
+277,Singapore,United Kingdom,5
+278,Singapore,Vietnam,1
+279,South Korea,Colombia,2
+280,South Korea,Canada,2
+281,South Korea,Israel,6
+282,South Korea,Japan,1
+283,South Korea,Santa Clara,1
+284,South Korea,South Korea,1
+285,South Korea,Sweden,1
+286,South Korea,Switzerland,1
+287,South Korea,Turkey,1
+288,South Korea,United Kingdom,2
+289,United Kingdom,Belgium,2
+290,United Kingdom,Canada,6
+291,United Kingdom,Colombia,2
+292,United Kingdom,Czech Republic,1
+293,United Kingdom,Israel,20
+294,United Kingdom,Lithuania,1
+295,United Kingdom,Netherlands,2
+296,United Kingdom,Norway,4
+297,United Kingdom,Sweden,6
+298,United Kingdom,Switzerland,2
+299,United Kingdom,Turkey,1
+300,United Kingdom,Finland,1
+301,United Kingdom,Philippines,2
+302,United Kingdom,Santa Clara,1
+303,United Kingdom,Spain,5
+304,United Kingdom,United Kingdom,20
+305,Austria,Norway,1
+306,Norway,Canada,1
+307,Norway,Israel,2
+308,Norway,Lithuania,1
+309,Norway,Netherlands,3
+310,Norway,Denmark,1
+311,Norway,Spain,1
+312,Norway,Sweden,1
+313,Belgium,Czech Republic,1
+314,Belgium,Israel,2
+315,Belgium,Sweden,1
+316,Belgium,Turkey,1
+317,Belgium,Canada,2
+318,Czech Republic,Senegal,1
+319,Czech Republic,Israel,1
+320,Czech Republic,Sweden,1
+321,Czech Republic,Turkey,1
+322,Israel,Canada,5
+323,Israel,Colombia,2
+324,Israel,Israel,30
+325,Israel,Lithuania,7
+326,Israel,Philippines,1
+327,Israel,Spain,1
+328,Israel,Sweden,5
+329,Israel,Switzerland,6
+330,Israel,Turkey,1
+331,Israel,Japan,2
+332,Israel,Netherlands,2
+333,Sweden,Lithuania,1
+334,Sweden,Netherlands,1
+335,Sweden,Canada,2
+336,Sweden,Colombia,1
+337,Sweden,Denmark,1
+338,Sweden,Finland,1
+339,Sweden,Japan,1
+340,Sweden,Switzerland,1
+341,Sweden,Turkey,2
+342,Turkey,Colombia,1
+343,Turkey,Japan,1
+344,Turkey,Canada,1
+345,Canada,Colombia,2
+346,Canada,Japan,1
+347,Canada,Lithuania,1
+348,Canada,Netherlands,3
+349,Canada,Philippines,1
+350,Canada,Vietnam,1
+351,Netherlands,Japan,1
+352,Netherlands,Lithuania,1
+353,Netherlands,Finland,1
+354,Netherlands,Netherlands,1
+355,Netherlands,Spain,1
+356,Spain,Denmark,1
+357,Spain,Finland,1
+358,Spain,Japan,1
+359,Spain,Lithuania,1
+360,Spain,Philippines,1
+361,Spain,Switzerland,1
+362,Colombia,Japan,1
+363,Japan,Finland,1
+364,Philippines,Lithuania,1
+365,Philippines,Malaysia,1
+366,Philippines,Vietnam,1
+367,Philippines,Switzerland,1
+368,Switzerland,Lithuania,1

@@ -1,0 +1,226 @@
+	source	target	weight
+0	Artificial intelligence	Artificial intelligence	90
+1	Artificial intelligence	Auto & transportation	18
+2	Artificial intelligence	Consumer & retail	22
+3	Artificial intelligence	Cybersecurity	42
+4	Artificial intelligence	Data management & analytics	52
+5	Artificial intelligence	E-commerce & direct-to-consumer	90
+6	Artificial intelligence	Edtech	27
+7	Artificial intelligence	Fintech	192
+8	Artificial intelligence	Hardware	29
+9	Artificial intelligence	Health	51
+10	Artificial intelligence	Internet software & services	222
+11	Artificial intelligence	Mobile & telecommunications	26
+12	Artificial intelligence	Other	41
+13	Artificial intelligence	Supply chain, logistics, & delivery	41
+14	Artificial intelligence	Travel	10
+15	Auto & transportation	Artificial intelligence	22
+16	Auto & transportation	Auto & transportation	8
+17	Auto & transportation	Consumer & retail	7
+18	Auto & transportation	Cybersecurity	15
+19	Auto & transportation	Data management & analytics	9
+20	Auto & transportation	E-commerce & direct-to-consumer	60
+21	Auto & transportation	Edtech	7
+22	Auto & transportation	Fintech	60
+23	Auto & transportation	Hardware	10
+24	Auto & transportation	Health	14
+25	Auto & transportation	Internet software & services	66
+26	Auto & transportation	Mobile & telecommunications	8
+27	Auto & transportation	Other	13
+28	Auto & transportation	Supply chain, logistics, & delivery	18
+29	Auto & transportation	Travel	3
+30	Consumer & retail	Artificial intelligence	42
+31	Consumer & retail	Auto & transportation	6
+32	Consumer & retail	Consumer & retail	11
+33	Consumer & retail	Cybersecurity	4
+34	Consumer & retail	Data management & analytics	2
+35	Consumer & retail	E-commerce & direct-to-consumer	38
+36	Consumer & retail	Edtech	14
+37	Consumer & retail	Fintech	75
+38	Consumer & retail	Hardware	15
+39	Consumer & retail	Health	24
+40	Consumer & retail	Internet software & services	79
+41	Consumer & retail	Mobile & telecommunications	4
+42	Consumer & retail	Other	13
+43	Consumer & retail	Supply chain, logistics, & delivery	19
+44	Consumer & retail	Travel	1
+45	Cybersecurity	Artificial intelligence	36
+46	Cybersecurity	Auto & transportation	3
+47	Cybersecurity	Consumer & retail	7
+48	Cybersecurity	Cybersecurity	65
+49	Cybersecurity	Data management & analytics	61
+50	Cybersecurity	E-commerce & direct-to-consumer	68
+51	Cybersecurity	Edtech	14
+52	Cybersecurity	Fintech	153
+53	Cybersecurity	Hardware	6
+54	Cybersecurity	Health	44
+55	Cybersecurity	Internet software & services	206
+56	Cybersecurity	Mobile & telecommunications	14
+57	Cybersecurity	Other	13
+58	Cybersecurity	Supply chain, logistics, & delivery	19
+59	Cybersecurity	Travel	1
+60	Data management & analytics	Artificial intelligence	71
+61	Data management & analytics	Auto & transportation	8
+62	Data management & analytics	Consumer & retail	9
+63	Data management & analytics	Cybersecurity	64
+64	Data management & analytics	Data management & analytics	70
+65	Data management & analytics	E-commerce & direct-to-consumer	88
+66	Data management & analytics	Edtech	15
+67	Data management & analytics	Fintech	175
+68	Data management & analytics	Hardware	8
+69	Data management & analytics	Health	58
+70	Data management & analytics	Internet software & services	260
+71	Data management & analytics	Mobile & telecommunications	23
+72	Data management & analytics	Other	21
+73	Data management & analytics	Supply chain, logistics, & delivery	30
+74	Data management & analytics	Travel	3
+75	E-commerce & direct-to-consumer	Artificial intelligence	151
+76	E-commerce & direct-to-consumer	Auto & transportation	25
+77	E-commerce & direct-to-consumer	Consumer & retail	35
+78	E-commerce & direct-to-consumer	Cybersecurity	53
+79	E-commerce & direct-to-consumer	Data management & analytics	67
+80	E-commerce & direct-to-consumer	E-commerce & direct-to-consumer	225
+81	E-commerce & direct-to-consumer	Edtech	75
+82	E-commerce & direct-to-consumer	Fintech	352
+83	E-commerce & direct-to-consumer	Hardware	55
+84	E-commerce & direct-to-consumer	Health	92
+85	E-commerce & direct-to-consumer	Internet software & services	383
+86	E-commerce & direct-to-consumer	Mobile & telecommunications	42
+87	E-commerce & direct-to-consumer	Other	64
+88	E-commerce & direct-to-consumer	Supply chain, logistics, & delivery	88
+89	E-commerce & direct-to-consumer	Travel	20
+90	Edtech	Artificial intelligence	60
+91	Edtech	Auto & transportation	13
+92	Edtech	Consumer & retail	24
+93	Edtech	Cybersecurity	8
+94	Edtech	Data management & analytics	10
+95	Edtech	E-commerce & direct-to-consumer	52
+96	Edtech	Edtech	23
+97	Edtech	Fintech	94
+98	Edtech	Hardware	29
+99	Edtech	Health	20
+100	Edtech	Internet software & services	95
+101	Edtech	Mobile & telecommunications	9
+102	Edtech	Other	28
+103	Edtech	Supply chain, logistics, & delivery	21
+104	Edtech	Travel	6
+105	Fintech	Artificial intelligence	169
+106	Fintech	Auto & transportation	18
+107	Fintech	Consumer & retail	26
+108	Fintech	Cybersecurity	120
+109	Fintech	Data management & analytics	107
+110	Fintech	E-commerce & direct-to-consumer	274
+111	Fintech	Edtech	64
+112	Fintech	Fintech	598
+113	Fintech	Hardware	31
+114	Fintech	Health	144
+115	Fintech	Internet software & services	605
+116	Fintech	Mobile & telecommunications	36
+117	Fintech	Other	59
+118	Fintech	Supply chain, logistics, & delivery	100
+119	Fintech	Travel	15
+120	Hardware	Artificial intelligence	40
+121	Hardware	Auto & transportation	10
+122	Hardware	Consumer & retail	9
+123	Hardware	Cybersecurity	19
+124	Hardware	Data management & analytics	25
+125	Hardware	E-commerce & direct-to-consumer	40
+126	Hardware	Edtech	12
+127	Hardware	Fintech	77
+128	Hardware	Hardware	13
+129	Hardware	Health	30
+130	Hardware	Internet software & services	84
+131	Hardware	Mobile & telecommunications	12
+132	Hardware	Other	23
+133	Hardware	Supply chain, logistics, & delivery	22
+134	Hardware	Travel	4
+135	Health	Artificial intelligence	66
+136	Health	Auto & transportation	4
+137	Health	Consumer & retail	8
+138	Health	Cybersecurity	51
+139	Health	Data management & analytics	51
+140	Health	E-commerce & direct-to-consumer	58
+141	Health	Edtech	15
+142	Health	Fintech	169
+143	Health	Hardware	9
+144	Health	Health	78
+145	Health	Internet software & services	209
+146	Health	Mobile & telecommunications	17
+147	Health	Other	28
+148	Health	Supply chain, logistics, & delivery	32
+149	Health	Travel	6
+150	Internet software & services	Artificial intelligence	195
+151	Internet software & services	Auto & transportation	18
+152	Internet software & services	Consumer & retail	32
+153	Internet software & services	Cybersecurity	190
+154	Internet software & services	Data management & analytics	173
+155	Internet software & services	E-commerce & direct-to-consumer	264
+156	Internet software & services	Edtech	71
+157	Internet software & services	Fintech	585
+158	Internet software & services	Hardware	35
+159	Internet software & services	Health	185
+160	Internet software & services	Internet software & services	792
+161	Internet software & services	Mobile & telecommunications	50
+162	Internet software & services	Other	82
+163	Internet software & services	Supply chain, logistics, & delivery	94
+164	Internet software & services	Travel	9
+165	Mobile & telecommunications	Artificial intelligence	52
+166	Mobile & telecommunications	Auto & transportation	13
+167	Mobile & telecommunications	Consumer & retail	9
+168	Mobile & telecommunications	Cybersecurity	29
+169	Mobile & telecommunications	Data management & analytics	22
+170	Mobile & telecommunications	E-commerce & direct-to-consumer	64
+171	Mobile & telecommunications	Edtech	21
+172	Mobile & telecommunications	Fintech	124
+173	Mobile & telecommunications	Hardware	15
+174	Mobile & telecommunications	Health	31
+175	Mobile & telecommunications	Internet software & services	149
+176	Mobile & telecommunications	Mobile & telecommunications	13
+177	Mobile & telecommunications	Other	17
+178	Mobile & telecommunications	Supply chain, logistics, & delivery	21
+179	Mobile & telecommunications	Travel	4
+180	Other	Artificial intelligence	48
+181	Other	Auto & transportation	8
+182	Other	Consumer & retail	10
+183	Other	Cybersecurity	25
+184	Other	Data management & analytics	37
+185	Other	E-commerce & direct-to-consumer	63
+186	Other	Edtech	11
+187	Other	Fintech	118
+188	Other	Hardware	13
+189	Other	Health	25
+190	Other	Internet software & services	126
+191	Other	Mobile & telecommunications	9
+192	Other	Other	24
+193	Other	Supply chain, logistics, & delivery	24
+194	Other	Travel	5
+195	Supply chain, logistics, & delivery	Artificial intelligence	52
+196	Supply chain, logistics, & delivery	Auto & transportation	7
+197	Supply chain, logistics, & delivery	Consumer & retail	10
+198	Supply chain, logistics, & delivery	Cybersecurity	37
+199	Supply chain, logistics, & delivery	Data management & analytics	36
+200	Supply chain, logistics, & delivery	E-commerce & direct-to-consumer	86
+201	Supply chain, logistics, & delivery	Edtech	16
+202	Supply chain, logistics, & delivery	Fintech	144
+203	Supply chain, logistics, & delivery	Hardware	12
+204	Supply chain, logistics, & delivery	Health	38
+205	Supply chain, logistics, & delivery	Internet software & services	163
+206	Supply chain, logistics, & delivery	Mobile & telecommunications	16
+207	Supply chain, logistics, & delivery	Other	20
+208	Supply chain, logistics, & delivery	Supply chain, logistics, & delivery	21
+209	Supply chain, logistics, & delivery	Travel	5
+210	Travel	Artificial intelligence	22
+211	Travel	Auto & transportation	8
+212	Travel	Consumer & retail	5
+213	Travel	Cybersecurity	13
+214	Travel	Data management & analytics	21
+215	Travel	E-commerce & direct-to-consumer	35
+216	Travel	Edtech	6
+217	Travel	Fintech	43
+218	Travel	Hardware	2
+219	Travel	Health	9
+220	Travel	Internet software & services	49
+221	Travel	Mobile & telecommunications	5
+222	Travel	Other	11
+223	Travel	Supply chain, logistics, & delivery	9
+224	Travel	Travel	1
