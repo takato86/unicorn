@@ -1,0 +1,1198 @@
+,Investor,Total valuation($B),Valuation count,Mean valuation($B),#countries,Country set,#industries,Industry set,#unicorns,Unicorn set,Oldest datetime joined
+0,.406 Ventures,1.7,1,1.7,1,{'United States'},1,{'Data management & analytics'},1,{'Reltio'},2021-11-04
+1,01 Advisors,9.350000000000001,2,4.675000000000001,1,{'United States'},2,"{'Hardware', 'Fintech'}",2,"{'Tipalti', 'Density'}",2020-10-06
+2,10T Fund,7.1,1,7.1,1,{'United States'},1,{'Fintech'},1,{'Gemini'},2021-11-19
+3,14W,2.5,2,1.25,1,{'United States'},2,"{'Internet software & services', 'Health'}",2,"{'Fever Labs', 'K Health'}",2021-01-19
+4,14W. ForgeLight,1.1,1,1.1,1,{'United Kingdom'},1,{'Fintech'},1,{'The Bank of London'},2021-11-30
+5,1955 Capital,1.0,1,1.0,1,{'United States'},1,{'Other'},1,"{""Nature's Fynd""}",2021-07-19
+6,360 Capital Partners,2.0,1,2.0,1,{'France'},1,{'Hardware'},1,{'Exotec'},2022-01-17
+7,3G Capital Management,1.0,1,1.0,1,{'Brazil'},1,{'Mobile & telecommunications'},1,{'Movile'},2018-07-12
+8,3L,2.25,2,1.125,1,{'United States'},2,"{'Internet software & services', 'Cybersecurity'}",2,"{'PLACE', 'Incode Technologies'}",2021-11-17
+9,3i Group,5.0,1,5.0,1,{'United Kingdom'},1,{'Other'},1,{'Howden Group Holdings'},2020-09-29
+10,3one4 Capital Partners,1.0,1,1.0,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'Licious'},2021-10-05
+11,468 Capital,1.0,1,1.0,1,{'Germany'},1,{'Consumer & retail'},1,{'Razor'},2021-11-08
+12,500 Global,4.1,2,2.05,2,"{'Vietnam', 'Singapore'}",2,"{'Internet software & services', 'E-commerce & direct-to-consumer'}",2,"{'Sky Mavis', 'Carousell'}",2021-09-15
+13,500 Startups,4.7,3,1.5666666666666667,3,"{'Philippines', 'Malaysia', 'United States'}",3,"{'E-commerce & direct-to-consumer', 'Other', 'Fintech'}",3,"{'Revolution Precrafted', 'Chipper Cash', 'Carsome'}",2017-10-23
+14,58.com,3.0,2,1.5,1,{'China'},1,{'E-commerce & direct-to-consumer'},2,"{'Tubatu.com', 'Zhuan Zhuan'}",2015-03-09
+15,5Y Capital,4.22,3,1.4066666666666665,1,{'China'},3,"{'E-commerce & direct-to-consumer', 'Mobile & telecommunications', 'Artificial intelligence'}",3,"{'XtalPi', 'Lamabang', 'GalaxySpace'}",2015-03-06
+16,83North,18.8,4,4.7,3,"{'Germany', 'France', 'United States'}",3,"{'Auto & transportation', 'E-commerce & direct-to-consumer', 'Data management & analytics'}",4,"{'Celonis', 'Mirakl', 'Via', 'SellerX'}",2018-06-26
+17,8VC,9.89,6,1.6483333333333334,1,{'United States'},4,"{'Internet software & services', 'Health', 'Supply chain, logistics, & delivery', 'Fintech'}",6,"{'Qualia', 'Karat', 'Addepar', 'Orca Bio', 'Project44', 'Deliverr'}",2020-06-17
+18,A&E Television Networks,5.7,1,5.7,1,{'United States'},1,{'Internet software & services'},1,{'Vice Media'},2011-04-02
+19,A&NN,2.0,1,2.0,1,{'Luxembourg'},1,{'Other'},1,{'OCSiAl'},2019-03-04
+20,A91 Partners,3.5,1,3.5,1,{'India'},1,{'Fintech'},1,{'Digit Insurance'},2021-01-15
+21,ACE & Company,1.2,1,1.2,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'GrubMarket'},2021-09-14
+22,AME Cloud Ventures,6.65,3,2.216666666666667,2,"{'Canada', 'United States'}",3,"{'Consumer & retail', 'Artificial intelligence', 'Fintech'}",3,"{'Zume', 'Blockstream', 'Vectra Networks'}",2018-11-01
+23,ARCH Venture Partners,3.21,2,1.605,1,{'United States'},1,{'Health'},2,"{'Alzheon', 'Aledade'}",2020-09-30
+24,AU21,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'MobileCoin'},2021-07-07
+25,AWZ Ventures,1.0,1,1.0,1,{'Israel'},1,{'Cybersecurity'},1,{'Pentera'},2022-01-11
+26,AXA Venture Partners,1.4,1,1.4,1,{'United States'},1,{'Internet software & services'},1,{'Phenom People'},2021-04-07
+27,Accel,197.47,57,3.464385964912281,16,"{'Brazil', 'Ireland', 'Sweden', 'Norway', 'Canada', 'France', 'Indonesia', 'India', 'Singapore', 'Germany', 'Estonia', 'Israel', 'Lithuania', 'Netherlands', 'United Kingdom', 'United States'}",11,"{'Fintech', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Other', 'Supply chain, logistics, & delivery', 'Edtech', 'Mobile & telecommunications', 'Data management & analytics', 'Artificial intelligence'}",57,"{'DriveWealth', 'G2', 'BlackBuck', 'Vinted', 'Sysdig', 'Podium', 'Ethos Technologies', 'Zetwerk', 'Doctolib', 'Scale AI', 'CaptivateIQ', 'Fever Labs', 'Sorare', 'Celonis', 'Public', 'Xendit', 'Netskope', 'Circle', 'Chainalysis', 'Hopin', 'Forte Labs', 'Mensa Brands', 'Moglix', 'Zenoti', 'Vercel', 'Veriff', 'Sentry', 'Vedantu', 'Airbyte', 'UpGrad', 'Mux', 'Snyk', 'Skydio', 'Webflow', 'Urban Company', 'Misfits Market', 'Algolia', 'goPuff', 'The Zebra', 'Cognite', 'Infra.Market', 'PayFit', 'KRY', 'MessageBird', 'Melio', 'CureFit', 'Gem', 'Ironclad', 'Nuvemshop', 'Klaviyo', 'MindTickle', 'ChargeBee Technologies', 'Miro', 'ZEPZ', 'Checkr', '1Password', 'BrowserStack'}",2018-05-15
+28,Accel India,10.7,1,10.7,1,{'India'},1,"{'Supply chain, logistics, & delivery'}",1,{'Swiggy'},2018-06-21
+29,Accel Partners,26.5,5,5.3,4,"{'China', 'India', 'France', 'United States'}",4,"{'Auto & transportation', 'Hardware', 'Internet software & services', 'Cybersecurity'}",5,"{'Lookout', 'Vox Media', 'BlaBlaCar', 'Ola Cabs', 'DJI Innovations'}",2013-10-10
+30,Accelm Scania Growth Capital,1.1,1,1.1,1,{'Germany'},1,"{'Supply chain, logistics, & delivery'}",1,{'Sennder'},2021-01-14
+31,Access Industries,2.9,2,1.45,2,"{'France', 'Israel'}",2,"{'Auto & transportation', 'Internet software & services'}",2,"{'Gett', 'Deezer'}",2016-05-24
+32,Accomplice,9.8,4,2.45,2,"{'Canada', 'United States'}",2,"{'Artificial intelligence', 'Fintech'}",4,"{'Freshbooks', 'DataRobot', 'CoinList', 'Orchard'}",2019-07-29
+33,Acero Capital,1.0,1,1.0,1,{'United States'},1,{'Cybersecurity'},1,{'Contrast Security'},2021-11-09
+34,Activant Capital,14.0,3,4.666666666666667,2,"{'Singapore', 'United States'}",2,"{'Supply chain, logistics, & delivery', 'Fintech'}",3,"{'bolttech', 'Deliverr', 'Bolt'}",2021-07-01
+35,Activant Capital Group,3.5,1,3.5,1,{'United States'},1,{'Artificial intelligence'},1,{'Indigo Ag'},2017-09-26
+36,Acton Capital Partners,5.5,1,5.5,1,{'Germany'},1,{'Fintech'},1,{'Mambu'},2021-01-06
+37,Adams Street Partners,1.0,1,1.0,1,{'Canada'},1,{'Internet software & services'},1,{'Visier'},2021-06-29
+38,Addition,7.7,2,3.85,1,{'United States'},1,{'Fintech'},2,"{'Chainalysis', 'Alchemy'}",2020-11-23
+39,Addor Capital,3.18,1,3.18,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Huitongda'},2017-12-22
+40,Advance Venture Partners,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'Morning Consult'},2021-06-08
+41,Advancit Capital,1.2,1,1.2,1,{'United States'},1,{'Fintech'},1,{'Public'},2021-02-17
+42,Advantech Capital,1.32,1,1.32,1,{'China'},1,{'Cybersecurity'},1,{'Tongdun Technology'},2019-04-25
+43,Advent International,19.05,7,2.7214285714285715,3,"{'Colombia', 'Mexico', 'United States'}",5,"{'Internet software & services', 'E-commerce & direct-to-consumer', 'Other', 'Data management & analytics', 'Artificial intelligence'}",7,"{'Iodine Software', 'Assembly', 'LifeMiles', 'Merama', 'BigPanda', 'Tekion', 'Thrasio'}",2015-07-13
+44,Affirma Capital,1.0,1,1.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'DianRong'},2017-08-02
+45,Afore Capital,1.17,1,1.17,1,{'United States'},1,{'Health'},1,{'Modern Health'},2021-02-11
+46,Aglae Ventures,8.96,3,2.986666666666667,1,{'France'},2,"{'Artificial intelligence', 'E-commerce & direct-to-consumer'}",3,"{'Back Market', 'Meero', 'Ankorstore'}",2019-06-18
+47,Ainge Advisory,2.25,1,2.25,1,{'United States'},1,{'Internet software & services'},1,{'Pattern'},2021-10-06
+48,Airbus Ventures,3.5,1,3.5,1,{'United States'},1,{'Internet software & services'},1,{'Tekion'},2020-10-21
+49,Ajinomoto,1.59,1,1.59,1,{'South Africa'},1,{'Consumer & retail'},1,{'Promasidor Holdings'},2016-11-08
+50,Aker,1.6,1,1.6,1,{'Norway'},1,{'Data management & analytics'},1,{'Cognite'},2021-05-19
+51,Alaska Permanent Fund,3.5,1,3.5,1,{'United States'},1,{'Artificial intelligence'},1,{'Indigo Ag'},2017-09-26
+52,Aleph,8.6,5,1.72,2,"{'United States', 'Israel'}",5,"{'Hardware', 'Fintech', 'Internet software & services', 'Supply chain, logistics, & delivery', 'Edtech'}",5,"{'Melio', 'Next Silicon', 'HoneyBook', 'Fabric', 'JoyTunes'}",2021-01-25
+53,Alexandria Venture Investments,1.2,1,1.2,1,{'United States'},1,{'Other'},1,{'Inari'},2021-05-12
+54,Alibaba Entrepreneurs Fund,1.0,1,1.0,1,{'Hong Kong'},1,{'Fintech'},1,{'WeLab'},2017-11-08
+55,Alibaba Group,19.68,10,1.968,3,"{'China', 'India', 'United States'}",8,"{'Hardware', 'Consumer & retail', 'Internet software & services', 'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Edtech', 'Mobile & telecommunications', 'Data management & analytics'}",10,"{'DT Dream', '58 Daojia', 'Meizu Technology', 'KnowBox', 'TangoMe', '1KMXC', 'Carzone', 'Snapdeal', 'Easyhome', 'Yiguo'}",2014-03-20
+56,Alibaba Pictures Group,3.24,1,3.24,1,{'China'},1,{'Other'},1,{'Dadi Cinema'},2016-05-11
+57,Alkeon Capital Management,2.7,2,1.35,2,"{'Netherlands', 'United States'}",2,"{'E-commerce & direct-to-consumer', 'Artificial intelligence'}",2,"{'Harness', 'Hotmart'}",2020-03-17
+58,AllegisCyber Capital,1.7,1,1.7,1,{'United States'},1,{'Cybersecurity'},1,{'Dragos'},2021-10-28
+59,Alliance Consumer Growth,3.2,1,3.2,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Skims'},2021-04-09
+60,Ally Bridge Group,1.31,1,1.31,1,{'United States'},1,{'Health'},1,{'Alzheon'},2020-09-30
+61,Almaz Capital Partners,2.0,1,2.0,1,{'United States'},1,{'Data management & analytics'},1,{'ClickHouse'},2021-10-28
+62,Alpargatas,1.0,1,1.0,1,{'United States'},1,{'Consumer & retail'},1,"{""Rothy's""}",2021-12-21
+63,Alpha JWC Ventures,3.0,3,1.0,2,"{'Singapore', 'Indonesia'}",3,"{'Consumer & retail', 'E-commerce & direct-to-consumer', 'Fintech'}",3,"{'Ajaib', 'Kopi Kenangan', 'Carro'}",2021-06-14
+64,Alpha Wave Global,1.62,1,1.62,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'DealShare'},2022-01-27
+65,Alta Partners,3.3200000000000003,2,1.6600000000000001,1,{'United States'},1,{'Health'},2,"{'DispatchHealth', 'Transcarent'}",2021-03-03
+66,Alta Ventures Mexico,2.0,1,2.0,1,{'Mexico'},1,{'Fintech'},1,{'Clip'},2021-06-10
+67,AltaIR Capital,19.6,3,6.533333333333334,1,{'United States'},1,{'Internet software & services'},3,"{'Miro', 'OpenWeb', 'Turing'}",2021-11-09
+68,Altamont Capital Partners,2.19,1,2.19,1,{'United Kingdom'},1,{'Other'},1,{'Accelerant'},2022-01-12
+69,Altimeter Capital,5.0,3,1.6666666666666667,1,{'United States'},3,"{'Internet software & services', 'Data management & analytics', 'Fintech'}",3,"{'Solo.io', 'Modern Treasury', 'ClickHouse'}",2021-10-06
+70,Altos Ventures,3.0,3,1.0,2,"{'South Korea', 'United States'}",3,"{'Auto & transportation', 'Edtech', 'Internet software & services'}",3,"{'Quizlet', 'Socar', 'PandaDoc'}",2020-05-13
+71,Alumni Ventures Group,1.25,1,1.25,1,{'United States'},1,{'Internet software & services'},1,{'Mythical Games'},2021-11-04
+72,Alven Capital,15.11,5,3.022,2,"{'France', 'United States'}",4,"{'Artificial intelligence', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Fintech'}",5,"{'Dataiku', 'Meero', 'Algolia', 'Ankorstore', 'Qonto'}",2019-06-18
+73,Amadeus Capital Partners,7.57,2,3.785,2,"{'Brazil', 'United Kingdom'}",2,"{'Artificial intelligence', 'Fintech'}",2,"{'Creditas', 'Graphcore'}",2018-12-18
+74,Amasia,1.0,1,1.0,1,{'Indonesia'},1,{'Fintech'},1,{'Xendit'},2021-09-14
+75,American Express Ventures,16.5,5,3.3,4,"{'Israel', 'United Kingdom', 'Canada', 'United States'}",2,"{'Cybersecurity', 'Fintech'}",5,"{'Melio', 'SumUp', 'Better.com', 'FalconX', 'Trulioo'}",2019-07-16
+76,American Family Ventures,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Clearcover'},2021-04-13
+77,Amiti Ventures,1.5,1,1.5,1,{'Israel'},1,{'Hardware'},1,{'Next Silicon'},2021-06-14
+78,Amplify Partners,1.5,1,1.5,1,{'United States'},1,{'Data management & analytics'},1,{'dbt Labs'},2021-06-30
+79,Andalusian Capital Partners,5.0,1,5.0,1,{'Israel'},1,{'Mobile & telecommunications'},1,{'Moon Active'},2020-01-26
+80,Andreessen Horowitz,180.1,42,4.288095238095238,7,"{'Brazil', 'Canada', 'France', 'Hong Kong', 'Colombia', 'United Kingdom', 'United States'}",12,"{'Travel', 'Hardware', 'Fintech', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Supply chain, logistics, & delivery', 'Other', 'Mobile & telecommunications', 'Data management & analytics', 'Artificial intelligence'}",42,"{'Shield AI', 'Divvy Homes', 'Loft', 'SnapLogic', 'Anchorage Digital', 'Dialpad', 'dbt Labs', 'Tackle.io', 'Magic Leap', 'Mercury', 'Mixpanel', 'Databricks', 'Anduril', 'Shift Technology', 'Phantom', 'Devoted Health', 'Whatnot', 'Mux', 'Skydio', 'Netlify', 'Rappi', 'Fanatics', 'Komodo Health', 'Envoy', 'Dapper Labs', 'Anyscale', 'Improbable', 'Deel', 'Honor Technology', 'OpenSea', 'Instabase', 'Cider', 'Clubhouse', 'Everlaw', 'Apeel Sciences', 'Wrapbook', 'Tanium', 'FiveTran', 'Starburst', 'TripActions', 'Astranis Space Technologies', 'Applied Intuition'}",2012-06-06
+81,Ant Financial Services Group,9.0,2,4.5,1,{'China'},2,"{'Auto & transportation', 'Artificial intelligence'}",2,"{'MEGVII', 'Hello TransTech'}",2017-10-31
+82,Ant Group,1.5,1,1.5,1,{'Thailand'},1,{'Fintech'},1,{'Ascend Money'},2021-09-27
+83,Anthem Venture Partners,1.4,1,1.4,1,{'United States'},1,{'Internet software & services'},1,{'VideoAmp'},2021-10-21
+84,Anthemis,1.0,1,1.0,1,{'United Kingdom'},1,{'Fintech'},1,{'TrueLayer'},2021-09-21
+85,Anthermis,1.3,1,1.3,1,{'United States'},1,{'Fintech'},1,{'Betterment'},2021-09-29
+86,Anthos Capital,18.0,2,9.0,2,"{'Canada', 'United States'}",2,"{'Edtech', 'E-commerce & direct-to-consumer'}",2,"{'goPuff', 'ApplyBoard'}",2020-05-05
+87,Apax Partners,1.0,1,1.0,1,{'India'},1,{'Data management & analytics'},1,{'Fractal Analytics'},2022-01-05
+88,Ardian,2.1,2,1.05,2,"{'Germany', 'United States'}",2,"{'E-commerce & direct-to-consumer', 'Fintech'}",2,"{'Berlin Brands Group', 'Ivalua'}",2019-05-21
+89,Array Ventures,1.0,1,1.0,1,{'United States'},1,{'Artificial intelligence'},1,{'Placer.ai'},2022-01-12
+90,Artiman Ventures,3.0,1,3.0,1,{'Canada'},1,{'Edtech'},1,{'ApplyBoard'},2020-05-05
+91,Artis Ventures,4.8,1,4.8,1,{'United States'},1,{'Health'},1,{'Cerebral'},2021-06-10
+92,Ascension Ventures,4.0,1,4.0,1,{'United States'},1,{'Internet software & services'},1,{'Olive'},2020-12-01
+93,Aspect Ventures,4.9,2,2.45,2,"{'United States', 'Israel'}",1,{'Cybersecurity'},2,"{'Exabeam', 'Cato Networks'}",2020-11-17
+94,Asset Management Ventures,2.2,1,2.2,1,{'United States'},1,{'Health'},1,{'Reify Health'},2021-08-10
+95,Astanor Ventures,1.0,1,1.0,1,{'France'},1,{'Other'},1,{'Ynsect'},2019-02-21
+96,Astral Capital,9.2,1,9.2,1,{'United States'},1,{'Internet software & services'},1,{'Klaviyo'},2020-11-17
+97,Atlantic Food Labs,3.1,1,3.1,1,{'Germany'},1,{'E-commerce & direct-to-consumer'},1,{'Gorillas'},2021-03-25
+98,Atomico,19.55,7,2.792857142857143,6,"{'Finland', 'Spain', 'Germany', 'Netherlands', 'United States', 'Japan'}",4,"{'Mobile & telecommunications', 'Health', 'Internet software & services', 'Other'}",7,"{'Jobandtalent', 'InFarm', 'Gympass', 'SmartNews', 'Hinge Health', 'Aiven', 'MessageBird'}",2019-06-12
+99,Atop Capital,3.3,1,3.3,1,{'China'},1,{'Auto & transportation'},1,{'WeRide'},2020-12-23
+100,Augmentum Fintech,1.0,1,1.0,1,{'United Kingdom'},1,{'Fintech'},1,{'Zopa'},2021-10-19
+101,August Capital,2.0,1,2.0,1,{'United States'},1,{'Artificial intelligence'},1,{'Avant'},2012-12-17
+102,Auriga,1.1,1,1.1,1,{'Switzerland'},1,{'Data management & analytics'},1,{'Nexthink'},2021-02-08
+103,Automobile Industry Guidance Fund,1.85,1,1.85,1,{'China'},1,{'Auto & transportation'},1,{'ENOVATE'},2019-04-15
+104,Avenir Growth Capital,1.75,1,1.75,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'Spinny'},2021-11-24
+105,Aviation Industry Corporation of China,12.6,2,6.3,2,"{'China', 'United Kingdom'}",2,"{'Hardware', 'E-commerce & direct-to-consumer'}",2,"{'Global Switch', 'Mofang Living'}",2016-04-13
+106,Aviv Venture Capital,1.03,1,1.03,1,{'Israel'},1,{'Artificial intelligence'},1,{'OrCam Technologies'},2018-02-20
+107,Ayala Corporation,2.0,1,2.0,1,{'Philippines'},1,{'Fintech'},1,{'Mynt'},2021-10-28
+108,B Capital Group,5.75,3,1.9166666666666667,2,"{'Singapore', 'United States'}",3,"{'Health', 'Supply chain, logistics, & delivery', 'Fintech'}",3,"{'Ninja Van', 'Evidation', 'FalconX'}",2021-03-22
+109,BA Capital,9.28,1,9.28,1,{'China'},1,{'Other'},1,{'HEYTEA'},2019-07-01
+110,BDC Venture Capital,1.75,1,1.75,1,{'Canada'},1,{'Cybersecurity'},1,{'Trulioo'},2021-06-07
+111,BDT Capital Partners,12.0,1,12.0,1,{'United States'},1,{'Internet software & services'},1,{'GoodLeap'},2021-10-13
+112,BECO Capital,1.0,1,1.0,1,{'United Arab Emirates'},1,"{'Supply chain, logistics, & delivery'}",1,{'Kitopi'},2021-07-01
+113,BEENEXT,5.45,3,1.8166666666666667,2,"{'India', 'Japan'}",2,"{'Internet software & services', 'Fintech'}",3,"{'SmartHR', 'BharatPe', 'NoBroker'}",2021-06-08
+114,BGF Ventures,1.7,1,1.7,1,{'United Kingdom'},1,"{'Supply chain, logistics, & delivery'}",1,{'Gousto'},2020-11-03
+115,BMO Capital,3.0,1,3.0,1,{'United States'},1,{'Fintech'},1,{'Inxeption'},2022-01-13
+116,BMW i Ventures,2.5300000000000002,2,1.2650000000000001,2,"{'United Kingdom', 'United States'}",2,"{'Auto & transportation', 'E-commerce & direct-to-consumer'}",2,"{'Fair', 'Motorway'}",2018-12-20
+117,BNP Paribas,1.4,1,1.4,1,{'United States'},1,{'Fintech'},1,{'Symphony'},2017-05-16
+118,BOC International,1.0,1,1.0,1,{'China'},1,{'Artificial intelligence'},1,{'Intellifusion'},2019-03-22
+119,BOLDstart Ventures,13.1,3,4.366666666666666,2,"{'United Kingdom', 'United States'}",2,"{'Cybersecurity', 'Fintech'}",3,"{'BigID', 'Snyk', 'BlockDaemon'}",2020-01-21
+120,BP Ventures,1.5,1,1.5,1,{'Israel'},1,{'Other'},1,{'StoreDot'},2022-01-04
+121,BPI France,1.14,1,1.14,1,{'France'},1,{'Health'},1,{'Doctolib'},2019-03-19
+122,BUILD Capital Partners,1.44,1,1.44,1,{'Sweden'},1,{'Auto & transportation'},1,{'Einride'},2021-12-31
+123,Baidu,11.219999999999999,5,2.2439999999999998,1,{'China'},4,"{'Hardware', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Edtech'}",5,"{'Xinchao Media', 'Womai', 'Lianjia', 'HuJiang', 'Coocaa'}",2015-10-12
+124,Baidu Capital,5.0,1,5.0,1,{'China'},1,{'Auto & transportation'},1,{'WM Motor'},2019-03-08
+125,Baidu Ventures,1.05,1,1.05,1,{'China'},1,{'Artificial intelligence'},1,{'Hesai Tech'},2020-08-01
+126,Baillie Gifford & Co.,7.3,3,2.433333333333333,2,"{'Australia', 'United States'}",3,"{'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery', 'Artificial intelligence'}",3,"{'Pet Circle', 'Zipline', 'Indigo Ag'}",2017-09-26
+127,Bain & Company,2.0,1,2.0,1,{'United States'},1,{'Artificial intelligence'},1,{'Hive'},2021-04-21
+128,Bain Capital,3.0,3,1.0,3,"{'South Korea', 'Germany', 'United States'}",3,"{'Auto & transportation', 'E-commerce & direct-to-consumer', 'Fintech'}",3,"{'Carson Group', 'Berlin Brands Group', 'Socar'}",2020-10-16
+129,Bain Capital Credit,1.0,1,1.0,1,{'United Kingdom'},1,{'Fintech'},1,{'SumUp'},2019-07-16
+130,Bain Capital Tech Opportunities,2.05,2,1.025,1,{'United States'},2,"{'Internet software & services', 'Data management & analytics'}",2,"{'Mixpanel', 'Axtria'}",2021-05-13
+131,Bain Capital Ventures,12.63,7,1.8042857142857145,1,{'United States'},4,"{'Internet software & services', 'Data management & analytics', 'Cybersecurity', 'Fintech'}",7,"{'Sysdig', 'Iodine Software', 'Clari', 'Justworks', 'Quantum Metric', 'Redis Labs', 'ReCharge'}",2020-01-28
+132,Balderton Capital,9.0,6,1.5,6,"{'Sweden', 'France', 'Germany', 'Mexico', 'United Kingdom', 'United States'}",4,"{'Travel', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Fintech'}",6,"{'VOI', 'Vestiaire Collective', 'Aircall', 'Zego', 'Contentful', 'Merama'}",2021-03-01
+133,Ballast Point Ventures,1.0,1,1.0,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'The Zebra'},2021-04-12
+134,Bank Of China Group Investment,1.16,1,1.16,1,{'China'},1,{'Auto & transportation'},1,{'SVOLT Energy'},2020-06-08
+135,Bank of China,2.0,1,2.0,1,{'China'},1,{'Artificial intelligence'},1,{'4Paradigm'},2018-12-19
+136,Banner Ventures,1.25,1,1.25,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",1,{'Route'},2022-01-21
+137,Banyan Capital,3.17,2,1.585,1,{'China'},2,"{'E-commerce & direct-to-consumer', 'Artificial intelligence'}",2,"{'YITU Technology', 'BeiBei'}",2015-01-22
+138,Barter Ventures,6.1,1,6.1,1,{'United States'},1,{'Other'},1,{'Black Unicorn Factory'},2021-05-20
+139,Baseline Ventures,1.7,1,1.7,1,{'United States'},1,{'Internet software & services'},1,{'CircleCI'},2021-05-11
+140,Battery Ventures,79.7,14,5.692857142857143,6,"{'Belgium', 'France', 'United States', 'Germany', 'United Kingdom', 'Israel'}",6,"{'Travel', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Data management & analytics', 'Artificial intelligence'}",14,"{'6Sense', 'Collibra', 'Matillion', 'Reify Health', 'ServiceTitan', 'Hibob', 'Sisense', 'StockX', 'Databricks', 'Shift Technology', 'Workato', 'BigPanda', 'Omio', 'Pendo'}",2018-10-23
+141,Bedrock Capital,2.9,1,2.9,1,{'United States'},1,{'Internet software & services'},1,{'Workrise'},2019-09-30
+142,Beijing Juneng Hesheng Industry Investment Fund,1.08,1,1.08,1,{'China'},1,{'Internet software & services'},1,{'Nxin'},2018-09-18
+143,Beijing Shuju Xinrong Fund,1.08,1,1.08,1,{'China'},1,{'Internet software & services'},1,{'Nxin'},2018-09-18
+144,Benchmark,35.9,10,3.59,3,"{'Brazil', 'France', 'United States'}",7,"{'Hardware', 'Fintech', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Data management & analytics', 'Other'}",10,"{'Modern Treasury', 'Cerebras Systems', 'Benchling', 'Wildlife Studios', 'Cockroach Labs', 'Quora', 'Sorare', 'Airbyte', 'Discord', 'Stytch'}",2017-04-21
+145,Benhcmark,4.2,1,4.2,1,{'United States'},1,{'Fintech'},1,{'Chainalysis'},2020-11-23
+146,Berkshire Partners,1.0,1,1.0,1,{'United States'},1,{'Consumer & retail'},1,{'Kendra Scott'},2016-12-21
+147,Bertelsmann Asia Investments,3.0,2,1.5,1,{'China'},2,"{'Mobile & telecommunications', 'Health'}",2,"{'Fiture', 'Keep'}",2020-05-19
+148,Bertelsmann India Investments,4.2,2,2.1,1,{'India'},2,"{'Edtech', 'E-commerce & direct-to-consumer'}",2,"{'Eruditus Executive Education', 'Licious'}",2021-08-12
+149,Bessemer Venture Partners,50.34,21,2.3971428571428572,6,"{'Brazil', 'Canada', 'South Korea', 'India', 'United States', 'Israel'}",9,"{'Artificial intelligence', 'Fintech', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Supply chain, logistics, & delivery', 'Mobile & telecommunications', 'Data management & analytics', 'Other'}",21,"{'ServiceTitan', 'Hibob', 'Alloy', 'Axonius', 'Tackle.io', 'Papaya Global', 'Productboard', 'Starry', 'Claroty', 'DriveNets', 'Ada Support', 'Yotpo', 'MyGlamm', 'Shippo', 'Betterment', 'Zapier', 'Sila Nanotechnologies', 'Toss', 'Wildlife Studios', 'Devo', 'Firebolt'}",2018-07-03
+150,Bezos Expeditions,3.2,2,1.6,1,{'United States'},1,{'Fintech'},2,"{'Chipper Cash', 'Pilot.com'}",2021-03-26
+151,Big Bets,1.0,1,1.0,1,{'Brazil'},1,{'Artificial intelligence'},1,{'Unico'},2021-08-03
+152,Bitmain Technologies_,1.0,1,1.0,1,{'Japan'},1,{'Fintech'},1,{'Liquid'},2019-04-03
+153,BlackRock,21.17,10,2.117,3,"{'Germany', 'Norway', 'United States'}",7,"{'Hardware', 'Fintech', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery', 'Data management & analytics', 'Artificial intelligence'}",10,"{'Scalable Capital', 'Snorkel AI', 'JumpCloud', 'PsiQuantum', 'Enpal', 'GrubMarket', 'iCapital Network', 'Gelato', 'Loadsmart', 'Trumid'}",2020-07-15
+154,Blackbird Ventures,43.1,3,14.366666666666667,1,{'Australia'},1,{'Internet software & services'},3,"{'Culture Amp', 'Canva', 'SafetyCulture'}",2018-01-08
+155,Blackrock,7.0,3,2.3333333333333335,2,"{'India', 'United States'}",3,"{'E-commerce & direct-to-consumer', 'Other', 'Fintech'}",3,"{'Snapdeal', 'Farmers Business Network', 'Unqork'}",2014-05-21
+156,Blackstone,20.9,7,2.9857142857142853,3,"{'Israel', 'Sweden', 'United States'}",6,"{'Fintech', 'Internet software & services', 'Health', 'Supply chain, logistics, & delivery', 'Cybersecurity', 'Edtech'}",7,"{'Pentera', 'Carbon Health', 'Epidemic Sound', 'ISN', 'iCapital Network', 'Articulate', 'Guild Education'}",2019-11-13
+157,Bling Capital,2.15,2,1.075,1,{'United States'},2,"{'Health', 'Fintech'}",2,"{'Elemy', 'Vise'}",2021-05-18
+158,BlockTower Capital,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Injective Protocol'},2021-04-20
+159,Blockchain Capital,6.2,2,3.1,2,"{'Canada', 'United States'}",1,{'Fintech'},2,"{'Anchorage Digital', 'Blockstream'}",2021-08-24
+160,Bloomberg Beta,6.2,2,3.1,1,{'United States'},2,"{'Internet software & services', 'Supply chain, logistics, & delivery'}",2,"{'LaunchDarkly', 'Flexport'}",2018-04-30
+161,Blu Venture Investors,1.5,1,1.5,1,{'United States'},1,{'Cybersecurity'},1,{'ID.me'},2021-03-19
+162,Blue Cloud Ventures,3.5,2,1.75,1,{'United States'},1,{'Internet software & services'},2,"{'Paradox', 'Iterable'}",2021-06-15
+163,Blue Label Telecoms,1.0,1,1.0,1,{'South Africa'},1,{'Mobile & telecommunications'},1,{'Cell C'},2017-08-07
+164,Blue Lake Capital,2.8,1,2.8,1,{'China'},1,{'Mobile & telecommunications'},1,{'Meicai'},2016-06-22
+165,BlueCross BlueShield Venture Partners,1.3,1,1.3,1,{'United States'},1,{'Health'},1,{'HeartFlow'},2017-12-04
+166,BlueRun Ventures,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'Gaussian Robotics'},2021-11-10
+167,Blueflame Capital,1.0,1,1.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Newlink Group'},2020-07-10
+168,Blumberg Capital,4.25,3,1.4166666666666667,2,"{'Canada', 'United States'}",3,"{'Internet software & services', 'Cybersecurity', 'Fintech'}",3,"{'Fundbox', 'Yotpo', 'Trulioo'}",2021-03-18
+169,Blume Ventures,4.4399999999999995,2,2.2199999999999998,1,{'India'},2,"{'Edtech', 'Fintech'}",2,"{'Slice', 'Unacademy'}",2020-09-02
+170,Bnk To The Future,2.92,1,2.92,1,{'United States'},1,{'Fintech'},1,{'Kraken'},2019-06-25
+171,Bojiang Capital,1.0,1,1.0,1,{'China'},1,{'Fintech'},1,{'WeBull'},2021-02-18
+172,Bolt Ventures,1.32,1,1.32,1,{'United States'},1,{'Health'},1,{'Athletic Greens'},2022-01-25
+173,Bond,9.05,4,2.2625,2,"{'Germany', 'United States'}",3,"{'E-commerce & direct-to-consumer', 'Hardware', 'Other'}",4,"{'Locus Robotics', 'Relativity Space', 'Sentry', 'Flink'}",2020-11-23
+174,Bond Capital,4.0,1,4.0,1,{'Ireland'},1,{'Internet software & services'},1,{'BrowserStack'},2021-06-16
+175,Bonfire Ventures,1.4,1,1.4,1,{'Canada'},1,{'Internet software & services'},1,{'Figment'},2021-12-20
+176,Borui Capital,5.78,1,5.78,1,{'China'},1,{'Consumer & retail'},1,{'Easyhome'},2018-02-12
+177,Bow Wave Capital,1.5,1,1.5,1,{'Thailand'},1,{'Fintech'},1,{'Ascend Money'},2021-09-27
+178,BoxGroup,1.5,1,1.5,1,{'United States'},1,{'Cybersecurity'},1,{'ID.me'},2021-03-19
+179,Boxin Capital,1.62,1,1.62,1,{'China'},1,{'Data management & analytics'},1,{'Jusfoun Big Data'},2018-07-09
+180,Boyu Capital,27.080000000000002,3,9.026666666666667,3,"{'China', 'Singapore', 'Indonesia'}",3,"{'Consumer & retail', 'Artificial intelligence', 'Supply chain, logistics, & delivery'}",3,"{'Easyhome', 'J&T Express', 'Trax'}",2018-02-12
+181,Breakthrough Energy Ventures,4.7,2,2.35,1,{'United States'},1,{'Other'},2,"{'Redwood Materials', ""Nature's Fynd""}",2021-07-19
+182,Breega Capital,2.0,1,2.0,1,{'France'},1,{'Hardware'},1,{'Exotec'},2022-01-17
+183,Bregal Sagemount,1.0,1,1.0,1,{'United States'},1,{'Other'},1,{'Printful'},2021-05-24
+184,Breyer Capital,13.0,1,13.0,1,{'United States'},1,{'Internet software & services'},1,{'Grammarly'},2019-10-10
+185,Bright Venture Capita,3.0,1,3.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'KK Group'},2019-10-23
+186,Brighton Park Capital,1.5,1,1.5,1,{'United States'},1,{'Internet software & services'},1,{'Paradox'},2021-12-27
+187,British Patient Capital,1.0,1,1.0,1,{'United Kingdom'},1,{'Fintech'},1,{'Thought Machine'},2021-11-29
+188,Brookfield Asset Management,3.0,1,3.0,1,{'United States'},1,{'Health'},1,{'Carbon Health'},2021-07-21
+189,Buhuo Venture Capital,1.52,1,1.52,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Carzone'},2019-03-01
+190,Burda Principal Investments,4.53,1,4.53,1,{'Lithuania'},1,{'E-commerce & direct-to-consumer'},1,{'Vinted'},2019-11-27
+191,C5 Capital,1.0,1,1.0,1,{'United States'},1,{'Other'},1,{'Axiom Space'},2021-02-16
+192,CDH Investments,6.95,3,2.316666666666667,1,{'China'},3,"{'Hardware', 'Mobile & telecommunications', 'E-commerce & direct-to-consumer'}",3,"{'JOLLY Information Technology', 'UBTECH Robotics', 'Wacai'}",2016-07-25
+193,CDIB Capital,1.19,1,1.19,1,{'South Korea'},1,{'Consumer & retail'},1,{'L&P Cosmetic'},2016-01-01
+194,CE-Ventures,1.0,1,1.0,1,{'United Arab Emirates'},1,"{'Supply chain, logistics, & delivery'}",1,{'Kitopi'},2021-07-01
+195,CITIC Securities International,5.0,1,5.0,1,{'China'},1,{'Health'},1,{'United Imaging Healthcare'},2017-09-15
+196,CJ ENM,2.3,1,2.3,1,{'United States'},1,{'Other'},1,{'Skydance Media'},2020-02-11
+197,CMB International Capital,2.0,1,2.0,1,{'China'},1,{'Consumer & retail'},1,{'Guoquan Shihui'},2021-03-17
+198,CMC Capital Partners,1.25,1,1.25,1,{'China'},1,{'Internet software & services'},1,{'Kuaikan Manhua'},2017-12-01
+199,CPP Investment Board,3.0,1,3.0,1,{'United Kingdom'},1,{'Fintech'},1,{'BGL Group'},2017-11-24
+200,CR Capital Mgmt,1.3,1,1.3,1,{'China'},1,{'Mobile & telecommunications'},1,{'TalkingData'},2021-01-06
+201,CRE Venture Capital,2.5,2,1.25,1,{'United States'},2,"{'Internet software & services', 'Fintech'}",2,"{'Andela', 'Flutterwave'}",2021-03-09
+202,CRV,34.04,10,3.404,2,"{'Santa Clara', 'United States'}",3,"{'Internet software & services', 'Artificial intelligence', 'Cybersecurity'}",10,"{'Iterable', 'Airtable', 'Patreon', 'GupShup', 'Aviatrix', 'Vercel', 'Kong', 'Cybereason', 'Postman', 'Standard Cognition'}",2018-11-15
+203,CSC Group,1.48,1,1.48,1,{'China'},1,{'Auto & transportation'},1,{'Bordrin Motors'},2019-06-03
+204,CVC Capital Partners,1.85,1,1.85,1,{'United States'},1,{'Fintech'},1,{'CFGI'},2021-09-15
+205,CVF Capital Partners,1.9,1,1.9,1,{'United States'},1,{'Health'},1,{'Aledade'},2021-01-19
+206,Cadenza Ventures,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Injective Protocol'},2021-04-20
+207,Caffeinated Capital,18.9,6,3.15,2,"{'Japan', 'United States'}",4,"{'Internet software & services', 'Health', 'Other', 'Fintech'}",6,"{'Virta Health', 'Airtable', 'Playco', 'Divvy Homes', 'Boom Supersonic', 'AgentSync'}",2018-11-15
+208,Caisse de depot et placement du Quebec,3.5,1,3.5,1,{'United States'},1,{'Fintech'},1,{'Celsius Network'},2021-10-12
+209,Cambridge Innovation Capital,3.0,1,3.0,1,{'United Kingdom'},1,{'Health'},1,{'CMR Surgical'},2019-09-17
+210,Canaan Partners,6.6,4,1.65,3,"{'India', 'France', 'United States'}",3,"{'Edtech', 'Internet software & services', 'Health'}",4,"{'MindTickle', 'UpGrad', 'Papa', 'ContentSquare'}",2021-05-25
+211,Canapi Ventures,3.65,2,1.825,1,{'United States'},1,{'Fintech'},2,"{'Alloy', 'Greenlight'}",2020-09-24
+212,Capital One Growth Ventures,3.0,1,3.0,1,{'Canada'},1,{'Travel'},1,{'Hopper'},2021-03-24
+213,Capital Today,6.29,4,1.5725,1,{'China'},3,"{'Travel', 'E-commerce & direct-to-consumer', 'Other'}",4,"{'Manner', 'XiaoZhu', 'Yipin Shengxian', 'Mafengwo'}",2017-11-01
+214,Capricorn Investment Group,3.7,1,3.7,1,{'United States'},1,{'Other'},1,{'Redwood Materials'},2021-07-28
+215,Carlson Private Capital Partners,2.25,1,2.25,1,{'United States'},1,{'Internet software & services'},1,{'Pattern'},2021-10-06
+216,Carrick Capital Partners,1.2,1,1.2,1,{'United States'},1,{'Fintech'},1,{'DailyPay'},2021-05-18
+217,Carsales,1.63,1,1.63,1,{'United States'},1,{'Other'},1,{'Trader Interactive'},2021-05-12
+218,Casa Verde Capital,3.75,1,3.75,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Dutchie'},2021-03-16
+219,Casdin Capital,1.23,1,1.23,1,{'United States'},1,{'Health'},1,{'EQRx'},2021-01-11
+220,Caterpillar,2.3,1,2.3,1,{'United States'},1,{'Artificial intelligence'},1,{'Uptake'},2015-10-27
+221,Cathay Innovation,1.0,1,1.0,1,{'United States'},1,{'Artificial intelligence'},1,{'Owkin'},2021-11-18
+222,Causeway Media Partners,1.0,1,1.0,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Zwift'},2020-09-16
+223,Cedarlake Capital,1.55,1,1.55,1,{'China'},1,{'Hardware'},1,{'Iluvatar CoreX'},2021-03-01
+224,Centralway,1.0,1,1.0,1,{'Switzerland'},1,{'Fintech'},1,{'Numbrs'},2019-08-22
+225,Centurium Capital,1.55,1,1.55,1,{'China'},1,{'Hardware'},1,{'Iluvatar CoreX'},2021-03-01
+226,Charoen Pokphand Group,1.5,1,1.5,1,{'Thailand'},1,{'Fintech'},1,{'Ascend Money'},2021-09-27
+227,Charter Venture Capital,3.8,1,3.8,1,{'United States'},1,{'Health'},1,{'Intarcia Therapeutics'},2014-04-01
+228,Chengwei Capital,1.73,1,1.73,1,{'China'},1,{'Mobile & telecommunications'},1,{'Apus Group'},2015-01-16
+229,Cherry Ventures,2.2,2,1.1,1,{'Germany'},2,"{'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery'}",2,"{'Forto', 'SellerX'}",2021-06-21
+230,Chicago Ventures,3.72,2,1.86,1,{'United States'},2,"{'Supply chain, logistics, & delivery', 'Fintech'}",2,"{'Sunbit', 'Project44'}",2021-05-20
+231,China Broadband Capital,1.0,1,1.0,1,{'China'},1,{'Mobile & telecommunications'},1,{'Wacai'},2018-07-18
+232,China Capital Investment Group,1.0,1,1.0,1,{'China'},1,{'Consumer & retail'},1,{'Zihaiguo'},2021-05-06
+233,China Construction Bank,2.0,1,2.0,1,{'China'},1,{'Artificial intelligence'},1,{'4Paradigm'},2018-12-19
+234,China Creation Ventures,1.52,1,1.52,1,{'China'},1,{'Mobile & telecommunications'},1,{'Ximalaya FM'},2017-09-22
+235,China Culture Industrial Investment Fund,1.1,1,1.1,1,{'China'},1,{'Internet software & services'},1,{'Qingting FM'},2021-06-02
+236,China Development Bank Capital,5.0,1,5.0,1,{'China'},1,{'Health'},1,{'United Imaging Healthcare'},2017-09-15
+237,China Environmental Protection Industry,3.35,1,3.35,1,{'China'},1,{'Auto & transportation'},1,{'Youxia Motors'},2018-04-02
+238,China Everbright Investment Management,1.5,1,1.5,1,{'China'},1,{'Data management & analytics'},1,{'DT Dream'},2017-06-08
+239,China Everbright Limited,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'TERMINUS Technology'},2018-10-25
+240,China Fortune Land Development,2.74,1,2.74,1,{'China'},1,{'Auto & transportation'},1,{'Hozon Auto'},2021-10-25
+241,China Fortune Ocean,3.35,1,3.35,1,{'China'},1,{'Auto & transportation'},1,{'Youxia Motors'},2018-04-02
+242,China Grand Prosperity Investment,6.210000000000001,2,3.1050000000000004,1,{'China'},2,"{'Auto & transportation', 'Hardware'}",2,"{'Chipone', 'Bordrin Motors'}",2019-06-03
+243,China Health Industry Investment Fund,3.92,1,3.92,1,{'China'},1,{'Health'},1,{'Medlinker'},2018-07-31
+244,China International Capital Corporation,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'EcoFlow'},2021-06-10
+245,China Internet Investment Fund,1.19,1,1.19,1,{'China'},1,{'Artificial intelligence'},1,{'Unisound'},2018-07-19
+246,China Investment Corporation,1.0,1,1.0,1,{'China'},1,{'Health'},1,{'LinkDoc Technology'},2018-07-05
+247,China Life Insurance,5.0,1,5.0,1,{'China'},1,{'Health'},1,{'United Imaging Healthcare'},2017-09-15
+248,China Media Group,4.82,2,2.41,1,{'China'},2,"{'Auto & transportation', 'Fintech'}",2,"{'Star Charge', 'Cgtz'}",2017-02-21
+249,China Minsheng Investment,1.0,1,1.0,1,{'China'},1,{'Edtech'},1,{'HuJiang'},2015-10-29
+250,China Minsheng Investment Group,1.1,1,1.1,1,{'China'},1,{'Internet software & services'},1,{'Qingting FM'},2021-06-02
+251,China Prosperity Capital,1.0,1,1.0,1,{'China'},1,{'Other'},1,{'SITECH DEV'},2019-05-16
+252,China Reform Fund,1.12,1,1.12,1,{'China'},1,{'Fintech'},1,{'TELD'},2019-12-16
+253,China Renaissance,3.92,1,3.92,1,{'China'},1,{'Health'},1,{'Medlinker'},2018-07-31
+254,China State Capital Venture Capital Fund,3.31,1,3.31,1,{'China'},1,{'Auto & transportation'},1,{'ECARX'},2020-10-26
+255,Chiratae Ventures,5.1,3,1.7,1,{'India'},2,"{'Health', 'E-commerce & direct-to-consumer'}",3,"{'GlobalBees', 'Lenskart', 'CureFit'}",2019-12-20
+256,Chromo Invest,1.3,1,1.3,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",1,{'Loadsmart'},2022-02-01
+257,Chuanrong Capital,1.28,1,1.28,1,{'China'},1,{'Fintech'},1,{'Huisuanzhang'},2021-05-24
+258,Citi Ventures,8.8,4,2.2,3,"{'United Kingdom', 'Canada', 'United States'}",3,"{'Travel', 'Artificial intelligence', 'Fintech'}",4,"{'Harness', 'HighRadius', 'PPRO', 'Hopper'}",2020-01-07
+259,ClalTech,3.8,2,1.9,1,{'Israel'},1,{'Artificial intelligence'},2,"{'Lightricks', 'VerbIT'}",2019-07-31
+260,Clermont Group,5.0,1,5.0,1,{'United Kingdom'},1,{'Fintech'},1,{'OakNorth'},2017-10-12
+261,Clocktower Technology Ventures,3.05,2,1.525,1,{'United States'},1,{'Fintech'},2,"{'Mercury', 'M1 Finance'}",2021-07-03
+262,Co-Energy Finance,1.0,1,1.0,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'YH Global'},2017-09-21
+263,Co-Stone Venture Capital,1.52,1,1.52,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Carzone'},2019-03-01
+264,Coatue Management,79.65,21,3.792857142857143,6,"{'Norway', 'China', 'India', 'Germany', 'Austria', 'United States'}",10,"{'Hardware', 'Fintech', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Supply chain, logistics, & delivery', 'Edtech', 'Data management & analytics', 'Other'}",21,"{'Ramp Financial', 'Fireblocks', 'Hinge Health', 'Cadence', 'Bitmain Technologies', 'Gorillas', 'Tackle.io', 'GoStudent', 'Mercury', 'Alchemy', 'Persona', 'Manner', 'Rebel Foods', 'Dune Analytics', 'Lacework', 'reddit', 'YunQuNa', 'Grafana Labs', 'Inxeption', 'Starburst', 'MoonPay'}",2017-07-31
+265,Coatue Managemeny,2.5,1,2.5,1,{'United States'},1,{'Internet software & services'},1,{'Side'},2021-03-22
+266,Cobalt Capital,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'Mux'},2021-04-30
+267,Cocnord Health Partners,3.2,1,3.2,1,{'United States'},1,{'Fintech'},1,{'Cedar'},2021-03-09
+268,Coinbase Ventures,8.0,4,2.0,3,"{'India', 'Mexico', 'United States'}",1,{'Fintech'},4,"{'TaxBit', 'Bitso', 'CoinDCX', 'ConsenSys'}",2021-05-05
+269,Collaborative Fund,39.0,1,39.0,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",1,{'Instacart'},2014-12-30
+270,Coltrane Asset Management,5.0,1,5.0,1,{'United Kingdom'},1,{'Fintech'},1,{'OakNorth'},2017-10-12
+271,Comcast Ventures,7.72,4,1.93,1,{'United States'},2,"{'Internet software & services', 'E-commerce & direct-to-consumer'}",4,"{'Flipboard', 'Houzz', 'Away', 'Vox Media'}",2014-09-30
+272,Commerce Ventures,12.9,4,3.225,1,{'United States'},2,"{'Cybersecurity', 'Fintech'}",4,"{'Socure', 'Coalition', 'MX Technologies', 'Forter'}",2020-11-19
+273,CommerzVentures,2.35,1,2.35,1,{'United Kingdom'},1,{'Fintech'},1,{'Bought By Many'},2021-06-01
+274,Connect Ventures,2.5,2,1.25,2,"{'United Kingdom', 'United States'}",1,{'Fintech'},2,"{'candy.com', 'TrueLayer'}",2021-09-21
+275,ConsenSys Ventures,3.0,1,3.0,1,{'United States'},1,{'Fintech'},1,{'BlockFi'},2021-03-11
+276,Contour Venture Partners,2.6,1,2.6,1,{'United States'},1,{'Internet software & services'},1,{'Pendo'},2019-10-17
+277,Cool Japan Fund,1.22,1,1.22,1,{'Japan'},1,{'Other'},1,{'Spiber'},2021-09-08
+278,Core Capital Partners,2.6,1,2.6,1,{'United States'},1,{'Internet software & services'},1,{'Pendo'},2019-10-17
+279,Costanoa Ventures,2.2,2,1.1,1,{'United States'},2,"{'Edtech', 'Internet software & services'}",2,"{'Quizlet', 'Alation'}",2020-05-13
+280,Cowboy Ventures,2.0,2,1.0,1,{'United States'},2,"{'Mobile & telecommunications', 'Cybersecurity'}",2,"{'Drata', 'Branch'}",2018-09-10
+281,Cox Enterprises,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Clearcover'},2021-04-13
+282,Craft Ventures,5.2,2,2.6,1,{'United States'},2,"{'Internet software & services', 'Fintech'}",2,"{'AgentSync', 'ClickUp'}",2020-12-15
+283,Crane Venture Partners,1.7,1,1.7,1,{'United States'},1,{'Artificial intelligence'},1,{'H2O.ai'},2021-11-07
+284,Creandum,14.15,4,3.5375,4,"{'Germany', 'Denmark', 'Sweden', 'United States'}",3,"{'Health', 'Data management & analytics', 'Fintech'}",4,"{'Neo4j', 'Trade Republic', 'Pleo', 'KRY'}",2021-04-27
+285,Credit Suisse,5.05,1,5.05,1,{'Brazil'},1,{'Fintech'},1,{'C6 Bank'},2020-12-02
+286,CreditEase Fintech Investment Fund,4.2,2,2.1,2,"{'China', 'United States'}",2,"{'Auto & transportation', 'E-commerce & direct-to-consumer'}",2,"{'SouChe Holdings', 'Fair'}",2017-11-01
+287,Crosslink Capital,33.0,4,8.25,1,{'United States'},3,"{'Internet software & services', 'Data management & analytics', 'Fintech'}",4,"{'Chime', 'BetterUp', 'Reltio', 'HomeLight'}",2019-03-05
+288,Crowdcube,1.24,1,1.24,1,{'United Kingdom'},1,{'Consumer & retail'},1,{'BrewDog'},2017-04-10
+289,CyberStarts,1.0,1,1.0,1,{'United States'},1,{'Cybersecurity'},1,{'Noname Security'},2021-12-15
+290,Cybernaut Growth Fund,1.61,1,1.61,1,{'China'},1,{'Internet software & services'},1,{'Zhubajie'},2015-06-16
+291,D1 Capita Partners,2.0,1,2.0,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Misfits Market'},2021-04-21
+292,D1 Capital Partners,11.77,5,2.354,2,"{'Israel', 'United States'}",4,"{'Artificial intelligence', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Fintech'}",5,"{'Groq', 'Ramp Financial', 'Addepar', 'GOAT', 'DriveNets'}",2020-09-23
+293,DC Thomson Ventures,1.3,1,1.3,1,{'Singapore'},1,{'Artificial intelligence'},1,{'Trax'},2019-07-22
+294,DCM Ventures,13.25,8,1.65625,3,"{'China', 'Hong Kong', 'United States'}",5,"{'Fintech', 'Health', 'Supply chain, logistics, & delivery', 'Mobile & telecommunications', 'Artificial intelligence'}",8,"{'Maimai', 'Pony.ai', 'YunQuNa', 'Yaoshibang', 'Amber Group', 'PicsArt', 'Dxy.cn', 'FXiaoKe'}",2015-07-02
+295,DESUN Capital,1.35,1,1.35,1,{'China'},1,{'Artificial intelligence'},1,{'DeepBlue Technology'},2018-04-16
+296,DFJ DragonFund,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'Splashtop'},2021-01-27
+297,DFJ Growth Fund,5.5,2,2.75,1,{'United States'},2,"{'Hardware', 'Fintech'}",2,"{'Formlabs', 'Alchemy'}",2018-08-01
+298,DJF,10.0,1,10.0,1,{'United States'},1,{'Internet software & services'},1,{'Talkdesk'},2018-10-03
+299,DN Capital,3.5,1,3.5,1,{'Austria'},1,{'Edtech'},1,{'GoStudent'},2021-06-22
+300,DSC Investments,1.5,1,1.5,1,{'United States'},1,{'Artificial intelligence'},1,{'MOLOCO'},2021-04-29
+301,DST Global,138.26,21,6.583809523809523,14,"{'Brazil', 'China', 'India', 'South Korea', 'Singapore', 'Australia', 'Germany', 'Hong Kong', 'Chile', 'Colombia', 'Ireland', 'Mexico', 'United Kingdom', 'United States'}",5,"{'Fintech', 'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Mobile & telecommunications', 'Artificial intelligence'}",21,"{'Matrixport', 'SpotOn', 'Cars24', 'Gorillas', 'Udaan', 'CRED', 'Brex', 'Checkout.com', 'CloudWalk', 'Kavak', 'Revolut', 'Poizon', 'Rappi', 'Kurly', 'StockX', 'Fetch Rewards', 'Airwallex', 'Wayflyer', 'Clara', 'Cider', 'Betterfly'}",2018-04-26
+302,DT Capital Partners,1.62,1,1.62,1,{'China'},1,{'Data management & analytics'},1,{'Jusfoun Big Data'},2018-07-09
+303,Danhua Capital,1.0,1,1.0,1,{'China'},1,{'Internet software & services'},1,{'XForcePlus'},2021-06-01
+304,Danone Manifesto Ventures,1.0,1,1.0,1,{'United States'},1,{'Other'},1,"{""Nature's Fynd""}",2021-07-19
+305,Daphni,6.7,2,3.35,1,{'France'},2,"{'E-commerce & direct-to-consumer', 'Fintech'}",2,"{'Back Market', 'Swile'}",2021-05-18
+306,Dark Horse Technology Group,1.27,1,1.27,1,{'China'},1,{'Internet software & services'},1,{'WTOIP'},2018-04-08
+307,Das Capital,1.0,1,1.0,1,{'India'},1,{'Fintech'},1,{'Slice'},2021-11-28
+308,Data Collective,7.95,4,1.9875,1,{'United States'},3,"{'Internet software & services', 'Health', 'Cybersecurity'}",4,"{'Carbon Health', 'Illumio', 'Orca Bio', 'Alation'}",2015-04-14
+309,DataTribe,1.7,1,1.7,1,{'United States'},1,{'Cybersecurity'},1,{'Dragos'},2021-10-28
+310,Davidson Kempner Capital Management,12.0,1,12.0,1,{'United States'},1,{'Internet software & services'},1,{'GoodLeap'},2021-10-13
+311,Deciens Capital,2.0,1,2.0,1,{'United States'},1,{'Fintech'},1,{'Chipper Cash'},2021-06-01
+312,Deer Park Road,2.19,1,2.19,1,{'United Kingdom'},1,{'Other'},1,{'Accelerant'},2022-01-12
+313,Delian Capital,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'EcoFlow'},2021-06-10
+314,Dell Technologies Capital,10.77,5,2.154,2,"{'United Kingdom', 'United States'}",2,"{'Artificial intelligence', 'Data management & analytics'}",5,"{'Graphcore', 'VAST Data', 'Redis Labs', 'Minio', 'YugaByte'}",2018-12-18
+315,Delphi Automotive,2.0,1,2.0,1,{'United States'},1,{'Auto & transportation'},1,{'Quanergy Systems'},2016-08-22
+316,Delta Capital,1.24,1,1.24,1,{'China'},1,{'Hardware'},1,{'Enflame'},2021-01-05
+317,Diamler,8.4,1,8.4,1,{'Estonia'},1,{'Auto & transportation'},1,{'Bolt+'},2018-05-29
+318,Didi Chuxing,8.4,1,8.4,1,{'Estonia'},1,{'Auto & transportation'},1,{'Bolt+'},2018-05-29
+319,Digital Currency Group_,4.5,2,2.25,2,"{'France', 'United States'}",2,"{'Hardware', 'Fintech'}",2,"{'Circle', 'Ledger'}",2018-05-15
+320,Dila Capital,1.25,1,1.25,1,{'United States'},1,{'Cybersecurity'},1,{'Incode Technologies'},2021-12-07
+321,Ding Xiang Capital,1.45,1,1.45,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'Juma Peisong'},2018-11-26
+322,Doha Venture Capital,1.4,1,1.4,1,{'United States'},1,{'Artificial intelligence'},1,{'SparkCognition'},2022-01-25
+323,Doqling Capital Partners,1.0,1,1.0,1,{'Singapore'},1,{'Fintech'},1,{'bolttech'},2021-07-01
+324,Draft Ventures,10.0,1,10.0,1,{'United States'},1,{'Internet software & services'},1,{'Notion Labs'},2020-04-01
+325,Dragoneer Investment Group,9.55,3,3.1833333333333336,2,"{'Canada', 'United States'}",2,"{'Internet software & services', 'Fintech'}",3,"{'SpotOn', 'PointClickCare', 'Trumid'}",2020-07-15
+326,Dragonfly Capital Partners,1.0,1,1.0,1,{'Norway'},1,{'Data management & analytics'},1,{'Dune Analytics'},2022-02-02
+327,Dragonfly Captial,1.0,1,1.0,1,{'Singapore'},1,{'Fintech'},1,{'Matrixport'},2021-06-01
+328,Draper Esprit,2.5,2,1.25,2,"{'France', 'United States'}",2,"{'Hardware', 'Internet software & services'}",2,"{'Aircall', 'Ledger'}",2021-06-10
+329,Draper Fisher Jurtson,1.1,1,1.1,1,{'United States'},1,{'Mobile & telecommunications'},1,{'TangoMe'},2014-03-20
+330,Draper Fisher Jurvetson,100.3,1,100.3,1,{'United States'},1,{'Other'},1,{'SpaceX'},2012-12-01
+331,Drive Capital,5.42,2,2.71,1,{'United States'},2,"{'Internet software & services', 'Health'}",2,"{'Olive', 'SonderMind'}",2020-12-01
+332,Durable Capital Partners,9.75,2,4.875,2,"{'United Kingdom', 'United States'}",2,"{'Health', 'Fintech'}",2,"{'Capsule', 'Rapyd'}",2019-12-03
+333,Dynamic Parcel Distribution,1.0,1,1.0,1,{'Singapore'},1,"{'Supply chain, logistics, & delivery'}",1,{'Ninja Van'},2021-09-27
+334,Dynamo VC,1.13,1,1.13,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",1,{'STORD'},2021-09-13
+335,E Fund,1.0,1,1.0,1,{'China'},1,{'Fintech'},1,{'Hyperchain'},2021-04-11
+336,EQT Partners,4.92,2,2.46,2,"{'Germany', 'Sweden'}",2,"{'Internet software & services', 'Health'}",2,"{'Epidemic Sound', 'Otto Bock HealthCare'}",2017-06-24
+337,EQT Ventures,2.0,1,2.0,1,{'United States'},1,{'Internet software & services'},1,{'Netlify'},2021-11-17
+338,ES Ventures,9.5,1,9.5,1,{'United States'},1,{'Internet software & services'},1,{'OutSystems'},2018-06-05
+339,EXOR Seeds,1.0,1,1.0,1,{'United Arab Emirates'},1,{'Other'},1,{'Emerging Markets Property Group'},2020-04-28
+340,Earlybird Venture Capital,11.23,2,5.615,2,"{'Germany', 'Finland'}",2,"{'Internet software & services', 'Fintech'}",2,"{'Aiven', 'N26'}",2019-01-10
+341,East Ventures,3.0,1,3.0,1,{'Indonesia'},1,{'Travel'},1,{'Traveloka'},2017-01-01
+342,Eastern Bell Capital,5.89,4,1.4725,1,{'China'},3,"{'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Internet software & services'}",4,"{'Xingyun Group', 'XForcePlus', 'Hive Box', 'Yipin Shengxian'}",2018-01-23
+343,Echo Health Venturesl,1.7,1,1.7,1,{'United States'},1,{'Health'},1,{'DispatchHealth'},2021-03-03
+344,Eclipse Ventures,2.0,2,1.0,2,"{'Canada', 'United States'}",1,{'Artificial intelligence'},2,"{'Augury', 'TensTorrent'}",2021-05-05
+345,Eight Roads Ventures,10.3,4,2.575,3,"{'Israel', 'France', 'United States'}",4,"{'Fintech', 'Internet software & services', 'Artificial intelligence', 'Data management & analytics'}",4,"{'Neo4j', 'Spendesk', 'Hibob', 'Icertis'}",2019-07-17
+346,Elaia Partners,4.5,2,2.25,2,"{'France', 'United States'}",2,"{'E-commerce & direct-to-consumer', 'Fintech'}",2,"{'Mirakl', 'Forte Labs'}",2020-09-22
+347,Eldridge,2.19,1,2.19,1,{'United Kingdom'},1,{'Other'},1,{'Accelerant'},2022-01-12
+348,Eleation Capital,1.75,1,1.75,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'Spinny'},2021-11-24
+349,Electric Capital,3.2,1,3.2,1,{'United States'},1,{'Fintech'},1,{'ConsenSys'},2021-11-17
+350,Elevar Equity,1.1,1,1.1,1,{'India'},1,{'Edtech'},1,{'LEAD School'},2022-01-13
+351,Elevation Capital,6.800000000000001,3,2.266666666666667,1,{'India'},2,"{'Internet software & services', 'E-commerce & direct-to-consumer'}",3,"{'Urban Company', 'NoBroker', 'ShareChat'}",2021-04-08
+352,Emerge,1.2,1,1.2,1,{'United States'},1,{'Cybersecurity'},1,{'Axonius'},2021-03-01
+353,Emergence Capital Partners,6.220000000000001,3,2.0733333333333337,2,"{'Canada', 'United States'}",3,"{'Artificial intelligence', 'Supply chain, logistics, & delivery', 'Fintech'}",3,"{'Clearco', 'Project44', 'ASAPP'}",2021-04-20
+354,Endeavor,2.0,2,1.0,2,"{'Brazil', 'Chile'}",2,"{'Artificial intelligence', 'Fintech'}",2,"{'Betterfly', 'EBANX'}",2019-10-16
+355,Endiya Partners,1.0,1,1.0,1,{'India'},1,{'Internet software & services'},1,{'Darwinbox'},2022-01-25
+356,Energy Impact Partners,1.7,1,1.7,1,{'United States'},1,{'Cybersecurity'},1,{'Dragos'},2021-10-28
+357,Eniac Ventures,7.34,2,3.67,1,{'United States'},2,"{'Mobile & telecommunications', 'Fintech'}",2,"{'Attentive', 'Alloy'}",2020-09-23
+358,Entree Capital,1.4,1,1.4,1,{'United States'},1,{'Fintech'},1,{'Stash'},2021-02-03
+359,Epiq Capital,1.4,1,1.4,1,{'India'},1,{'Health'},1,{'Pristyn Care'},2021-12-07
+360,Equal Ventures,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Wrapbook'},2021-11-10
+361,Escala Capital,3.0,1,3.0,1,{'United Kingdom'},1,{'Health'},1,{'CMR Surgical'},2019-09-17
+362,Essence Financial,11.1,1,11.1,1,{'United Kingdom'},1,{'Hardware'},1,{'Global Switch'},2016-12-22
+363,Eurazeo,12.2,5,2.44,3,"{'United Kingdom', 'France', 'United States'}",4,"{'Consumer & retail', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Fintech'}",5,"{'ContentSquare', 'Vestiaire Collective', 'Back Market', 'Pat McGrath Labs', 'PPRO'}",2018-07-16
+364,European Founders Fund,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'MediaMath'},2018-07-10
+365,Expa,2.2,1,2.2,1,{'United States'},1,{'Fintech'},1,{'Current'},2021-04-27
+366,Expedia Inc.,3.0,1,3.0,1,{'Indonesia'},1,{'Travel'},1,{'Traveloka'},2017-01-01
+367,F-Prime Capital,15.299999999999999,3,5.1,1,{'United States'},2,"{'Health', 'Fintech'}",3,"{'Snapdocs', 'Devoted Health', 'Prime Medicine'}",2018-10-16
+368,FANUC,2.0,1,2.0,1,{'Japan'},1,{'Artificial intelligence'},1,{'Preferred Networks'},2018-05-17
+369,FAW Group,2.5,1,2.5,1,{'China'},1,{'Auto & transportation'},1,{'BYTON'},2018-04-20
+370,FJ Labs,2.65,2,1.325,2,"{'Canada', 'United States'}",2,"{'Internet software & services', 'Supply chain, logistics, & delivery'}",2,"{'Route', 'Figment'}",2021-12-20
+371,FTV Capital,3.0,3,1.0,2,"{'Brazil', 'United States'}",3,"{'Internet software & services', 'Cybersecurity', 'Fintech'}",3,"{'Vagaro', 'ReliaQuest', 'EBANX'}",2019-10-16
+372,Fabric Ventures,3.0,1,3.0,1,{'Vietnam'},1,{'Internet software & services'},1,{'Sky Mavis'},2021-10-04
+373,Fairfax Financial Holdings,3.5,1,3.5,1,{'India'},1,{'Fintech'},1,{'Digit Insurance'},2021-01-15
+374,Falcon Edge Capital,9.1,3,3.033333333333333,1,{'India'},3,"{'Internet software & services', 'E-commerce & direct-to-consumer', 'Other'}",3,"{'DailyHunt', 'Mensa Brands', 'OfBusiness'}",2020-12-22
+375,Far East Horizon,1.16,1,1.16,1,{'China'},1,{'Auto & transportation'},1,{'Tuhu'},2018-09-15
+376,Fashion Tech Lab,1.8,1,1.8,1,{'United States'},1,{'Other'},1,{'Diamond Foundry'},2021-03-29
+377,Felicis Ventures,15.95,4,3.9875,2,"{'Australia', 'United States'}",2,"{'Internet software & services', 'Health'}",4,"{'Komodo Health', 'Culture Amp', 'Notion Labs', 'Elemy'}",2020-04-01
+378,Felix Capital,5.8,3,1.9333333333333333,3,"{'Germany', 'France', 'Spain'}",2,"{'Travel', 'E-commerce & direct-to-consumer'}",3,"{'Mirakl', 'SellerX', 'TravelPerk'}",2020-09-22
+379,Female Founders Fund,1.0,1,1.0,1,{'United States'},1,{'Health'},1,{'Maven Clinic'},2021-08-17
+380,Fidelity Investment,4.35,2,2.175,2,"{'United Kingdom', 'United States'}",2,"{'Other', 'Fintech'}",2,"{'ABL Space Systems', 'Starling Bank'}",2021-03-08
+381,Fidelity Investments,2.8,2,1.4,2,"{'Canada', 'United States'}",2,"{'Artificial intelligence', 'Other'}",2,"{'Diamond Foundry', 'TensTorrent'}",2021-03-29
+382,Fifth Wall Ventures,2.0,2,1.0,1,{'United States'},2,"{'Internet software & services', 'Artificial intelligence'}",2,"{'VTS', 'Placer.ai'}",2019-05-07
+383,Fifty Years Fund,2.9,2,1.45,1,{'United States'},2,"{'Mobile & telecommunications', 'Other'}",2,"{'Solugen', 'Astranis Space Technologies'}",2021-04-14
+384,FinSight Ventures,1.0,1,1.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'DianRong'},2017-08-02
+385,FinVC,2.0,1,2.0,1,{'United States'},1,{'Fintech'},1,{'Pipe'},2021-05-19
+386,Fireside Ventures,1.07,1,1.07,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'Mamaearth'},2021-12-28
+387,First Ascent Ventures,1.0,1,1.0,1,{'Canada'},1,"{'Supply chain, logistics, & delivery'}",1,{'Assent Compliance'},2022-01-06
+388,First Light Capital Group,1.5,1,1.5,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Il Makiage'},2022-01-10
+389,First Round Capital,8.3,3,2.766666666666667,1,{'United States'},3,"{'Internet software & services', 'Supply chain, logistics, & delivery', 'Cybersecurity'}",3,"{'Verkada', 'Flexport', 'Rec Room'}",2018-04-30
+390,FirstMark Capital,15.98,7,2.282857142857143,2,"{'Canada', 'United States'}",4,"{'Fintech', 'Internet software & services', 'Artificial intelligence', 'Data management & analytics'}",7,"{'Ada Support', 'Dataiku', 'InVision', 'Bluecore', 'Intercom', 'Orchard', 'Cockroach Labs'}",2017-11-01
+391,Flagship Pioneering,1.2,1,1.2,1,{'United States'},1,{'Other'},1,{'Inari'},2021-05-12
+392,Flint Capital,8.0,2,4.0,1,{'United States'},1,{'Cybersecurity'},2,"{'Socure', 'Coalition'}",2021-03-16
+393,Floodgate,1.17,1,1.17,1,{'United States'},1,{'Internet software & services'},1,{'IRL'},2021-06-15
+394,Flybridge Capital Partners,3.4,2,1.7,2,"{'Brazil', 'United States'}",2,"{'E-commerce & direct-to-consumer', 'Cybersecurity'}",2,"{'MadeiraMadeira', 'BitSight Technologies'}",2021-01-07
+395,Fontinalis Partners,1.0,1,1.0,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",1,{'Veho'},2021-12-21
+396,Ford Autonomous Vehicles,7.25,1,7.25,1,{'United States'},1,{'Artificial intelligence'},1,{'Argo AI'},2019-07-12
+397,Forerunner Ventures,40.0,4,10.0,1,{'United States'},4,"{'Consumer & retail', 'E-commerce & direct-to-consumer', 'Artificial intelligence', 'Fintech'}",4,"{'Faire', 'Glossier', 'Chime', 'Away'}",2019-03-05
+398,Formation 8,8.75,3,2.9166666666666665,3,"{'South Korea', 'Santa Clara', 'United States'}",3,"{'Mobile & telecommunications', 'Internet software & services', 'Cybersecurity'}",3,"{'Aviatrix', 'Yello Mobile', 'Illumio'}",2014-11-11
+399,Fosun RZ Capital,1.0,1,1.0,1,{'China'},1,{'Edtech'},1,{'Huike Group'},2018-05-24
+400,Foundation Capital,13.7,8,1.7125,2,"{'Canada', 'United States'}",5,"{'Hardware', 'Fintech', 'Internet software & services', 'Cybersecurity', 'Artificial intelligence'}",8,"{'Eightfold.ai', 'Cerebras Systems', 'Guideline', 'Venafi', 'Turing', 'Current', 'Anyscale', 'Visier'}",2018-11-14
+401,Founder Collective,11.7,1,11.7,1,{'United States'},1,{'Internet software & services'},1,{'Airtable'},2018-11-15
+402,Founder H Fund,1.0,1,1.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Hosjoy'},2018-10-18
+403,Founders,4.7,1,4.7,1,{'Denmark'},1,{'Fintech'},1,{'Pleo'},2021-07-06
+404,Founders Fund,129.32,16,8.0825,2,"{'Senegal', 'United States'}",9,"{'Hardware', 'Fintech', 'Consumer & retail', 'Internet software & services', 'Health', 'Supply chain, logistics, & delivery', 'Other', 'Cybersecurity', 'Artificial intelligence'}",16,"{'Wave', 'Modern Health', 'IRL', 'Workrise', 'Eat Just', 'Persona', 'Vise', 'Anduril', 'STORD', 'Collective Health', 'SpaceX', 'Cedar', 'Flexport', 'SWORD Health', 'Density', 'ZocDoc'}",2012-12-01
+405,Founders Fund. Accel,5.3,1,5.3,1,{'Germany'},1,{'Fintech'},1,{'Trade Republic'},2021-05-20
+406,Foundry Group,6.720000000000001,4,1.6800000000000002,1,{'United States'},4,"{'Hardware', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Data management & analytics'}",4,"{'JumpCloud', 'Formlabs', 'AppDirect', 'Pantheon Systems'}",2015-10-07
+407,Foxconn Technology Company,4.0,1,4.0,1,{'China'},1,{'Artificial intelligence'},1,{'MEGVII'},2017-10-31
+408,Framework Ventures,1.25,1,1.25,1,{'United States'},1,{'Cybersecurity'},1,{'Incode Technologies'},2021-12-07
+409,Francisco Partners,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'News Break'},2021-01-07
+410,Franklin Templeton,5.65,3,1.8833333333333335,1,{'United States'},2,"{'E-commerce & direct-to-consumer', 'Fintech'}",3,"{'CAIS', 'SpotOn', 'Il Makiage'}",2021-05-26
+411,FreesFund,1.0,1,1.0,1,{'China'},1,{'Internet software & services'},1,{'Moka'},2021-11-02
+412,Frontier Ventures,1.1,1,1.1,1,{'United States'},1,{'Internet software & services'},1,{'Turing'},2021-12-20
+413,Funa Yuanchuang Technology,1.78,1,1.78,1,{'China'},1,{'Auto & transportation'},1,{'AIWAYS'},2018-04-16
+414,FundersClub,1.05,1,1.05,1,{'United States'},1,{'Mobile & telecommunications'},1,{'Sendbird'},2021-04-06
+415,FundersClub. Bain Capital Ventures,1.0,1,1.0,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",1,{'ShipBob'},2021-06-29
+416,Future Perfect Ventures,3.2,1,3.2,1,{'Canada'},1,{'Fintech'},1,{'Blockstream'},2021-08-24
+417,Future Ventures,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'MobileCoin'},2021-07-07
+418,FutureX Capital,2.0,1,2.0,1,{'China'},1,{'Artificial intelligence'},1,{'Black Sesame Technologies'},2021-09-22
+419,G Squared,1.0,1,1.0,1,{'United States'},1,{'Health'},1,{'Capsule'},2021-04-28
+420,GAM Holding,1.6,1,1.6,1,{'Bermuda'},1,{'Artificial intelligence'},1,{'Afiniti'},2017-04-14
+421,GCP Capital Partners,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Tresata'},2018-10-10
+422,GE Healthcare,1.3,1,1.3,1,{'Israel'},1,{'Health'},1,{'InSightec'},2020-03-06
+423,GE Ventures,1.0,1,1.0,1,{'United States'},1,{'Health'},1,{'Evidation'},2021-03-22
+424,GF Investments,2.0,1,2.0,1,{'Israel'},1,{'Fintech'},1,{'Pagaya'},2020-06-17
+425,GF Xinde Investment Management Co.,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'China Cloud'},2018-06-11
+426,GGV Capital,44.2,14,3.1571428571428575,3,"{'China', 'Israel', 'United States'}",8,"{'Travel', 'Fintech', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Auto & transportation', 'Edtech', 'Mobile & telecommunications'}",14,"{'TuJia', 'BitSight Technologies', 'Ibotta', 'Jokr', 'Kujiale', 'Hello TransTech', 'Keep', 'Drata', 'People.ai', 'Moka', 'GrubMarket', 'Zuoyebang', 'Xiaohongshu', 'Orca Security'}",2015-06-17
+427,GIC,1.0,1,1.0,1,{'South Korea'},1,{'Travel'},1,{'Yanolja'},2019-06-10
+428,GLP Capital Partners,3.3,2,1.65,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",2,"{'Deliverr', 'Flock Freight'}",2021-10-20
+429,GMO VenturePartners,1.0,1,1.0,1,{'India'},1,{'Fintech'},1,{'MobiKwik'},2021-10-13
+430,GP Capital,2.0,1,2.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'HuiMin'},2016-09-05
+431,GS Growth,10.77,4,2.6925,3,"{'India', 'Vietnam', 'United States'}",3,"{'Consumer & retail', 'Internet software & services', 'Fintech'}",4,"{'MoMo', 'Fever Labs', 'National Stock Exchange of India', ""Rothy's""}",2020-07-01
+432,GSR Ventures,5.1,3,1.7,3,"{'China', 'Singapore', 'United States'}",2,"{'Internet software & services', 'Artificial intelligence'}",3,"{'Medable', 'Moka', 'Advance Intelligence Group'}",2021-09-23
+433,GSV Ventures,2.4000000000000004,2,1.2000000000000002,2,"{'India', 'United States'}",2,"{'Edtech', 'Internet software & services'}",2,"{'LEAD School', 'Domestika'}",2022-01-13
+434,GX Capital,9.0,1,9.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Chehaoduo'},2016-03-12
+435,Galaxy Digital,1.0,1,1.0,1,{'Netherlands'},1,{'Hardware'},1,{'BitFury'},2018-11-06
+436,Galaxy Interactive,2.5,2,1.25,1,{'United States'},2,"{'Internet software & services', 'Fintech'}",2,"{'Masterworks', '1047 Games'}",2021-09-14
+437,Galeo Ventures,1.1,1,1.1,1,{'Switzerland'},1,{'Data management & analytics'},1,{'Nexthink'},2021-02-08
+438,Gaocheng Capital,1.28,1,1.28,1,{'China'},1,{'Fintech'},1,{'Huisuanzhang'},2021-05-24
+439,Gaopeng Capital,1.12,1,1.12,1,{'China'},1,{'Fintech'},1,{'TELD'},2019-12-16
+440,Gaorong Capital,24.6,3,8.200000000000001,2,"{'China', 'United States'}",3,"{'Consumer & retail', 'Auto & transportation', 'Mobile & telecommunications'}",3,"{'Yuanqi Senlin', 'Poizon', 'Nuro'}",2019-02-11
+441,Gauss Ventures,2.0,1,2.0,1,{'United Kingdom'},1,{'Fintech'},1,{'Zilch'},2021-11-10
+442,Geekdom Fund,1.7,1,1.7,1,{'United States'},1,{'Fintech'},1,{'ZenBusiness'},2021-11-09
+443,Geely,3.31,1,3.31,1,{'China'},1,{'Auto & transportation'},1,{'ECARX'},2020-10-26
+444,General Atlantic,118.91,27,4.404074074074074,11,"{'Brazil', 'Sweden', 'France', 'China', 'India', 'Germany', 'Israel', 'Mexico', 'Netherlands', 'United Kingdom', 'United States'}",10,"{'Travel', 'Fintech', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Other', 'Cybersecurity', 'Auto & transportation', 'Edtech', 'Data management & analytics', 'Artificial intelligence'}",27,"{'Transmit Security', 'Red Ventures', 'Articulate', 'Bolt', 'Greensill', 'Vox Media', 'Acko General Insurance', 'Mu Sigma', 'Howden Group Holdings', 'NuCom Group', 'Mafengwo', 'JumpCloud', 'Clip', 'Chronosphere', 'Seismic', 'Automation Anywhere', 'Gymshark', 'ManoMano', 'Gympass', 'QuintoAndar', 'Spendesk', 'FlixMobility', 'Hotmart', 'Klarna', 'NoBroker', 'Unico', 'Guild Education'}",2011-12-12
+445,General Catalyst,91.32,33,2.767272727272727,6,"{'China', 'India', 'Germany', 'Mexico', 'United Kingdom', 'United States'}",9,"{'Artificial intelligence', 'Fintech', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Supply chain, logistics, & delivery', 'Data management & analytics', 'Other'}",33,"{'Eightfold.ai', 'CoinTracker', 'SonderMind', 'Contentful', 'Bowery Farming', 'Cadence', 'MobileCoin', 'Circle', 'Olive', 'Heyday', 'Color', 'Coda', 'Spinny', 'Athelas', 'Fundbox', 'Rapyd', 'Elemy', 'Veho', 'Loom', 'Remote', 'Minio', 'Hive', 'Transcarent', 'Commure', 'Grammarly', 'Ziroom', 'Clara', 'Aura', 'Lessen', 'FiveTran', 'Ro', 'Contrast Security', 'Applied Intuition'}",2018-01-17
+446,General Catalyst Partners,12.75,2,6.375,1,{'United States'},2,"{'Cybersecurity', 'Fintech'}",2,"{'Gusto', 'Illumio'}",2015-04-14
+447,Genesis Capital,2.0,1,2.0,1,{'China'},1,{'Internet software & services'},1,{'Beisen'},2021-05-11
+448,Genesis Partners,2.1,2,1.05,2,"{'Israel', 'United States'}",2,"{'Edtech', 'Data management & analytics'}",2,"{'JoyTunes', 'Sisense'}",2020-01-09
+449,Geodesic Capital,4.2,1,4.2,1,{'United States'},1,{'Internet software & services'},1,{'ThoughtSpot'},2018-05-08
+450,Georgian Co-Investment Fund,1.0,1,1.0,1,{'Netherlands'},1,{'Hardware'},1,{'BitFury'},2018-11-06
+451,Georgian Partners,8.2,5,1.64,3,"{'Canada', 'United Kingdom', 'United States'}",3,"{'Internet software & services', 'Artificial intelligence', 'Fintech'}",5,"{'Tealium', 'Bluecore', 'ClickUp', 'Freshbooks', 'Tractable'}",2020-12-15
+452,Ginko Ventures,1.0,1,1.0,1,{'Finland'},1,{'Mobile & telecommunications'},1,{'HMD Global'},2018-05-21
+453,Global Asset Capital,1.7,1,1.7,1,{'United States'},1,{'Consumer & retail'},1,{'PAX'},2018-10-22
+454,Global Catalyst Partnera,2.1,1,2.1,1,{'United States'},1,{'Artificial intelligence'},1,{'SoundHound'},2018-05-03
+455,Global Founders Capital,20.91,11,1.9009090909090909,6,"{'France', 'Singapore', 'Germany', 'Ireland', 'Indonesia', 'United States'}",7,"{'Travel', 'Fintech', 'Consumer & retail', 'Internet software & services', 'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Artificial intelligence'}",11,"{'Forto', 'Meero', 'Away', 'Feedzai', 'NIUM', 'Razor', 'Personio', 'Ankorstore', 'Traveloka', 'Pacaso', 'Flipdish'}",2017-01-01
+456,Global Logistic Properties,1.17,1,1.17,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'Yimidida'},2019-01-14
+457,Globis Capital Partners,2.0,1,2.0,1,{'Japan'},1,{'Mobile & telecommunications'},1,{'SmartNews'},2019-08-05
+458,Glory Ventures,1.0,1,1.0,1,{'Israel'},1,{'Artificial intelligence'},1,{'Hailo'},2021-06-23
+459,Go-Ventures,2.45,1,2.45,1,{'India'},1,{'Internet software & services'},1,{'Mobile Premier League'},2021-09-15
+460,Gobi Partners,1.7,1,1.7,1,{'Malaysia'},1,{'E-commerce & direct-to-consumer'},1,{'Carsome'},2021-07-12
+461,Goldcrest Capital,2.62,1,2.62,1,{'United States'},1,{'Internet software & services'},1,{'Sourcegraph'},2021-07-13
+462,Golden Gate Ventures,2.1,2,1.05,1,{'Singapore'},1,{'E-commerce & direct-to-consumer'},2,"{'Carousell', 'Carro'}",2021-06-14
+463,GoldenTree Asset Management,1.5,1,1.5,1,{'United States'},1,{'Fintech'},1,{'CoinList'},2021-10-15
+464,Goldman Sachs,42.03,16,2.626875,9,"{'Sweden', 'France', 'China', 'South Korea', 'Hong Kong', 'Switzerland', 'United Kingdom', 'United States', 'Israel'}",10,"{'Travel', 'Hardware', 'Fintech', 'Internet software & services', 'Health', 'Supply chain, logistics, & delivery', 'Other', 'Cybersecurity', 'Data management & analytics', 'Artificial intelligence'}",16,"{'Automation Anywhere', 'Acronis', 'Klook', 'Northvolt', 'Voodoo', 'GPclub', 'VAST Data', 'SumUp', 'Rubicon Global', 'Symphony', 'Lightricks', 'Infinidat', 'Yiguo', 'SMS Assist', 'Dataminr', 'ZocDoc'}",2015-04-29
+465,Goldman Sachs Asset Management,4.7,3,1.5666666666666667,2,"{'China', 'United States'}",2,"{'Hardware', 'Internet software & services'}",3,"{'Nextiva', '1KMXC', 'PLACE'}",2021-08-30
+466,Goldstone Investments,4.45,1,4.45,1,{'China'},1,{'Hardware'},1,{'UBTECH Robotics'},2016-07-25
+467,Goodwater Capital,7.64,4,1.91,2,"{'Vietnam', 'United States'}",3,"{'Internet software & services', 'Supply chain, logistics, & delivery', 'Fintech'}",4,"{'Stash', 'MoMo', 'Weee!', 'IRL'}",2021-02-03
+468,Google,10.4,2,5.2,1,{'United States'},2,"{'Mobile & telecommunications', 'Fintech'}",2,"{'Niantic', 'Symphony'}",2017-05-16
+469,Google Capital,3.2,1,3.2,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Thumbtack'},2015-09-29
+470,Google Ventures,73.33,24,3.0554166666666664,3,"{'Norway', 'United Kingdom', 'United States'}",10,"{'Hardware', 'Artificial intelligence', 'Fintech', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Supply chain, logistics, & delivery', 'Data management & analytics', 'Other'}",24,"{'Carbon', 'Andela', 'Owkin', 'SambaNova Systems', 'Podium', 'Ethos Technologies', 'Cockroach Labs', 'Blockchain.com', 'Bowery Farming', 'EQRx', 'Dialpad', 'Snorkel AI', 'Vercel', 'Farmers Business Network', 'Gelato', 'Snyk', 'Flock Freight', 'StockX', 'Collective Health', 'FullStory', 'Prime Medicine', 'Zipline', 'KeepTruckin', 'Gusto'}",2015-08-20
+471,Gopher Asset Management,1.01,1,1.01,1,{'China'},1,{'Auto & transportation'},1,{'Leap Motor'},2018-11-20
+472,Grab,2.9,1,2.9,1,{'Indonesia'},1,{'Fintech'},1,{'Ovo'},2019-03-14
+473,Gradient Ventures,2.0,1,2.0,1,{'United States'},1,{'Internet software & services'},1,{'MURAL'},2021-07-20
+474,Grand Flight Investment,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'Gaussian Robotics'},2021-11-10
+475,Grandland,1.0,1,1.0,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'YH Global'},2017-09-21
+476,Grayhawk Capital,3.0,1,3.0,1,{'United States'},1,{'Internet software & services'},1,{'Lucid Software'},2021-06-29
+477,GreatPoint Ventures,2.6,2,1.3,1,{'United States'},1,{'Fintech'},2,"{'Extend', 'Sidecar Health'}",2021-01-26
+478,Green Innovations,2.0,1,2.0,1,{'United States'},1,{'Health'},1,{'SWORD Health'},2021-11-22
+479,Green Pine Capital Partners,4.67,3,1.5566666666666666,1,{'China'},2,"{'Hardware', 'Health'}",3,"{'Yaoshibang', 'Biren Technology', 'Orbbec Technology'}",2018-05-21
+480,Green Visor Capital,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Flutterwave'},2021-03-09
+481,Greenoaks Capital Management,15.3,3,5.1000000000000005,1,{'United States'},3,"{'Health', 'E-commerce & direct-to-consumer', 'Fintech'}",3,"{'Misfits Market', 'Alto Pharmacy', 'Brex'}",2018-10-05
+482,Greycroft,17.9,10,1.7899999999999998,1,{'United States'},5,"{'Fintech', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Mobile & telecommunications', 'Artificial intelligence'}",10,"{'Flutterwave', 'Feedzai', 'Scopely', 'Icertis', 'Jokr', 'Fetch Rewards', 'Pacaso', 'ZenBusiness', 'Public', 'Expel'}",2019-07-17
+483,Greyhound Capital,1.0,1,1.0,1,{'Denmark'},1,{'Fintech'},1,{'Lunar'},2021-07-12
+484,Greylock Partners,48.35,14,3.4535714285714287,3,"{'Israel', 'Norway', 'United States'}",8,"{'Internet software & services', 'Health', 'Supply chain, logistics, & delivery', 'Cybersecurity', 'E-commerce & direct-to-consumer', 'Auto & transportation', 'Data management & analytics', 'Artificial intelligence'}",14,"{'Convoy', 'Lookout', 'Cato Networks', 'Snorkel AI', 'Coda', 'Gem', 'Figma', 'Instabase', 'Gelato', 'Nuro', 'Chronosphere', 'Rubrik', 'Discord', 'Lyra Health'}",2013-10-10
+485,Griffin Gaming Partners,1.0,1,1.0,1,{'France'},1,{'Artificial intelligence'},1,{'Shift Technology'},2021-05-05
+486,Gron Ventures,3.75,1,3.75,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Dutchie'},2021-03-16
+487,Group 11,8.3,1,8.3,1,{'United States'},1,{'Fintech'},1,{'Tipalti'},2020-10-06
+488,Group GSR Ventures,1.2,1,1.2,1,{'China'},1,{'Artificial intelligence'},1,{'Aibee'},2021-04-13
+489,Group11,1.1,1,1.1,1,{'United States'},1,{'Fintech'},1,{'Sunbit'},2021-05-20
+490,Guangdong Technology Financial Group,3.32,1,3.32,1,{'China'},1,{'Artificial intelligence'},1,{'Cloudwalk'},2018-10-08
+491,Guangzhou Huiyin Aofeng Equity Investment Fund,4.82,2,2.41,1,{'China'},2,"{'Auto & transportation', 'Fintech'}",2,"{'Star Charge', 'Cgtz'}",2017-02-21
+492,Guggenheim Investments,1.0,1,1.0,1,{'Singapore'},1,{'Internet software & services'},1,{'ONE'},2021-12-08
+493,Gunosy Capital,1.0,1,1.0,1,{'India'},1,{'Fintech'},1,{'Slice'},2021-11-28
+494,Guozhong Venture Capital Management,1.55,1,1.55,1,{'China'},1,{'Fintech'},1,{'Baiwang'},2019-03-25
+495,H Capital,1.3,1,1.3,1,{'China'},1,{'Other'},1,{'Manner'},2020-12-24
+496,HCA Healthcare,3.5,1,3.5,1,{'United States'},1,{'Internet software & services'},1,{'Commure'},2021-09-13
+497,HD Capital,2.74,1,2.74,1,{'China'},1,{'Auto & transportation'},1,{'Hozon Auto'},2021-10-25
+498,HOF Capital,1.6,1,1.6,1,{'United States'},1,{'Artificial intelligence'},1,{'ASAPP'},2021-05-19
+499,HV Capital,1.1,1,1.1,1,{'Germany'},1,{'Internet software & services'},1,{'Enpal'},2021-10-18
+500,Haitong Leading Capital Management,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'China Cloud'},2018-06-11
+501,Hanaco Venture Capital,2.0,2,1.0,2,"{'Germany', 'United States'}",2,"{'Other', 'Fintech'}",2,"{'InFarm', 'Amount'}",2021-05-17
+502,Hanwha Investment & Securities,1.0,1,1.0,1,{'South Korea'},1,{'Fintech'},1,{'Dunamu'},2021-07-22
+503,HarbourVest Partners,2.5,1,2.5,1,{'United States'},1,{'Fintech'},1,{'Varo Bank'},2021-09-09
+504,Harrison Metal,1.7,1,1.7,1,{'United States'},1,{'Internet software & services'},1,{'CircleCI'},2021-05-11
+505,Harvey Golub Family Office,2.0,1,2.0,1,{'Israel'},1,{'Fintech'},1,{'Pagaya'},2020-06-17
+506,Hearst Ventures,1.0,1,1.0,1,{'China'},1,{'Internet software & services'},1,{'Tezign'},2021-11-02
+507,Hedosophia,2.25,2,1.125,1,{'United Kingdom'},1,{'Fintech'},2,"{'Marshmallow', 'SaltPay'}",2021-04-23
+508,Helion Venture Partners,2.4,2,1.2,1,{'United States'},2,"{'Internet software & services', 'Data management & analytics'}",2,"{'GupShup', 'Axtria'}",2021-04-08
+509,Hellman & Friedman,4.0,1,4.0,1,{'Canada'},1,{'Internet software & services'},1,{'PointClickCare'},2021-01-07
+510,Hemisphere Ventures,1.0,1,1.0,1,{'United States'},1,{'Other'},1,{'Axiom Space'},2021-02-16
+511,Highland Capital Management,7.83,1,7.83,1,{'United States'},1,{'Health'},1,{'Caris Life Sciences'},2021-05-17
+512,Highland Capital Partners,5.5,4,1.375,2,"{'Canada', 'United States'}",4,"{'Internet software & services', 'Data management & analytics', 'E-commerce & direct-to-consumer', 'Fintech'}",4,"{'Clearco', 'Qumulo', 'YipitData', 'Everly Health'}",2020-07-16
+513,Highland Europe,5.0,3,1.6666666666666667,3,"{'Germany', 'Switzerland', 'France'}",3,"{'Travel', 'Internet software & services', 'Data management & analytics'}",3,"{'Nexthink', 'GetYourGuide', 'ContentSquare'}",2019-05-16
+514,Hillhouse Capital Management,41.28,8,5.16,4,"{'China', 'India', 'Germany', 'Indonesia'}",6,"{'Hardware', 'Consumer & retail', 'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery', 'Edtech', 'Artificial intelligence'}",8,"{'J&T Express', 'CarDekho', 'Weilong', 'Haomao.AI', 'Agile Robots', 'Horizon Robotics', 'Pipa Coding', 'HAYDON'}",2019-02-27
+515,Hillsven Capital,1.1,1,1.1,1,{'United States'},1,{'Internet software & services'},1,{'HoneyBook'},2021-05-04
+516,Hinduja Group,1.0,1,1.0,1,{'Switzerland'},1,{'Health'},1,{'MindMaze'},2016-01-28
+517,Holtzbrinck Ventures,4.4,2,2.2,1,{'Germany'},2,"{'Auto & transportation', 'Fintech'}",2,"{'Scalable Capital', 'FlixMobility'}",2019-07-18
+518,Homebrew,26.0,2,13.0,1,{'United States'},2,"{'Artificial intelligence', 'Fintech'}",2,"{'Chime', 'Shield AI'}",2019-03-05
+519,Honeywell,1.23,1,1.23,1,{'Canada'},1,{'Other'},1,{'Nexii'},2021-09-08
+520,Hongdao Capital,1.0,1,1.0,1,{'China'},1,{'Fintech'},1,{'WeBull'},2021-02-18
+521,Hongtai Capital Holdings,2.0,1,2.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Xingyun Group'},2020-09-24
+522,Hongxiu VC,1.0,1,1.0,1,{'China'},1,{'Artificial intelligence'},1,{'Intellifusion'},2019-03-22
+523,Hony Capital,1.95,1,1.95,1,{'China'},1,{'Edtech'},1,{'Fenbi Education'},2021-02-07
+524,Hopu Investment Management,2.5700000000000003,2,1.2850000000000001,2,"{'China', 'Singapore'}",2,"{'Internet software & services', 'Artificial intelligence'}",2,"{'WTOIP', 'Trax'}",2018-04-08
+525,Horizons Ventures,6.1,3,2.033333333333333,2,"{'Indonesia', 'United States'}",1,{'Consumer & retail'},3,"{'Eat Just', 'Impossible Foods', 'Kopi Kenangan'}",2017-11-30
+526,Huagai Capital,5.0,1,5.0,1,{'United Kingdom'},1,{'Other'},1,{'Howden Group Holdings'},2020-09-29
+527,Huasheng Capital,5.77,1,5.77,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Lianjia'},2016-04-07
+528,Human Capital,1.5,1,1.5,1,{'United States'},1,{'Health'},1,{'Athelas'},2022-01-31
+529,Hummingbird Ventures,1.4,1,1.4,1,{'India'},1,{'Health'},1,{'Pristyn Care'},2021-12-07
+530,Hundreds Capital,1.0,1,1.0,1,{'China'},1,{'Edtech'},1,{'Yunxuetang'},2021-03-29
+531,Hyde Park Venture Partners,2.1,2,1.05,1,{'United States'},2,"{'Internet software & services', 'Supply chain, logistics, & delivery'}",2,"{'ShipBob', 'G2'}",2021-06-22
+532,IA Ventures,12.14,4,3.035,1,{'United States'},3,"{'Health', 'Artificial intelligence', 'Fintech'}",4,"{'Komodo Health', 'DataRobot', 'Signifyd', 'Vectra Networks'}",2019-07-29
+533,IAG Capital Partners,1.0,1,1.0,1,{'United Kingdom'},1,{'Fintech'},1,{'Zopa'},2021-10-19
+534,ICG,1.2,1,1.2,1,{'Ireland'},1,{'Internet software & services'},1,{'Workhuman'},2020-06-23
+535,ICONIQ Capital,32.05,9,3.561111111111111,2,"{'Belgium', 'United States'}",4,"{'Fintech', 'Internet software & services', 'Supply chain, logistics, & delivery', 'Data management & analytics'}",9,"{'Collibra', 'HighRadius', 'InVision', 'ServiceTitan', 'ezCater', 'Lucid Software', 'Relativity', 'People.ai', 'Calendly'}",2017-11-01
+536,ICONIQ Growth,9.6,3,3.1999999999999997,1,{'United States'},3,"{'Edtech', 'Internet software & services', 'Fintech'}",3,"{'ReCharge', 'Articulate', 'Guild Education'}",2019-11-13
+537,IDG Capital,71.99,22,3.272272727272727,4,"{'China', 'Japan', 'Hong Kong', 'United States'}",10,"{'Hardware', 'Fintech', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Other', 'Auto & transportation', 'Edtech', 'Mobile & telecommunications', 'Data management & analytics', 'Artificial intelligence'}",22,"{'Biren Technology', 'Wenheyou', 'Ripple', 'Kujiale', 'Fenbi Education', 'Bitmain Technologies', 'Huisuanzhang', 'SmartMore', 'SVOLT Energy', 'Liquid', 'Pony.ai', 'TERMINUS Technology', 'Zhubajie', 'Womai', 'News Break', 'Jusfoun Big Data', 'Maimai', 'Cider', 'Changingedu', 'Yuanfudao', 'Zhaogang', 'FXiaoKe'}",2015-06-16
+538,IDG Capital Partners,7.0,2,3.5,1,{'China'},2,"{'Hardware', 'E-commerce & direct-to-consumer'}",2,"{'Royole Corporation', 'BeiBei'}",2015-01-22
+539,IDInvest Partners,7.0,4,1.75,2,"{'China', 'France'}",4,"{'Auto & transportation', 'E-commerce & direct-to-consumer', 'Other', 'Fintech'}",4,"{'WeRide', 'Vestiaire Collective', 'Swile', 'Ynsect'}",2019-02-21
+540,IFC,1.59,1,1.59,1,{'South Africa'},1,{'Consumer & retail'},1,{'Promasidor Holdings'},2016-11-08
+541,IKEA GreenTech,12.0,1,12.0,1,{'United States'},1,{'Health'},1,{'Biosplice Therapeutics'},2018-08-06
+542,IMM Investment,2.34,1,2.34,1,{'South Korea'},1,{'E-commerce & direct-to-consumer'},1,{'WEMAKEPRICE'},2015-09-09
+543,ING,1.0,1,1.0,1,{'Hong Kong'},1,{'Fintech'},1,{'WeLab'},2017-11-08
+544,ION Crossover Partners,1.5,1,1.5,1,{'United States'},1,{'Internet software & services'},1,{'Lusha'},2021-11-10
+545,IQ Capital,1.0,1,1.0,1,{'United Kingdom'},1,{'Fintech'},1,{'Thought Machine'},2021-11-29
+546,Iconiq Capital,3.0,1,3.0,1,{'United States'},1,{'Edtech'},1,{'Age of Learning'},2016-05-03
+547,Ideal International,1.0,1,1.0,1,{'China'},1,{'Fintech'},1,{'Hyperchain'},2021-04-11
+548,Ignition Partners,9.0,4,2.25,3,"{'Santa Clara', 'United Kingdom', 'United States'}",2,"{'Internet software & services', 'Artificial intelligence'}",4,"{'Tractable', 'Aviatrix', 'SnapLogic', 'Icertis'}",2019-07-17
+549,Imaginary Ventures,3.2,1,3.2,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Skims'},2021-04-09
+550,Inclusive Capital Partners,1.5,1,1.5,1,{'United States'},1,{'Other'},1,{'Uplight'},2021-03-03
+551,Index Ventures,95.84,30,3.194666666666667,9,"{'Belgium', 'Sweden', 'Czech Republic', 'France', 'Turkey', 'Australia', 'United Kingdom', 'United States', 'Israel'}",10,"{'Fintech', 'Internet software & services', 'Health', 'Supply chain, logistics, & delivery', 'Cybersecurity', 'E-commerce & direct-to-consumer', 'Auto & transportation', 'Mobile & telecommunications', 'Data management & analytics', 'Artificial intelligence'}",30,"{'Wiz', 'Unite Us', 'Justworks', 'Pilot.com', 'Scale AI', 'Rec Room', 'Collibra', 'Notion Labs', 'Patreon', 'Figma', 'Motorway', 'Productboard', 'Persona', 'Kong', 'Dream Games', 'Culture Amp', 'Stytch', 'Alan', 'Rohlik', 'Remote', 'Tekion', 'KRY', 'Plaid Technologies', 'Iterable', 'Built', 'KeepTruckin', 'BlaBlaCar', 'Spendesk', 'Starburst', 'Swile'}",2015-09-16
+552,IndexVentures,1.6,1,1.6,1,{'Australia'},1,{'Internet software & services'},1,{'SafetyCulture'},2021-05-03
+553,India Quotient,3.7,1,3.7,1,{'India'},1,{'Internet software & services'},1,{'ShareChat'},2021-04-08
+554,Inflexion Private Equity,1.07,1,1.07,1,{'United Kingdom'},1,{'Fintech'},1,{'Radius Payment Solutions'},2017-11-27
+555,Info Edge,2.4,1,2.4,1,{'India'},1,{'Fintech'},1,{'PolicyBazaar'},2019-05-06
+556,Initialized Capital,18.2,7,2.6,1,{'United States'},4,"{'Internet software & services', 'Health', 'Artificial intelligence', 'Fintech'}",7,"{'Papa', 'CoinTracker', 'Envoy', 'Ro', 'Truepill', 'Rippling', 'Standard Cognition'}",2020-07-27
+557,InnoVision Capital,1.0,1,1.0,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'Kuaigou Dache'},2018-07-13
+558,Innova Capital - FIP,1.0,1,1.0,1,{'Brazil'},1,{'Mobile & telecommunications'},1,{'Movile'},2018-07-12
+559,Innovation Endeavors,3.55,3,1.1833333333333333,1,{'United States'},3,"{'Supply chain, logistics, & delivery', 'Artificial intelligence', 'Cybersecurity'}",3,"{'Panther Labs', 'Fabric', 'Rebellion Defense'}",2021-09-16
+560,Inova Ventures Participacees,2.75,1,2.75,1,{'Turkey'},1,{'Mobile & telecommunications'},1,{'Dream Games'},2021-06-30
+561,Insight Partners,141.51,41,3.451463414634146,9,"{'Ireland', 'Philippines', 'India', 'United States', 'Spain', 'Switzerland', 'Lithuania', 'United Kingdom', 'Israel'}",9,"{'Fintech', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Edtech', 'Mobile & telecommunications', 'Data management & analytics', 'Artificial intelligence'}",41,"{'Vinted', 'Sysdig', 'Wiz', 'Unite Us', 'Postman', 'Hinge Health', 'Transmit Security', 'OwnBackup', 'OpenWeb', 'Noname Security', 'Pentera', 'Moon Active', 'Papaya Global', 'Checkout.com', 'DistroKid', 'PicsArt', 'SmartRecruiters', 'candy.com', 'JoyTunes', 'Sift', 'Earnix', 'TradingView', 'Mynt', 'OneTrust', 'Sourcegraph', 'Copado', 'Kaseya', '6Sense', 'BharatPe', 'Acronis', 'TaxBit', 'MURAL', 'Flipboard', 'Devo', 'FloQast', 'ChargeBee Technologies', 'Quantum Metric', 'Tractable', 'Lightricks', 'Plume', 'BrowserStack'}",2015-07-22
+562,Insight Venture Partners,7.4,4,1.85,2,"{'France', 'United States'}",4,"{'Consumer & retail', 'Auto & transportation', 'Internet software & services', 'Supply chain, logistics, & delivery'}",4,"{'Calm', 'ezCater', 'BlaBlaCar', 'Automattic'}",2013-05-27
+563,Insights Partners,1.15,1,1.15,1,{'United States'},1,{'Artificial intelligence'},1,{'Rebellion Defense'},2021-09-16
+564,Insights Venture Partners,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'SMS Assist'},2016-06-07
+565,Insignia Ventures Partners,1.0,1,1.0,1,{'Indonesia'},1,{'Fintech'},1,{'Ajaib'},2021-10-04
+566,Inspiration Ventures,1.2,1,1.2,1,{'United States'},1,{'Fintech'},1,{'DailyPay'},2021-05-18
+567,Institutional Venture Partners,81.0,10,8.1,5,"{'Sweden', 'Finland', 'Estonia', 'United Kingdom', 'United States'}",6,"{'Fintech', 'Consumer & retail', 'Internet software & services', 'Supply chain, logistics, & delivery', 'Edtech', 'Artificial intelligence'}",10,"{'Grammarly', 'Glossier', 'Skydio', 'Hopin', 'Eightfold.ai', 'MasterClass', 'Veriff', 'Aiven', 'Klarna', 'Dataminr'}",2011-12-12
+568,Intact Ventures,1.1,1,1.1,1,{'India'},1,{'Fintech'},1,{'Acko General Insurance'},2021-10-18
+569,Intel Capital,9.22,4,2.305,3,"{'China', 'Israel', 'United States'}",3,"{'Mobile & telecommunications', 'Artificial intelligence', 'Data management & analytics'}",4,"{'SambaNova Systems', 'Huaqin Telecom Technology', 'Anyscale', 'OrCam Technologies'}",2018-02-20
+570,International Finance Corporation,2.3,2,1.15,2,"{'India', 'Mexico'}",2,"{'Supply chain, logistics, & delivery', 'Fintech'}",2,"{'BlackBuck', 'Konfio'}",2021-07-22
+571,Investment Corporation of Dubai,2.2,2,1.1,2,"{'Switzerland', 'United States'}",2,"{'Other', 'Fintech'}",2,"{'Inari', 'Numbrs'}",2019-08-22
+572,Invus Group,2.3,2,1.15,1,{'United States'},2,"{'Other', 'Fintech'}",2,"{'Amount', 'Cava Group'}",2021-04-27
+573,Ireland Strategic Investment Fund,2.0,1,2.0,1,{'United States'},1,{'Cybersecurity'},1,{'Kaseya'},2019-03-27
+574,Iris Capital,3.0,2,1.5,2,"{'France', 'United States'}",2,"{'Hardware', 'Fintech'}",2,"{'Exotec', 'Forte Labs'}",2021-05-12
+575,Israel Growth Partners,2.0,1,2.0,1,{'Israel'},1,{'Fintech'},1,{'Earnix'},2021-02-21
+576,Ivy Capital,1.35,1,1.35,1,{'China'},1,{'Health'},1,{'Yaoshibang'},2021-06-15
+577,JAFCO,1.22,1,1.22,1,{'Japan'},1,{'Other'},1,{'Spiber'},2021-09-08
+578,JAFCO Co,1.0,1,1.0,1,{'Japan'},1,{'Fintech'},1,{'Liquid'},2019-04-03
+579,JBV Capital,1.0,1,1.0,1,{'United States'},1,{'Artificial intelligence'},1,{'Placer.ai'},2022-01-12
+580,JD Capital Management,1.0,1,1.0,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'FlashEx'},2018-08-27
+581,JD Digits,1.3,1,1.3,1,{'China'},1,{'Mobile & telecommunications'},1,{'TalkingData'},2021-01-06
+582,JD.com,2.0,1,2.0,1,{'China'},1,{'Internet software & services'},1,{'Xinchao Media'},2018-04-09
+583,JMI Equity,4.0,1,4.0,1,{'Canada'},1,{'Internet software & services'},1,{'PointClickCare'},2021-01-07
+584,JOY Capital,2.5,2,1.25,1,{'China'},2,"{'Travel', 'E-commerce & direct-to-consumer'}",2,"{'XiaoZhu', 'Newlink Group'}",2017-11-01
+585,JTC Group,1.95,1,1.95,1,{'United Kingdom'},1,{'Fintech'},1,{'Starling Bank'},2021-03-08
+586,Jackson Square Ventures,8.1,4,2.025,1,{'United States'},2,"{'Internet software & services', 'Health'}",4,"{'Strava', 'Plume', 'Alto Pharmacy', 'Seismic'}",2018-12-18
+587,Japan Post Capital,2.0,1,2.0,1,{'Japan'},1,{'Mobile & telecommunications'},1,{'SmartNews'},2019-08-05
+588,Javelin Venture Partners,5.0,3,1.6666666666666667,1,{'United States'},3,"{'Edtech', 'Internet software & services', 'Fintech'}",3,"{'MasterClass', 'SmartAsset', 'Mythical Games'}",2021-05-13
+589,Jerusalem Venture Partners,2.0,1,2.0,1,{'Israel'},1,{'Fintech'},1,{'Earnix'},2021-02-21
+590,Jiangsu Sha Steel Group,12.879999999999999,2,6.4399999999999995,2,"{'China', 'United Kingdom'}",2,"{'Auto & transportation', 'Hardware'}",2,"{'Global Switch', 'AIWAYS'}",2016-12-22
+591,Jinhui Xingye,1.12,1,1.12,1,{'China'},1,{'Fintech'},1,{'TELD'},2019-12-16
+592,Johnson & Johnson Innovation,1.0,1,1.0,1,{'United States'},1,{'Health'},1,{'Thirty Madison'},2021-06-02
+593,Jove Equity Partners,1.62,1,1.62,1,{'United States'},1,{'Health'},1,{'Transcarent'},2022-01-11
+594,Jump Capital,8.15,5,1.6300000000000001,2,"{'India', 'United States'}",2,"{'Edtech', 'Fintech'}",5,"{'TradingView', 'Degreed', 'CoinDCX', 'Phantom', 'M1 Finance'}",2021-04-13
+595,Jungle Ventures,2.6,1,2.6,1,{'Singapore'},1,{'E-commerce & direct-to-consumer'},1,{'Moglix'},2021-05-17
+596,Just Eat,1.0,1,1.0,1,{'Brazil'},1,"{'Supply chain, logistics, & delivery'}",1,{'iFood'},2018-11-13
+597,Juxtapose,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Orchard'},2021-09-09
+598,K2 Global,1.0,1,1.0,1,{'Philippines'},1,{'Other'},1,{'Revolution Precrafted'},2017-10-23
+599,K2 Ventures,2.0,2,1.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},2,"{'Zhaogang', 'Mia.com'}",2015-09-08
+600,K2VC,4.07,3,1.3566666666666667,1,{'China'},2,"{'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer'}",3,"{'Lamabang', 'Yimidida', 'eDaili'}",2015-03-06
+601,K9 Ventures,2.0,1,2.0,1,{'United States'},1,{'Internet software & services'},1,{'Everlaw'},2021-11-02
+602,KCK Group,1.0,1,1.0,1,{'United Arab Emirates'},1,{'Other'},1,{'Emerging Markets Property Group'},2020-04-28
+603,KKR,67.6,9,7.51111111111111,3,"{'China', 'France', 'United States'}",7,"{'Fintech', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Other', 'Supply chain, logistics, & delivery', 'Cybersecurity', 'Artificial intelligence'}",9,"{'Ivalua', '58 Daojia', 'Xingsheng Selected', 'ReliaQuest', 'Yiguo', 'OutSystems', 'o9 Solutions', 'OVH', 'Epic Games'}",2015-10-12
+604,KTB Ventures,1.5,1,1.5,1,{'United States'},1,{'Artificial intelligence'},1,{'MOLOCO'},2021-04-29
+605,Kaalari Capital,8.0,1,8.0,1,{'India'},1,{'Internet software & services'},1,{'Dream11'},2019-04-09
+606,Kae Capital,2.5,1,2.5,1,{'India'},1,{'Internet software & services'},1,{'Zetwerk'},2021-08-20
+607,Kalaari Capital,4.9,2,2.45,1,{'India'},2,"{'Health', 'Fintech'}",2,"{'Upstox', 'CureFit'}",2021-11-10
+608,Kaszek Ventures,15.799999999999999,5,3.1599999999999997,3,"{'Brazil', 'Chile', 'Mexico'}",3,"{'Artificial intelligence', 'E-commerce & direct-to-consumer', 'Fintech'}",5,"{'NotCo', 'Konfio', 'Nuvemshop', 'QuintoAndar', 'Creditas'}",2019-09-09
+609,Kefa Capital,1.27,1,1.27,1,{'China'},1,{'Internet software & services'},1,{'WTOIP'},2018-04-08
+610,Kenetic Capital,3.25,1,3.25,1,{'United States'},1,{'Fintech'},1,{'BlockDaemon'},2021-09-21
+611,Kerala Ventures,1.14,1,1.14,1,{'France'},1,{'Health'},1,{'Doctolib'},2019-03-19
+612,Khosla Ventures,179.37,19,9.440526315789475,1,{'United States'},9,"{'Hardware', 'Fintech', 'Consumer & retail', 'Internet software & services', 'Health', 'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Data management & analytics', 'Artificial intelligence'}",19,"{'Eat Just', 'Impossible Foods', 'OpenAI', 'Opentrons', 'Vectra Networks', 'Heyday', 'Coda', 'Lattice', 'Rightway', 'Fundbox', 'ZocDoc', 'Faire', 'At-Bay', 'Stripe', 'Instacart', 'Lessen', 'ThoughtSpot', 'Rubrik', 'SWORD Health'}",2014-01-23
+613,Kibo Ventures,3.85,2,1.925,2,"{'United States', 'Spain'}",2,"{'Internet software & services', 'Data management & analytics'}",2,"{'Jobandtalent', 'Devo'}",2021-10-26
+614,Kickstart Fund,1.42,1,1.42,1,{'United States'},1,{'Health'},1,{'SonderMind'},2021-07-28
+615,Kima Ventures,2.1,1,2.1,1,{'United Kingdom'},1,{'Fintech'},1,{'PayFit'},2022-01-06
+616,Kinnevik,7.2,3,2.4,3,"{'Denmark', 'Norway', 'Spain'}",3,"{'Travel', 'E-commerce & direct-to-consumer', 'Fintech'}",3,"{'TravelPerk', 'Oda', 'Pleo'}",2021-06-02
+617,Kite Ventures,2.7,1,2.7,1,{'United States'},1,{'Fintech'},1,{'Tradeshift'},2018-05-30
+618,Kleiner Perkins Caufield & Byers,103.22,20,5.161,4,"{'China', 'South Korea', 'India', 'United States'}",7,"{'Fintech', 'Internet software & services', 'Health', 'Supply chain, logistics, & delivery', 'Mobile & telecommunications', 'Data management & analytics', 'Artificial intelligence'}",20,"{'Cameo', 'InMobi', 'Figma', 'Productboard', 'Loom', 'Modern Health', 'Netlify', 'Handshake', 'Moveworks', 'Qumulo', 'Instacart', 'FullStory', 'Rippling', 'Interos', 'Toss', 'Yixia', 'Flipboard', 'Better.com', 'Gusto', 'Arrail Dental'}",2014-12-02
+619,Kleiner Perkins Caulfield & Byers,4.0,1,4.0,1,{'United States'},1,{'Other'},1,{'Farmers Business Network'},2020-08-03
+620,Knox Lane,2.25,1,2.25,1,{'United States'},1,{'Internet software & services'},1,{'Pattern'},2021-10-06
+621,Koch Disruptive Technologies,2.3,2,1.15,2,"{'United States', 'Israel'}",2,"{'Health', 'Fintech'}",2,"{'Ibotta', 'InSightec'}",2019-08-06
+622,Korelya Capital,1.5,1,1.5,1,{'France'},1,{'Hardware'},1,{'Ledger'},2021-06-10
+623,Kraken Ventures,1.3,1,1.3,1,{'United States'},1,{'Fintech'},1,{'CoinTracker'},2022-01-27
+624,Krungsri Finnovate,1.0,1,1.0,1,{'Thailand'},1,"{'Supply chain, logistics, & delivery'}",1,{'Flash Express'},2021-02-01
+625,Kuang-Chi,3.5,1,3.5,1,{'Singapore'},1,{'Mobile & telecommunications'},1,{'HyalRoute'},2020-05-26
+626,L Capital Partners,2.0,1,2.0,1,{'Hong Kong'},1,{'Consumer & retail'},1,{'Trendy Group International'},2012-02-13
+627,L Catterton,3.1,2,1.55,1,{'United States'},1,{'E-commerce & direct-to-consumer'},2,"{'Tonal', 'Il Makiage'}",2021-03-31
+628,L'Occitane,1.2,1,1.2,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'MyGlamm'},2021-11-10
+629,LGT Capital Partners,3.0,1,3.0,1,{'United Kingdom'},1,{'Health'},1,{'CMR Surgical'},2019-09-17
+630,LTW Capital,11.4,1,11.4,1,{'China'},1,{'Auto & transportation'},1,{'ZongMu Technology'},2021-06-03
+631,Lakestar,8.8,4,2.2,3,"{'Germany', 'United Kingdom', 'United States'}",4,"{'Travel', 'Internet software & services', 'Supply chain, logistics, & delivery', 'Fintech'}",4,"{'Omio', 'Blockchain.com', '1047 Games', 'Sennder'}",2018-10-23
+632,Launchpad Venture Group,1.6,1,1.6,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",1,{'ezCater'},2019-04-02
+633,Lead Edge Capital,3.0,1,3.0,1,{'United States'},1,{'Internet software & services'},1,{'Grafana Labs'},2021-08-24
+634,Leaders Fund,1.0,1,1.0,1,{'United States'},1,{'Cybersecurity'},1,{'Drata'},2021-11-08
+635,LeapFrog Investments,5.0,1,5.0,1,{'United Kingdom'},1,{'Fintech'},1,{'ZEPZ'},2021-08-23
+636,Left Lane Capital,8.85,5,1.77,3,"{'Ireland', 'Austria', 'United States'}",2,"{'Edtech', 'Fintech'}",5,"{'Masterworks', 'GoStudent', 'Wayflyer', 'M1 Finance', 'iTrustCapital'}",2021-06-22
+637,Legend Capital,14.120000000000001,3,4.706666666666667,1,{'China'},3,"{'Auto & transportation', 'Mobile & telecommunications', 'E-commerce & direct-to-consumer'}",3,"{'JOLLY Information Technology', 'GalaxySpace', 'ZongMu Technology'}",2018-05-29
+638,Legend Star,1.0,1,1.0,1,{'China'},1,{'Edtech'},1,{'KnowBox'},2019-05-30
+639,Lenovo Capital and Incubator,1.2,1,1.2,1,{'China'},1,{'Artificial intelligence'},1,{'Aibee'},2021-04-13
+640,Leonardo DiCaprio,1.07,1,1.07,1,{'United States'},1,{'Other'},1,{'Rubicon Global'},2017-08-25
+641,Lerer Hippeau,7.75,4,1.9375,1,{'United States'},3,"{'Hardware', 'Artificial intelligence', 'Fintech'}",4,"{'Opentrons', 'ZenBusiness', 'Augury', 'BlockDaemon'}",2021-09-21
+642,Liberty City Ventures,3.7,2,1.85,1,{'United States'},1,{'Fintech'},2,"{'Lukka', 'Paxos'}",2021-04-29
+643,Liberty Global Ventures,8.3,1,8.3,1,{'United States'},1,{'Cybersecurity'},1,{'Lacework'},2021-01-07
+644,Liberty Gloval Ventures,2.6,1,2.6,1,{'United States'},1,{'Internet software & services'},1,{'Plume'},2021-02-23
+645,Light Street Capital,1.6,1,1.6,1,{'Japan'},1,{'Fintech'},1,{'SmartHR'},2021-06-08
+646,Lightbank,8.1,1,8.1,1,{'United States'},1,{'Health'},1,{'Tempus'},2018-03-21
+647,Lightbox Ventures,1.4,1,1.4,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'Rebel Foods'},2021-10-07
+648,Lightrock,1.0,1,1.0,1,{'Brazil'},1,"{'Supply chain, logistics, & delivery'}",1,{'CargoX'},2021-10-21
+649,Lightspeed China Partners,2.95,2,1.475,1,{'China'},2,"{'Artificial intelligence', 'E-commerce & direct-to-consumer'}",2,"{'Hesai Tech', 'eDaili'}",2019-02-01
+650,Lightspeed India Partners,32.7,4,8.175,1,{'India'},3,"{'Travel', 'Edtech', 'Internet software & services'}",4,"{'apna', 'Darwinbox', ""BYJU's"", 'OYO Rooms'}",2017-07-25
+651,Lightspeed Venture Capital,3.0,1,3.0,1,{'United States'},1,{'Edtech'},1,{'Outschool'},2021-04-14
+652,Lightspeed Venture Partners,93.75,30,3.125,4,"{'Israel', 'India', 'United Kingdom', 'United States'}",10,"{'Travel', 'Fintech', 'Consumer & retail', 'Internet software & services', 'Health', 'Supply chain, logistics, & delivery', 'Cybersecurity', 'E-commerce & direct-to-consumer', 'Data management & analytics', 'Artificial intelligence'}",30,"{'Exabeam', 'Ripple', 'Dremio', 'Cameo', 'Blockchain.com', 'Innovaccer', 'People.ai', 'Netskope', 'Udaan', 'Noname Security', 'Orca Bio', 'ClickHouse', 'Arctic Wolf Networks', 'Daily Harvest', 'Handshake', 'Moveworks', 'At-Bay', 'Aqua Security', 'Grafana Labs', 'YugaByte', ""Rothy's"", 'Seismic', 'Panther Labs', 'ShareChat', 'Offchain Labs', 'CloudBees', 'ThoughtSpot', 'TripActions', 'Rubrik', 'BetterUp'}",2017-04-28
+653,Lindeman Asia Investment,1.04,1,1.04,1,{'South Korea'},1,{'Health'},1,{'Aprogen'},2019-05-31
+654,Linear Venture,14.0,5,2.8,2,"{'China', 'Germany'}",4,"{'Auto & transportation', 'Hardware', 'Internet software & services', 'Artificial intelligence'}",5,"{'Tezign', 'Kujiale', 'Agile Robots', 'Horizon Robotics', 'WM Motor'}",2019-02-27
+655,LocalGlobe,2.4000000000000004,2,1.2000000000000002,2,"{'United Kingdom', 'Spain'}",2,"{'Travel', 'Fintech'}",2,"{'TravelPerk', 'Zego'}",2021-03-09
+656,Lockheed Martin Ventures,2.4,1,2.4,1,{'United States'},1,{'Other'},1,{'ABL Space Systems'},2021-03-25
+657,Loeb.NYC,1.0,1,1.0,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Fetch Rewards'},2021-03-31
+658,Lone Pine Capital,1.1,1,1.1,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Daily Harvest'},2021-11-16
+659,Longfor Capitalm,15.0,1,15.0,1,{'China'},1,{'Consumer & retail'},1,{'Yuanqi Senlin'},2020-03-01
+660,Longzhu Capital,1.49,1,1.49,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Yipin Shengxian'},2019-03-11
+661,Lowercase Capital,2.8,2,1.4,1,{'United States'},2,"{'Internet software & services', 'Cybersecurity'}",2,"{'Lookout', 'Automattic'}",2013-05-27
+662,LowercaseCapital,95.0,1,95.0,1,{'United States'},1,{'Fintech'},1,{'Stripe'},2014-01-23
+663,Lupa Systems,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'Morning Consult'},2021-06-08
+664,Lux Capital,7.6,3,2.533333333333333,1,{'United States'},2,"{'Fintech', 'Data management & analytics'}",3,"{'Chronosphere', 'Anchorage Digital', 'Applied Intuition'}",2020-10-22
+665,M12,14.75,7,2.107142857142857,3,"{'Israel', 'Australia', 'United States'}",4,"{'Hardware', 'Internet software & services', 'Health', 'Cybersecurity'}",7,"{'Aqua Security', 'PsiQuantum', 'Outreach', 'Innovaccer', 'Contrast Security', 'GO1', 'PandaDoc'}",2019-04-16
+666,M13,1.1,1,1.1,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Daily Harvest'},2021-11-16
+667,MHS Capital,1.32,1,1.32,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Grove Collaborative'},2019-09-06
+668,MMC Ventures,1.7,1,1.7,1,{'United Kingdom'},1,"{'Supply chain, logistics, & delivery'}",1,{'Gousto'},2020-11-03
+669,MSA Capital,1.0,1,1.0,1,{'China'},1,{'Internet software & services'},1,{'XForcePlus'},2021-06-01
+670,MaC Venture Capital,2.0,1,2.0,1,{'United States'},1,{'Fintech'},1,{'Pipe'},2021-05-19
+671,Madera Technology Partners,1.0,1,1.0,1,{'United States'},1,{'Artificial intelligence'},1,{'Amperity'},2021-07-13
+672,Madrona Venture Group,8.15,5,1.6300000000000001,1,{'United States'},4,"{'Artificial intelligence', 'Internet software & services', 'Supply chain, logistics, & delivery', 'Data management & analytics'}",5,"{'Route', 'Qumulo', 'Amperity', 'SeekOut', 'Highspot'}",2020-07-16
+673,Madrone Capital Partners,1.5,1,1.5,1,{'United States'},1,{'Internet software & services'},1,{'Strava'},2020-11-16
+674,Maersk Growth,1.3,1,1.3,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",1,{'Loadsmart'},2022-02-01
+675,Magma Venture Partners,2.0,1,2.0,1,{'United States'},1,{'Mobile & telecommunications'},1,{'AppsFlyer'},2020-01-21
+676,Makers Fund,2.75,1,2.75,1,{'Turkey'},1,{'Mobile & telecommunications'},1,{'Dream Games'},2021-06-30
+677,Mangrove Capital Partners,2.6,2,1.3,2,"{'United Kingdom', 'United States'}",2,"{'Health', 'Fintech'}",2,"{'The Bank of London', 'K Health'}",2021-01-19
+678,Maniv Mobility,1.0,1,1.0,1,{'Israel'},1,{'Artificial intelligence'},1,{'Hailo'},2021-06-23
+679,March Capital Partners,3.0,2,1.5,1,{'United States'},1,{'Artificial intelligence'},2,"{'ASAPP', 'SparkCognition'}",2021-05-19
+680,Marchmont Ventures,1.33,1,1.33,1,{'United Kingdom'},1,{'E-commerce & direct-to-consumer'},1,{'Motorway'},2021-11-29
+681,Marcy Venture Partners,7.1,1,7.1,1,{'United States'},1,{'Fintech'},1,{'Gemini'},2021-11-19
+682,Matrix Partners,55.55,7,7.935714285714285,2,"{'Australia', 'United States'}",4,"{'E-commerce & direct-to-consumer', 'Internet software & services', 'Other', 'Data management & analytics'}",7,"{'Sila Nanotechnologies', 'CloudBees', 'FiveTran', 'Quora', 'Side', 'Canva', 'TechStyle Fashion Group'}",2014-08-29
+683,Matrix Partners China,16.35,11,1.4863636363636366,2,"{'China', 'Hong Kong'}",7,"{'Travel', 'Fintech', 'Consumer & retail', 'Internet software & services', 'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Edtech'}",11,"{'KK Group', 'Tubatu.com', 'Yunxuetang', 'Lamabang', 'Zhaogang', 'FlashEx', 'Zihaiguo', 'Beisen', 'Xingyun Group', 'JimuBox', 'Klook'}",2015-03-06
+684,Matrix Partners India,19.12,4,4.78,1,{'India'},3,"{'Auto & transportation', 'E-commerce & direct-to-consumer', 'Fintech'}",4,"{'Ola Electric Mobility', 'DealShare', 'Razorpay', 'OfBusiness'}",2019-07-02
+685,Maverick Capital,2.0,1,2.0,1,{'United States'},1,{'Internet software & services'},1,{'LTK'},2021-11-22
+686,Maverick Ventures,5.7,1,5.7,1,{'United States'},1,{'Health'},1,{'Cityblock Health'},2020-12-10
+687,Maveron,4.6,2,2.3,1,{'United States'},2,"{'Edtech', 'Health'}",2,"{'Course Hero', 'Thirty Madison'}",2020-02-12
+688,Max Ventures,3.0,2,1.5,1,{'United States'},2,"{'Health', 'Other'}",2,"{'Uplight', 'K Health'}",2021-01-19
+689,Mayfair Equity Partners,1.28,1,1.28,1,{'United Kingdom'},1,{'Other'},1,{'OVO Energy'},2019-02-14
+690,Mayfield,2.2,2,1.1,1,{'United States'},2,"{'Internet software & services', 'Health'}",2,"{'SeekOut', 'Mammoth Biosciences'}",2021-09-09
+691,Mayfield Fund,8.82,4,2.205,1,{'United States'},2,"{'Internet software & services', 'E-commerce & direct-to-consumer'}",4,"{'SmartRecruiters', 'Outreach', 'Grove Collaborative', 'Tonal'}",2019-04-16
+692,McKesson Ventures,1.0,1,1.0,1,{'United States'},1,{'Health'},1,{'Evidation'},2021-03-22
+693,Meituan Dianping,2.5,2,1.25,1,{'China'},2,"{'Consumer & retail', 'Hardware'}",2,"{'Yijiupi', 'Gaussian Robotics'}",2018-09-20
+694,Menlo Ventures,19.740000000000002,9,2.1933333333333334,1,{'United States'},4,"{'Internet software & services', 'Artificial intelligence', 'Cybersecurity', 'Fintech'}",9,"{'BitSight Technologies', 'Signifyd', 'Qualia', 'Harness', 'Everlaw', 'HomeLight', 'Carta', 'Betterment', 'Sidecar Health'}",2019-05-06
+695,MenloVentures,6.1,1,6.1,1,{'United States'},1,{'Internet software & services'},1,{'Benchling'},2021-04-14
+696,Meridian Capital,1.35,1,1.35,1,{'China'},1,{'Artificial intelligence'},1,{'DeepBlue Technology'},2018-04-16
+697,Merieux Equity Partners,1.0,1,1.0,1,{'France'},1,{'Health'},1,{'Dental Monitoring'},2021-10-21
+698,Meritech Capital Partners,4.8,3,1.5999999999999999,1,{'United States'},2,"{'Internet software & services', 'Fintech'}",3,"{'Kajabi', 'Extend', 'Gem'}",2021-05-04
+699,Merrysunny Wealth,1.05,1,1.05,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Jiuxian'},2015-07-30
+700,Microsoft,1.0,1,1.0,1,{'China'},1,{'Fintech'},1,{'Xiaobing'},2021-07-12
+701,Microsoft ScaleUp,3.1,1,3.1,1,{'India'},1,"{'Supply chain, logistics, & delivery'}",1,{'Udaan'},2018-09-04
+702,MindWorks Ventures,10.0,1,10.0,1,{'Hong Kong'},1,"{'Supply chain, logistics, & delivery'}",1,{'Lalamove'},2019-02-21
+703,Mithril,1.1,1,1.1,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'AppDirect'},2015-10-07
+704,Mithril Capital Management,3.4,2,1.7,1,{'United States'},1,{'Fintech'},2,"{'C2FO', 'Paxos'}",2019-08-07
+705,Mitsubishi Corporation,1.28,1,1.28,1,{'United Kingdom'},1,{'Other'},1,{'OVO Energy'},2019-02-14
+706,Mizuho Financial Group,2.0,1,2.0,1,{'Japan'},1,{'Artificial intelligence'},1,{'Preferred Networks'},2018-05-17
+707,Mobai Capital,1.0,1,1.0,1,{'China'},1,{'Fintech'},1,{'WeBull'},2021-02-18
+708,Monashees+,7.35,4,1.8375,3,"{'Brazil', 'Mexico', 'Argentina'}",2,"{'E-commerce & direct-to-consumer', 'Fintech'}",4,"{'Clara', 'MadeiraMadeira', 'Uala', 'Loft'}",2020-01-03
+709,Monk's Hill Ventures,1.0,1,1.0,1,{'Singapore'},1,"{'Supply chain, logistics, & delivery'}",1,{'Ninja Van'},2021-09-27
+710,Moonshots Capital,1.5,1,1.5,1,{'United States'},1,{'Cybersecurity'},1,{'ID.me'},2021-03-19
+711,Moore Capital Management,1.0,1,1.0,1,{'Canada'},1,{'Artificial intelligence'},1,{'TensTorrent'},2021-05-05
+712,Moore Strategic Ventures,3.3,1,3.3,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'Cars24'},2020-11-24
+713,MoreVC,1.0,1,1.0,1,{'United States'},1,{'Cybersecurity'},1,{'Claroty'},2021-06-17
+714,Morgan Creek Digital,7.1,1,7.1,1,{'United States'},1,{'Fintech'},1,{'Gemini'},2021-11-19
+715,Morningside Group,7.0,1,7.0,1,{'China'},1,{'Health'},1,{'We Doctor'},2015-09-22
+716,Morningside Venture Capital,8.0,3,2.6666666666666665,1,{'China'},2,"{'Mobile & telecommunications', 'Artificial intelligence'}",3,"{'Horizon Robotics', 'Maimai', 'Keep'}",2017-11-15
+717,Morningside Ventures,4.5,2,2.25,1,{'China'},2,"{'Travel', 'E-commerce & direct-to-consumer'}",2,"{'SouChe Holdings', 'XiaoZhu'}",2017-11-01
+718,Motive Partners. Apollo Global Management,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'CAIS'},2022-01-11
+719,Motus Ventures,2.0,1,2.0,1,{'United States'},1,{'Auto & transportation'},1,{'Quanergy Systems'},2016-08-22
+720,Mountain Nazca,8.7,1,8.7,1,{'Mexico'},1,{'E-commerce & direct-to-consumer'},1,{'Kavak'},2020-10-01
+721,Movile_,1.0,1,1.0,1,{'Brazil'},1,"{'Supply chain, logistics, & delivery'}",1,{'iFood'},2018-11-13
+722,Mubadala Capital,3.85,2,1.925,2,"{'Germany', 'United States'}",2,"{'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer'}",2,"{'REEF Technology', 'Flink'}",2018-12-10
+723,Multicoin Capital,1.0,1,1.0,1,{'Norway'},1,{'Data management & analytics'},1,{'Dune Analytics'},2022-02-02
+724,Mundi Ventures,1.0,1,1.0,1,{'Singapore'},1,{'Fintech'},1,{'bolttech'},2021-07-01
+725,Munich Re Ventures,5.800000000000001,4,1.4500000000000002,3,"{'India', 'United Kingdom', 'United States'}",2,"{'Artificial intelligence', 'Fintech'}",4,"{'Augury', 'Acko General Insurance', 'Bought By Many', 'At-Bay'}",2021-06-01
+726,N/A,1.0,1,1.0,1,{'China'},1,{'Mobile & telecommunications'},1,{'LinkSure Network'},2015-01-01
+727,N5 Capital,1.3,1,1.3,1,{'China'},1,{'Mobile & telecommunications'},1,{'TalkingData'},2021-01-06
+728,NFX,1.0,1,1.0,1,{'United States'},1,{'Health'},1,{'Mammoth Biosciences'},2021-09-09
+729,NIO Capital,2.0,2,1.0,1,{'China'},2,"{'Health', 'E-commerce & direct-to-consumer'}",2,"{'Fiture', 'Newlink Group'}",2020-07-10
+730,NJF Capital,1.0,1,1.0,1,{'United States'},1,{'Artificial intelligence'},1,{'Owkin'},2021-11-18
+731,NXC,2.34,1,2.34,1,{'South Korea'},1,{'E-commerce & direct-to-consumer'},1,{'WEMAKEPRICE'},2015-09-09
+732,Naspers,1.0,1,1.0,1,{'Brazil'},1,"{'Supply chain, logistics, & delivery'}",1,{'iFood'},2018-11-13
+733,Navitas Capital,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'Lessen'},2021-11-30
+734,Net1 UEPS Technologies,1.0,1,1.0,1,{'South Africa'},1,{'Mobile & telecommunications'},1,{'Cell C'},2017-08-07
+735,NetEase Capital,1.0,1,1.0,1,{'China'},1,{'Fintech'},1,{'Xiaobing'},2021-07-12
+736,New Enterprise Associates,115.2,21,5.485714285714286,3,"{'China', 'Germany', 'United States'}",10,"{'Travel', 'Fintech', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Other', 'Edtech', 'Mobile & telecommunications', 'Data management & analytics', 'Artificial intelligence'}",21,"{'Radiology Partners', 'Koudai', 'Splashtop', 'Omio', 'GoodLeap', 'Uptake', 'Databricks', 'Kong', 'Sentry', 'Intarcia Therapeutics', 'Tempus', 'Houzz', 'Collective Health', 'DataRobot', 'Automation Anywhere', 'LinkDoc Technology', 'Plaid Technologies', 'Instabase', 'MasterClass', 'Branch', 'MoonPay'}",2014-04-01
+737,New Era Ventures,3.7,1,3.7,1,{'United States'},1,{'Internet software & services'},1,{'Papaya Global'},2021-03-04
+738,New Hope Fund,1.45,1,1.45,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'Juma Peisong'},2018-11-26
+739,New Horizon Capital,4.18,2,2.09,1,{'China'},1,{'E-commerce & direct-to-consumer'},2,"{'BeiBei', 'Huitongda'}",2015-01-22
+740,New Leaf Venture Partners,3.8,1,3.8,1,{'United States'},1,{'Health'},1,{'Intarcia Therapeutics'},2014-04-01
+741,NewAlpha,1.0,1,1.0,1,{'France'},1,{'Fintech'},1,{'Lydia'},2021-12-08
+742,NewView Capital,3.6,1,3.6,1,{'United States'},1,{'Edtech'},1,{'Course Hero'},2020-02-12
+743,Newion Partners,1.4,1,1.4,1,{'Belgium'},1,{'Fintech'},1,{'Deliverect'},2022-01-24
+744,Newpath Partners,1.2,1,1.2,1,{'United States'},1,{'Health'},1,{'Prime Medicine'},2021-07-13
+745,Newsion Venture Capital,1.1,1,1.1,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Juanpi'},2016-04-14
+746,Next Coast Ventures,1.3,1,1.3,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Everly Health'},2020-12-03
+747,Next Play Ventures,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Esusu'},2022-01-27
+748,Next World Capital,8.25,2,4.125,1,{'United States'},2,"{'Internet software & services', 'Artificial intelligence'}",2,"{'Gong', 'Aircall'}",2020-08-12
+749,NextView Ventures,10.91,3,3.6366666666666667,1,{'United States'},2,"{'Mobile & telecommunications', 'E-commerce & direct-to-consumer'}",3,"{'Attentive', 'Grove Collaborative', 'Whoop'}",2019-09-06
+750,Nextech Invest,1.23,1,1.23,1,{'United States'},1,{'Health'},1,{'EQRx'},2021-01-11
+751,Nexus Venture Partners,19.24,7,2.748571428571428,2,"{'India', 'United States'}",6,"{'Internet software & services', 'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery', 'Edtech', 'Data management & analytics', 'Artificial intelligence'}",7,"{'Unacademy', 'Druva', 'Infra.Market', 'Minio', 'Delhivery', 'H2O.ai', 'Postman'}",2019-02-27
+752,Nichi-Iko Pharmaceutical,1.04,1,1.04,1,{'South Korea'},1,{'Health'},1,{'Aprogen'},2019-05-31
+753,NightDragon Security,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Interos'},2021-07-22
+754,Nine Intelligence Capital,1.0,1,1.0,1,{'China'},1,{'Artificial intelligence'},1,{'Haomao.AI'},2021-12-22
+755,Nintendo,9.0,1,9.0,1,{'United States'},1,{'Mobile & telecommunications'},1,{'Niantic'},2017-11-24
+756,Nor-Cal Invest,9.0,1,9.0,1,{'United States'},1,{'Cybersecurity'},1,{'Tanium'},2015-03-31
+757,Nordstar,1.0,1,1.0,1,{'United Arab Emirates'},1,"{'Supply chain, logistics, & delivery'}",1,{'Kitopi'},2021-07-01
+758,Norma Investments,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'OpenWeb'},2021-11-09
+759,North Bridge Growth Equity,9.5,1,9.5,1,{'United States'},1,{'Internet software & services'},1,{'OutSystems'},2018-06-05
+760,Northern Light Venture Capital,4.0,3,1.3333333333333333,1,{'China'},3,"{'Mobile & telecommunications', 'Artificial intelligence', 'Fintech'}",3,"{'Xiaobing', 'Black Sesame Technologies', 'FXiaoKe'}",2015-07-02
+761,Northzone Ventures,15.39,7,2.198571428571429,4,"{'Germany', 'Sweden', 'United Kingdom', 'United States'}",6,"{'Travel', 'Fintech', 'Internet software & services', 'Health', 'Supply chain, logistics, & delivery', 'Auto & transportation'}",7,"{'Forto', 'Hopin', 'Thirty Madison', 'Zopa', 'Einride', 'TrueLayer', 'Tier Mobility'}",2020-11-10
+762,Nortzone Ventures,6.3,1,6.3,1,{'Germany'},1,{'Internet software & services'},1,{'Personio'},2021-01-19
+763,Norwest Venture Partners,37.95,13,2.9192307692307695,2,"{'India', 'United States'}",9,"{'Fintech', 'Consumer & retail', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery', 'Cybersecurity', 'Other', 'Data management & analytics', 'Artificial intelligence'}",13,"{'Exabeam', 'Mensa Brands', 'Karat', 'HoneyBook', 'Swiggy', 'Bluecore', 'VAST Data', 'Vuori', 'Dremio', 'Gong', 'Zenoti', 'FloQast', 'Kendra Scott'}",2016-12-21
+764,Noshaq,2.3,1,2.3,1,{'Belgium'},1,{'Internet software & services'},1,{'Odoo'},2021-07-29
+765,Not Boring Capital,1.32,1,1.32,1,{'United States'},1,{'Health'},1,{'Athletic Greens'},2022-01-25
+766,Notion Capital,2.7,1,2.7,1,{'United States'},1,{'Fintech'},1,{'Tradeshift'},2018-05-30
+767,Novator Partners,3.0,2,1.5,2,"{'Germany', 'United States'}",2,"{'Travel', 'E-commerce & direct-to-consumer'}",2,"{'Tier Mobility', 'Zwift'}",2020-09-16
+768,Nyca Partners,1.5,1,1.5,1,{'United States'},1,{'Internet software & services'},1,{'Built'},2021-09-30
+769,OLX Group,1.0,1,1.0,1,{'United Arab Emirates'},1,{'Other'},1,{'Emerging Markets Property Group'},2020-04-28
+770,OMERS Private Equity,1.6,1,1.6,1,{'Canada'},1,{'Internet software & services'},1,{'Clio'},2021-04-27
+771,OMERS Ventures,7.05,4,1.7625,4,"{'Germany', 'Belgium', 'Canada', 'United States'}",2,"{'Travel', 'Fintech'}",4,"{'Deliverect', 'wefox', 'Clearcover', 'Hopper'}",2019-03-05
+772,Oak HC/FT Partners,9.8,4,2.45,3,"{'Israel', 'Canada', 'United States'}",2,"{'Health', 'Fintech'}",4,"{'Clearco', 'Pagaya', 'Cerebral', 'Maven Clinic'}",2020-06-17
+773,Oak Investment Partners,1.0,1,1.0,1,{'Canada'},1,{'Fintech'},1,{'Freshbooks'},2021-08-10
+774,Obvious Ventures,4.0,2,2.0,1,{'United States'},2,"{'Hardware', 'Health'}",2,"{'Magic Leap', 'Virta Health'}",2014-10-21
+775,Oceanwide Holdings,1.0,1,1.0,1,{'China'},1,{'Edtech'},1,{'Huike Group'},2018-05-24
+776,Octopus Ventures,2.35,1,2.35,1,{'United Kingdom'},1,{'Fintech'},1,{'Bought By Many'},2021-06-01
+777,Omidyar Network,4.1,2,2.05,1,{'India'},2,"{'Edtech', 'Internet software & services'}",2,"{'Vedantu', 'DailyHunt'}",2020-12-22
+778,Ondine Capital,1.7,1,1.7,1,{'Malaysia'},1,{'E-commerce & direct-to-consumer'},1,{'Carsome'},2021-07-12
+779,One Equity Partners,1.0,1,1.0,1,{'Croatia'},1,{'Mobile & telecommunications'},1,{'Infobip'},2020-07-30
+780,One Luxury Group,1.0,1,1.0,1,{'United States'},1,{'Consumer & retail'},1,{'Pat McGrath Labs'},2018-07-16
+781,One Peak Partners,2.15,1,2.15,1,{'United States'},1,{'Data management & analytics'},1,{'Neo4j'},2021-06-17
+782,OpenView Venture Partners,4.0,2,2.0,1,{'United States'},1,{'Internet software & services'},2,"{'VTS', 'Calendly'}",2019-05-07
+783,Operator Collective,1.2,1,1.2,1,{'United States'},1,{'Fintech'},1,{'AgentSync'},2021-12-07
+784,Optum Ventures,1.0,1,1.0,1,{'Ireland'},1,{'Health'},1,{'LetsGetChecked'},2021-06-07
+785,Opus Capital,1.1,1,1.1,1,{'United States'},1,{'Data management & analytics'},1,{'Sisense'},2020-01-09
+786,Orange Digital Ventures,5.9,2,2.95,2,"{'France', 'United Kingdom'}",2,"{'Internet software & services', 'Fintech'}",2,"{'Monzo', 'Deezer'}",2018-08-02
+787,OrbiMed Advisors,9.83,2,4.915,2,"{'China', 'United States'}",1,{'Health'},2,"{'Arrail Dental', 'Caris Life Sciences'}",2021-04-13
+788,Oriental Fortune Capital,1.55,1,1.55,1,{'China'},1,{'Fintech'},1,{'Baiwang'},2019-03-25
+789,Origin Ventures,2.0,2,1.0,1,{'United States'},2,"{'Internet software & services', 'Supply chain, logistics, & delivery'}",2,"{'Cameo', 'Veho'}",2021-03-30
+790,Oriza Equity Investment,4.73,1,4.73,1,{'China'},1,{'Hardware'},1,{'Chipone'},2021-12-20
+791,Oriza Holdings,3.32,1,3.32,1,{'China'},1,{'Artificial intelligence'},1,{'Cloudwalk'},2018-10-08
+792,Oryzn Capital,2.0,1,2.0,1,{'Israel'},1,{'Artificial intelligence'},1,{'VerbIT'},2021-06-08
+793,Otter Rock Capital,1.4,1,1.4,1,{'Spain'},1,{'Auto & transportation'},1,{'Cabify'},2018-01-22
+794,Outrun Ventures,1.25,1,1.25,1,{'United Kingdom'},1,{'Fintech'},1,{'Marshmallow'},2021-09-08
+795,Owl Ventures,2.4,2,1.2,1,{'United States'},2,"{'Edtech', 'Internet software & services'}",2,"{'Newsela', 'Degreed'}",2021-02-25
+796,PSG,2.5,2,1.25,1,{'United States'},1,{'Internet software & services'},2,"{'Assembly', 'Lusha'}",2021-09-21
+797,PUC,3.0,1,3.0,1,{'United States'},1,{'Fintech'},1,{'BlockFi'},2021-03-11
+798,Paladin Capital Group,1.0,1,1.0,1,{'United States'},1,{'Cybersecurity'},1,{'Expel'},2021-11-18
+799,Pantera Capital,6.4,4,1.6,3,"{'Mexico', 'United States', 'Israel'}",3,"{'Internet software & services', 'Cybersecurity', 'Fintech'}",4,"{'Injective Protocol', 'Bitso', 'Offchain Labs', 'StarkWare'}",2021-04-20
+800,Paradigm,3.2,2,1.6,2,"{'United States', 'Israel'}",2,"{'Cybersecurity', 'Fintech'}",2,"{'Phantom', 'StarkWare'}",2021-11-17
+801,Partech Partners,5.5,3,1.8333333333333333,3,"{'Senegal', 'Czech Republic', 'France'}",3,"{'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Fintech'}",3,"{'ManoMano', 'Wave', 'Rohlik'}",2021-07-01
+802,Partners Investment,1.0,1,1.0,1,{'South Korea'},1,{'Travel'},1,{'Yanolja'},2019-06-10
+803,Passion Capital,5.75,2,2.875,1,{'United Kingdom'},1,{'Fintech'},2,"{'Marshmallow', 'Monzo'}",2018-10-31
+804,Passport Capital,1.0,1,1.0,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'TechStyle Fashion Group'},2014-08-29
+805,PayPal Ventures,6.1,3,2.033333333333333,2,"{'India', 'United States'}",1,{'Fintech'},3,"{'Pine Labs', 'TaxBit', 'Extend'}",2020-01-24
+806,Pear,1.0,1,1.0,1,{'United States'},1,{'Mobile & telecommunications'},1,{'Branch'},2018-09-10
+807,Pelion Venture Partners,4.199999999999999,3,1.3999999999999997,1,{'United States'},2,"{'Cybersecurity', 'Fintech'}",3,"{'Guideline', 'Venafi', 'MX Technologies'}",2020-12-10
+808,People Electrical Appliance Group China,1.6,1,1.6,1,{'China'},1,{'Auto & transportation'},1,{'Cao Cao Mobility'},2018-01-17
+809,Pereg Ventures,1.0,1,1.0,1,{'Israel'},1,"{'Supply chain, logistics, & delivery'}",1,{'Bringg'},2021-06-16
+810,Perpetual Investors,1.2,1,1.2,1,{'Spain'},1,{'Data management & analytics'},1,{'Copado'},2021-09-13
+811,Peterson Ventures,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'SmartAsset'},2021-06-24
+812,Phoenix New Media,1.4,1,1.4,1,{'China'},1,{'Mobile & telecommunications'},1,{'Yidian Zixun'},2017-10-17
+813,Picus Capital,6.3,1,6.3,1,{'Germany'},1,{'Internet software & services'},1,{'Personio'},2021-01-19
+814,Pine Brook,6.0,1,6.0,1,{'United States'},1,{'Fintech'},1,{'Better.com'},2020-11-10
+815,Ping An Insurance,1.0,1,1.0,1,{'China'},1,{'Internet software & services'},1,{'58 Daojia'},2015-10-12
+816,Pitango Venture Capital,11.07,5,2.214,3,"{'Israel', 'United Kingdom', 'United States'}",5,"{'Hardware', 'Internet software & services', 'Auto & transportation', 'Mobile & telecommunications', 'Artificial intelligence'}",5,"{'Formlabs', 'Via', 'Graphcore', 'AppsFlyer', 'DriveNets'}",2018-08-01
+817,Piton Capital,2.6,1,2.6,1,{'France'},1,{'E-commerce & direct-to-consumer'},1,{'ManoMano'},2021-07-05
+818,Playground Global,8.85,3,2.9499999999999997,2,"{'Israel', 'United States'}",2,"{'Hardware', 'Other'}",3,"{'Relativity Space', 'PsiQuantum', 'Next Silicon'}",2020-11-23
+819,Plug and Play Ventures,5.15,2,2.575,2,"{'Brazil', 'Canada'}",2,"{'Edtech', 'Fintech'}",2,"{'ApplyBoard', 'CloudWalk'}",2020-05-05
+820,Plum Alley,1.0,1,1.0,1,{'United States'},1,{'Health'},1,{'Mammoth Biosciences'},2021-09-09
+821,Point Nine Capital,5.5,1,5.5,1,{'Germany'},1,{'Fintech'},1,{'Mambu'},2021-01-06
+822,Point72 Ventures,5.75,3,1.9166666666666667,1,{'United States'},2,"{'Artificial intelligence', 'Fintech'}",3,"{'DriveWealth', 'MX Technologies', 'Shield AI'}",2021-01-13
+823,Pokemon Company International,9.0,1,9.0,1,{'United States'},1,{'Mobile & telecommunications'},1,{'Niantic'},2017-11-24
+824,Polaris Partners,3.0,2,1.5,1,{'United States'},2,"{'Internet software & services', 'Fintech'}",2,"{'Automattic', 'FloQast'}",2013-05-27
+825,Polychain Capital,3.8,3,1.2666666666666666,2,"{'India', 'United States'}",2,"{'Internet software & services', 'Fintech'}",3,"{'Offchain Labs', 'CoinList', 'CoinDCX'}",2021-08-10
+826,Portag3 Ventures,1.68,1,1.68,1,{'France'},1,{'Fintech'},1,{'Alan'},2021-04-19
+827,PremjiInvest,2.5,1,2.5,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'Lenskart'},2019-12-20
+828,Presidio Ventures,1.2,1,1.2,1,{'United States'},1,{'Internet software & services'},1,{'Tealium'},2021-02-03
+829,Pritzker Group Venture Capital,2.1,2,1.05,1,{'United States'},1,{'Internet software & services'},2,"{'G2', 'SMS Assist'}",2016-06-07
+830,Promecap,1.07,1,1.07,1,{'United States'},1,{'Other'},1,{'Rubicon Global'},2017-08-25
+831,Prometheus Capital,1.0,1,1.0,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'FlashEx'},2018-08-27
+832,Promus Ventures,3.6,1,3.6,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Whoop'},2020-10-28
+833,Prosus Ventures,11.200000000000001,5,2.24,5,"{'Brazil', 'Norway', 'India', 'Germany', 'United States'}",3,"{'Mobile & telecommunications', 'Internet software & services', 'E-commerce & direct-to-consumer'}",5,"{'Oda', 'Flink', 'Meesho', 'Movile', 'Honor Technology'}",2018-07-12
+834,Providence Equity Partners,2.5,2,1.25,1,{'United States'},1,{'Internet software & services'},2,"{'Impact', 'Assembly'}",2021-07-13
+835,Providence Ventures,5.85,1,5.85,1,{'United States'},1,{'Health'},1,{'Lyra Health'},2020-08-25
+836,Prysm Capital,1.0,1,1.0,1,{'Australia'},1,{'E-commerce & direct-to-consumer'},1,{'Pet Circle'},2021-12-07
+837,QC Capital,1.08,1,1.08,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'56PINGTAI'},2021-01-25
+838,QED Investors,12.200000000000001,7,1.742857142857143,5,"{'Brazil', 'Chile', 'Ireland', 'Mexico', 'United States'}",4,"{'Artificial intelligence', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Fintech'}",7,"{'Bitso', 'Wayflyer', 'MediaMath', 'Loft', 'Konfio', 'Betterfly', 'Current'}",2018-07-10
+839,QF Capital,1.08,1,1.08,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'56PINGTAI'},2021-01-25
+840,Qatar Holding,1.38,1,1.38,1,{'France'},1,{'E-commerce & direct-to-consumer'},1,{'Veepee'},2007-07-20
+841,Qatar Investment Authority,2.95,2,1.475,2,"{'Singapore', 'United Kingdom'}",2,"{'Internet software & services', 'Fintech'}",2,"{'ONE', 'Starling Bank'}",2021-03-08
+842,QiMing Venture Partners,2.73,2,1.365,1,{'China'},2,"{'Edtech', 'Mobile & telecommunications'}",2,"{'iTutorGroup', 'Apus Group'}",2015-01-16
+843,QiMing Venture Partnersl,1.5,1,1.5,1,{'China'},1,{'Travel'},1,{'TuJia'},2015-06-17
+844,Qianhai Fund of Funds,1.0,1,1.0,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'Kuaigou Dache'},2018-07-13
+845,Qihoo 360 Technology,2.74,1,2.74,1,{'China'},1,{'Auto & transportation'},1,{'Hozon Auto'},2021-10-25
+846,Qiming Venture Partners,23.58,12,1.9649999999999999,3,"{'China', 'Ireland', 'Singapore'}",9,"{'Travel', 'Hardware', 'Fintech', 'Health', 'E-commerce & direct-to-consumer', 'Auto & transportation', 'Edtech', 'Mobile & telecommunications', 'Artificial intelligence'}",12,"{'Unisound', 'Mafengwo', 'Luoji Siwei', 'Tuhu', 'UBTECH Robotics', 'Matrixport', 'Miaoshou Doctor', 'Arrail Dental', 'Wacai', 'WeRide', 'LetsGetChecked', 'Hesai Tech'}",2016-07-25
+847,Quadrille Capital,1.2,1,1.2,1,{'Czech Republic'},1,"{'Supply chain, logistics, & delivery'}",1,{'Rohlik'},2021-07-01
+848,Qualcomm Ventures,36.29,12,3.0241666666666664,5,"{'Brazil', 'China', 'South Korea', 'India', 'United States'}",10,"{'Hardware', 'Fintech', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery', 'Auto & transportation', 'Edtech', 'Mobile & telecommunications', 'Artificial intelligence'}",12,"{'Magic Leap', 'Unisound', 'Toss', 'TangoMe', 'ZongMu Technology', 'Noom', 'Nuvemshop', 'MindTickle', 'Haomao.AI', 'Loggi', 'UpGrad', 'Dunamu'}",2014-03-20
+849,Qualgro,1.0,1,1.0,1,{'Singapore'},1,{'Internet software & services'},1,{'PatSnap'},2021-03-16
+850,Quantum Energy Partners,2.9,1,2.9,1,{'United States'},1,{'Internet software & services'},1,{'Workrise'},2019-09-30
+851,Questa Capital,1.7,1,1.7,1,{'United States'},1,{'Health'},1,{'DispatchHealth'},2021-03-03
+852,Quiet Capital,2.0,1,2.0,1,{'United States'},1,{'Fintech'},1,{'Modern Treasury'},2021-10-06
+853,Qumra Capital,2.0,1,2.0,1,{'United States'},1,{'Mobile & telecommunications'},1,{'AppsFlyer'},2020-01-21
+854,Quona Capital,4.8,1,4.8,1,{'Brazil'},1,{'Fintech'},1,{'Creditas'},2020-12-18
+855,R-Z Capital,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'Orbbec Technology'},2018-05-21
+856,RPM Ventures,1.2,1,1.2,1,{'United States'},1,{'Fintech'},1,{'DailyPay'},2021-05-18
+857,RRE Ventures,6.4,3,2.1333333333333333,1,{'United States'},3,"{'Health', 'Artificial intelligence', 'Fintech'}",3,"{'Avant', 'Paxos', 'Spring Health'}",2012-12-17
+858,RRE Ventures+,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'YipitData'},2021-12-06
+859,RTP Global,2.45,1,2.45,1,{'India'},1,{'Internet software & services'},1,{'Mobile Premier League'},2021-09-15
+860,Rakuten,1.4,1,1.4,1,{'Spain'},1,{'Auto & transportation'},1,{'Cabify'},2018-01-22
+861,Rakuten Ventures,1.1,1,1.1,1,{'Singapore'},1,{'E-commerce & direct-to-consumer'},1,{'Carousell'},2021-09-15
+862,Raven One Ventures,1.0,1,1.0,1,{'United States'},1,{'Other'},1,{'Firefly Aerospace'},2021-05-04
+863,RedBird Capital Partners,2.3,1,2.3,1,{'United States'},1,{'Other'},1,{'Skydance Media'},2020-02-11
+864,Redalpine Venture Partners,10.23,2,5.115,1,{'Germany'},2,"{'Consumer & retail', 'Fintech'}",2,"{'N26', 'Razor'}",2019-01-10
+865,Redpoint Ventures,29.35,10,2.935,3,"{'China', 'Israel', 'United States'}",5,"{'Internet software & services', 'Health', 'Cybersecurity', 'Mobile & telecommunications', 'Data management & analytics'}",10,"{'Yixia', 'Apus Group', 'Solo.io', 'Cityblock Health', 'Dremio', 'Arctic Wolf Networks', 'Impact', 'Workato', 'Sourcegraph', 'Orca Security'}",2015-01-16
+866,Redpoint Ventures China,3.24,2,1.62,2,"{'Nigeria', 'China'}",2,"{'Hardware', 'Fintech'}",2,"{'Opay', 'Enflame'}",2021-01-05
+867,Redpoint e.ventures,6.75,2,3.375,2,"{'Brazil', 'Colombia'}",2,"{'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery'}",2,"{'Olist', 'Rappi'}",2018-08-31
+868,Refactor Capital,2.9,2,1.45,1,{'United States'},2,"{'Mobile & telecommunications', 'Other'}",2,"{'Solugen', 'Astranis Space Technologies'}",2021-04-14
+869,Relay Ventures,2.3,1,2.3,1,{'United States'},1,{'Fintech'},1,{'Greenlight'},2020-09-24
+870,Rembrandt Venture Partners,2.5,2,1.25,1,{'United States'},1,{'Internet software & services'},2,"{'SmartRecruiters', 'PandaDoc'}",2021-07-20
+871,Resolute Ventures,1.34,1,1.34,1,{'United States'},1,{'Fintech'},1,{'Signifyd'},2021-04-15
+872,Rethink Impact,2.0,1,2.0,1,{'United States'},1,{'Health'},1,{'Spring Health'},2021-09-16
+873,Revo Capital,7.5,1,7.5,1,{'Turkey'},1,{'E-commerce & direct-to-consumer'},1,{'Getir'},2021-03-26
+874,Revolution,2.3,1,2.3,1,{'United States'},1,{'Artificial intelligence'},1,{'Uptake'},2015-10-27
+875,Revolution Growth,4.6,2,2.3,1,{'United States'},2,"{'Mobile & telecommunications', 'Other'}",2,"{'Cava Group', 'Scopely'}",2019-10-29
+876,Revolution Ventures,4.6,1,4.6,1,{'United States'},1,{'Artificial intelligence'},1,{'Anduril'},2019-09-11
+877,Rho Ventures,1.0,1,1.0,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'TechStyle Fashion Group'},2014-08-29
+878,Rhone Capital,2.5,1,2.5,1,{'United Arab Emirates'},1,{'Other'},1,{'Vista Global'},2017-08-23
+879,Ribbit Capital,72.93,8,9.11625,4,"{'Argentina', 'India', 'United Kingdom', 'United States'}",1,{'Fintech'},8,"{'Upgrade', 'Uala', 'Next Insurance', 'CoinSwitch Kuber', 'Revolut', 'Groww', 'Digital Currency Group', 'Brex'}",2018-02-12
+880,Rich Land Capital,1.05,1,1.05,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Jiuxian'},2015-07-30
+881,Richland Equities,1.0,1,1.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Hosjoy'},2018-10-18
+882,Ridge Ventures,3.6,1,3.6,1,{'United States'},1,{'Edtech'},1,{'Course Hero'},2020-02-12
+883,RiverPark Ventures,13.3,2,6.65,1,{'United States'},2,"{'Auto & transportation', 'Other'}",2,"{'Via', 'Thrasio'}",2020-03-30
+884,Robert Bosch Venture Capital,1.08,1,1.08,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'UISEE Technology'},2021-01-25
+885,Rocketship.vc,1.1,1,1.1,1,{'India'},1,{'Internet software & services'},1,{'apna'},2021-09-15
+886,Rothenberg Ventures,100.3,1,100.3,1,{'United States'},1,{'Other'},1,{'SpaceX'},2012-12-01
+887,Route 66 Ventures,2.85,1,2.85,1,{'United States'},1,{'Fintech'},1,{'DriveWealth'},2021-08-20
+888,Rubicon Technology Partners,1.5,1,1.5,1,{'United States'},1,{'Other'},1,{'Uplight'},2021-03-03
+889,Runa Capital,5.5,1,5.5,1,{'Germany'},1,{'Fintech'},1,{'Mambu'},2021-01-06
+890,Rusnano,2.0,1,2.0,1,{'Luxembourg'},1,{'Other'},1,{'OCSiAl'},2019-03-04
+891,Russia-China Investment Fund,5.1899999999999995,2,2.5949999999999998,1,{'China'},1,{'Artificial intelligence'},2,"{'Mininglamp Technology', 'MEGVII'}",2017-10-31
+892,SAIF Partners,10.7,1,10.7,1,{'India'},1,"{'Supply chain, logistics, & delivery'}",1,{'Swiggy'},2018-06-21
+893,SAIF Partners China,3.1,3,1.0333333333333334,1,{'China'},2,"{'Hardware', 'E-commerce & direct-to-consumer'}",3,"{'Orbbec Technology', 'Juanpi', 'Womai'}",2015-10-12
+894,SAIF Partners India,3.17,2,1.585,1,{'India'},2,"{'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer'}",2,"{'FirstCry', 'Rivigo'}",2019-07-11
+895,SAP.iO Fund,1.25,1,1.25,1,{'United States'},1,{'Cybersecurity'},1,{'BigID'},2020-12-16
+896,SBI Investment,4.57,2,2.285,2,"{'Germany', 'United States'}",1,{'Fintech'},2,"{'Kraken', 'solarisBank'}",2019-06-25
+897,SBI Investment Korea,1.0,1,1.0,1,{'South Korea'},1,{'Travel'},1,{'Yanolja'},2019-06-10
+898,SC.Holdings,1.32,1,1.32,1,{'United States'},1,{'Health'},1,{'Athletic Greens'},2022-01-25
+899,SCB 10X,1.0,1,1.0,1,{'Thailand'},1,"{'Supply chain, logistics, & delivery'}",1,{'Flash Express'},2021-02-01
+900,SDIC CMC Investment Management,1.16,1,1.16,1,{'China'},1,{'Auto & transportation'},1,{'SVOLT Energy'},2020-06-08
+901,SDIC Innovation Investment Management,1.0,1,1.0,1,{'China'},1,{'Auto & transportation'},1,{'Banma Network Technologies'},2018-09-13
+902,SDP Investment,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'1KMXC'},2021-08-30
+903,SEB Venture Capital,1.0,1,1.0,1,{'United Kingdom'},1,{'Fintech'},1,{'Thought Machine'},2021-11-29
+904,SEED Capital,1.0,1,1.0,1,{'Denmark'},1,{'Fintech'},1,{'Lunar'},2021-07-12
+905,SEEK,1.0,1,1.0,1,{'Australia'},1,{'Internet software & services'},1,{'GO1'},2021-07-19
+906,SF Holding Co,1.4,1,1.4,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'Hive Box'},2018-01-23
+907,SIG Asia Investments,144.31,3,48.10333333333333,1,{'China'},3,"{'Consumer & retail', 'Auto & transportation', 'Artificial intelligence'}",3,"{'ECARX', 'Bytedance', 'Mobvoi'}",2017-04-06
+908,SK Ventures,1.0,1,1.0,1,{'United States'},1,{'Other'},1,{'Firefly Aerospace'},2021-05-04
+909,SOFTBANK Latin America Ventures,1.0,1,1.0,1,{'Brazil'},1,{'Artificial intelligence'},1,{'Unico'},2021-08-03
+910,SOSV,3.3,2,1.65,2,"{'Chile', 'United States'}",2,"{'Hardware', 'Artificial intelligence'}",2,"{'Opentrons', 'NotCo'}",2021-07-26
+911,STO Express,1.4,1,1.4,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'Hive Box'},2018-01-23
+912,SV Angel,1.5,1,1.5,1,{'United States'},1,{'Internet software & services'},1,{'Airbyte'},2021-12-17
+913,SWaN & Legend Ventures,1.3,1,1.3,1,{'United States'},1,{'Other'},1,{'Cava Group'},2021-04-27
+914,Salesforce Ventures,21.9,7,3.1285714285714286,4,"{'Israel', 'Germany', 'Spain', 'United States'}",4,"{'Fintech', 'Internet software & services', 'Supply chain, logistics, & delivery', 'Data management & analytics'}",7,"{'Talkdesk', 'wefox', 'Bringg', 'Highspot', 'Alation', 'Copado', 'OwnBackup'}",2018-10-03
+915,Samsung Ventures,7.2,3,2.4,2,"{'Israel', 'United States'}",3,"{'Auto & transportation', 'Health', 'Other'}",3,"{'Noom', 'Quanergy Systems', 'StoreDot'}",2016-08-22
+916,Sands Capital,5.3,3,1.7666666666666666,2,"{'India', 'United States'}",3,"{'Mobile & telecommunications', 'Health', 'Supply chain, logistics, & delivery'}",3,"{'BlackBuck', 'Modernizing Medicine', 'Scopely'}",2017-05-10
+917,Sapphire Ventures,7.4,4,1.85,2,"{'United Kingdom', 'United States'}",3,"{'Internet software & services', 'Artificial intelligence', 'Data management & analytics'}",4,"{'Medable', 'Reltio', 'Matillion', 'Moveworks'}",2021-06-30
+918,Scale Venture Partners,11.05,7,1.5785714285714287,2,"{'United Kingdom', 'United States'}",5,"{'Hardware', 'Internet software & services', 'Supply chain, logistics, & delivery', 'Cybersecurity', 'Data management & analytics'}",7,"{'Matillion', 'KeepTruckin', 'Forter', 'BigID', 'Expel', 'Pantheon Systems', 'Locus Robotics'}",2019-04-23
+919,Scentan Ventures,2.7,1,2.7,1,{'United States'},1,{'Fintech'},1,{'Tradeshift'},2018-05-30
+920,Schonfeld Strategic Advisors,3.0,1,3.0,1,{'United States'},1,{'Fintech'},1,{'Inxeption'},2022-01-13
+921,SciFi VC,2.0,1,2.0,1,{'United States'},1,{'Fintech'},1,{'Divvy Homes'},2021-08-13
+922,Seaya Ventures,1.4,1,1.4,1,{'Spain'},1,{'Auto & transportation'},1,{'Cabify'},2018-01-22
+923,Section 32,2.2,1,2.2,1,{'United States'},1,{'Internet software & services'},1,{'Dialpad'},2020-10-06
+924,Seedcamp,1.65,1,1.65,1,{'Germany'},1,{'Fintech'},1,{'wefox'},2019-03-05
+925,SeptWolves Ventures,1.08,1,1.08,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'UISEE Technology'},2021-01-25
+926,Sequoia Capital,217.37,43,5.055116279069767,11,"{'Japan', 'Sweden', 'Canada', 'China', 'India', 'South Korea', 'Turkey', 'Hong Kong', 'Israel', 'Colombia', 'United States'}",12,"{'Hardware', 'Fintech', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Supply chain, logistics, & delivery', 'Other', 'Auto & transportation', 'Mobile & telecommunications', 'Data management & analytics', 'Artificial intelligence'}",43,"{'Carbon', 'Ethos Technologies', 'Wiz', 'MUSINSA', 'Unite Us', 'Verkada', 'Pilot.com', 'Playco', 'Attentive', 'DJI Innovations', 'CaptivateIQ', 'FTX', 'Rec Room', 'dbt Labs', 'Getir', 'Maven Clinic', 'Mu Sigma', 'Mixpanel', 'TrialSpark', 'Athelas', 'PicsArt', 'Retool', 'Faire', 'reddit', 'Loom', 'Cerebras Systems', 'Rappi', 'Druva', 'Cohesity', 'Vise', 'Remote', 'Houzz', 'Zipline', 'Zapier', 'Thumbtack', 'Clari', 'Ironclad', 'StarkWare', 'Ola Cabs', 'Snapdocs', 'SSENSE', 'Strava', 'Klarna'}",2011-12-12
+927,Sequoia Capital China,341.88,46,7.432173913043478,9,"{'Nigeria', 'China', 'South Korea', 'Singapore', 'Australia', 'Germany', 'Hong Kong', 'Indonesia', 'United States'}",13,"{'Travel', 'Hardware', 'Fintech', 'Consumer & retail', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery', 'Other', 'Auto & transportation', 'Edtech', 'Mobile & telecommunications', 'Artificial intelligence'}",46,"{'Tezign', 'HEYTEA', 'Jiuxian', 'Wenheyou', 'WeLab', 'Yuanqi Senlin', 'Aibee', 'YITU Technology', 'Bitmain Technologies', 'Zuoyebang', 'SmartMore', 'Chehaoduo', 'J&T Express', 'Bytedance', 'Fiture', 'VIPKid', 'Momenta', 'Opay', 'Kuaigou Dache', 'Mobvoi', 'Pony.ai', 'PatSnap', 'Beisen', 'Agile Robots', 'Mininglamp Technology', 'Leap Motor', 'Klook', 'Poizon', 'EcoFlow', 'Kurly', 'Xingsheng Selected', 'Kuaikan Manhua', '4Paradigm', 'XtalPi', 'Mia.com', 'Airwallex', 'JOLLY Information Technology', 'Tubatu.com', 'Yunxuetang', 'Ziroom', 'Yixia', 'Luoji Siwei', 'Miaoshou Doctor', 'Canva', 'Changingedu', 'SHEIN'}",2015-03-09
+928,Sequoia Capital India,88.33,26,3.397307692307692,3,"{'India', 'Indonesia', 'United States'}",10,"{'Travel', 'Fintech', 'Consumer & retail', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery', 'Edtech', 'Data management & analytics', 'Other'}",26,"{'apna', 'Zetwerk', 'Meesho', 'OYO Rooms', 'Eruditus Executive Education', 'Cars24', 'CRED', 'Mobile Premier League', 'Rebel Foods', 'CarDekho', 'CoinSwitch Kuber', 'Kopi Kenangan', 'Darwinbox', 'Groww', 'BharatPe', 'Pristyn Care', 'Razorpay', 'Unacademy', 'Pine Labs', ""BYJU's"", 'Grofers', 'Mamaearth', 'Axtria', 'DailyHunt', 'Five Star Business Finance', 'MobiKwik'}",2017-07-25
+929,Sequoia Capital Israel,4.2,2,2.1,1,{'United States'},2,"{'Artificial intelligence', 'Cybersecurity'}",2,"{'BigPanda', 'Forter'}",2020-11-19
+930,Shang Qi Capital,1.0,1,1.0,1,{'China'},1,{'Auto & transportation'},1,{'Banma Network Technologies'},2018-09-13
+931,Shanghai Electric Group,1.01,1,1.01,1,{'China'},1,{'Auto & transportation'},1,{'Leap Motor'},2018-11-20
+932,Shanghai Puyin Industry,1.78,1,1.78,1,{'China'},1,{'Auto & transportation'},1,{'AIWAYS'},2018-04-16
+933,Shasta Ventures,5.1,2,2.55,1,{'United States'},2,"{'Internet software & services', 'E-commerce & direct-to-consumer'}",2,"{'Highspot', 'Tonal'}",2021-02-22
+934,Shea Ventures,2.5,2,1.25,1,{'United States'},2,"{'Artificial intelligence', 'Fintech'}",2,"{'Feedzai', 'Pacaso'}",2021-03-24
+935,Shenzhen Capital Group,5.63,3,1.8766666666666667,1,{'China'},3,"{'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Fintech'}",3,"{'KK Group', 'Baiwang', 'UISEE Technology'}",2019-03-25
+936,Shenzhen Qianhe Capital Management Co.,1.0,1,1.0,1,{'China'},1,{'Edtech'},1,{'Huike Group'},2018-05-24
+937,Sherpalo Ventures,1.0,1,1.0,1,{'India'},1,{'Mobile & telecommunications'},1,{'InMobi'},2014-12-02
+938,Shunwei Capital Partners,36.22,8,4.5275,3,"{'China', 'Hong Kong', 'Singapore'}",6,"{'Fintech', 'Internet software & services', 'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Auto & transportation', 'Mobile & telecommunications'}",8,"{'Lalamove', 'Cgtz', 'JimuBox', 'PatSnap', 'Star Charge', 'GalaxySpace', 'SHEIN', 'Huitongda'}",2015-04-21
+939,Sierra Ventures,5.12,3,1.7066666666666668,2,"{'China', 'United States'}",3,"{'Mobile & telecommunications', 'Health', 'Internet software & services'}",3,"{'Ximalaya FM', 'Phenom People', 'Reify Health'}",2017-09-22
+940,Sigma Prime Ventures,1.4,1,1.4,1,{'United States'},1,{'Internet software & services'},1,{'Phenom People'},2021-04-07
+941,Signal Peak Ventures,1.4,1,1.4,1,{'United States'},1,{'Edtech'},1,{'Degreed'},2021-04-13
+942,SignalFire,8.55,3,2.85,1,{'United States'},3,"{'Consumer & retail', 'Health', 'Supply chain, logistics, & delivery'}",3,"{'Ro', 'Zume', 'Flock Freight'}",2018-11-01
+943,Silicon Valley Bank,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'MediaMath'},2018-07-10
+944,Silk Road Huacheng,4.73,1,4.73,1,{'China'},1,{'Hardware'},1,{'Chipone'},2021-12-20
+945,Silver Lake,8.5,3,2.8333333333333335,1,{'United States'},2,"{'Internet software & services', 'Health'}",3,"{'Noom', 'Tealium', 'Relativity'}",2021-02-03
+946,Silver Lake Partners,1.0,1,1.0,1,{'United States'},1,{'Other'},1,{'Red Ventures'},2015-01-07
+947,Silverlink Capital,1.0,1,1.0,1,{'China'},1,{'Edtech'},1,{'iTutorGroup'},2015-11-18
+948,Silversmith Capital Partners,8.9,5,1.78,1,{'United States'},2,"{'Internet software & services', 'Data management & analytics'}",5,"{'Iodine Software', 'DistroKid', 'Impact', 'ActiveCampaign', 'Webflow'}",2021-01-13
+949,Silverton Partners,1.0,1,1.0,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'The Zebra'},2021-04-12
+950,Simon Equity Partners,1.4,1,1.4,1,{'United States'},1,{'Internet software & services'},1,{'VideoAmp'},2021-10-21
+951,Sina Weibo,143.0,2,71.5,1,{'China'},2,"{'Mobile & telecommunications', 'Artificial intelligence'}",2,"{'Bytedance', 'Yixia'}",2015-11-24
+952,SingTel Innov8,3.5,2,1.75,2,"{'Singapore', 'Israel'}",2,"{'E-commerce & direct-to-consumer', 'Cybersecurity'}",2,"{'Cato Networks', 'Carro'}",2020-11-17
+953,SingulariTeam,1.5,1,1.5,1,{'Israel'},1,{'Other'},1,{'StoreDot'},2022-01-04
+954,Sino-Ocean Capital,1.45,1,1.45,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'Juma Peisong'},2018-11-26
+955,Sinovation Ventures,5.5,2,2.75,1,{'China'},2,"{'Edtech', 'Artificial intelligence'}",2,"{'VIPKid', 'Momenta'}",2016-08-04
+956,Sixth Street Partners,7.83,1,7.83,1,{'United States'},1,{'Health'},1,{'Caris Life Sciences'},2021-05-17
+957,Skip Capital,6.8,1,6.8,1,{'Canada'},1,{'Cybersecurity'},1,{'1Password'},2021-07-08
+958,Sky9 Capital,1.9,1,1.9,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'eDaili'},2019-02-01
+959,Slack Fund,6.8,1,6.8,1,{'Canada'},1,{'Cybersecurity'},1,{'1Password'},2021-07-08
+960,Slow Ventures,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Human Interest'},2021-08-04
+961,SmartFin Capital,1.4,1,1.4,1,{'Belgium'},1,{'Fintech'},1,{'Deliverect'},2022-01-24
+962,Smash Ventures,42.0,1,42.0,1,{'United States'},1,{'Other'},1,{'Epic Games'},2018-10-26
+963,Smilegate Investment,1.5,1,1.5,1,{'United States'},1,{'Artificial intelligence'},1,{'MOLOCO'},2021-04-29
+964,SoGal Ventures,1.3,1,1.3,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Everly Health'},2020-12-03
+965,Social Capital,9.79,3,3.263333333333333,1,{'United States'},3,"{'Mobile & telecommunications', 'Artificial intelligence', 'Cybersecurity'}",3,"{'Groq', 'Netskope', 'Starry'}",2018-07-03
+966,Socii Capital,1.0,1,1.0,1,{'Denmark'},1,{'Fintech'},1,{'Lunar'},2021-07-12
+967,Sodexo Ventures,1.45,1,1.45,1,{'United States'},1,{'Fintech'},1,{'Zeta'},2021-05-24
+968,Sofinnova Partners,2.3,1,2.3,1,{'Belgium'},1,{'Internet software & services'},1,{'Odoo'},2021-07-29
+969,SoftBank Group,119.35,31,3.8499999999999996,8,"{'Brazil', 'France', 'China', 'India', 'Spain', 'Mexico', 'United Kingdom', 'United States'}",11,"{'Travel', 'Artificial intelligence', 'Fintech', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery', 'Cybersecurity', 'Auto & transportation', 'Mobile & telecommunications', 'Data management & analytics', 'Other'}",31,"{'LTK', 'Vuori', 'Fair', 'Sorare', 'OYO Rooms', 'Pantheon Systems', 'Greensill', 'Ola Electric Mobility', 'National Stock Exchange of India', 'GlobalBees', 'Nuro', 'Cybereason', 'Kavak', 'Esusu', 'Jobandtalent', 'Fanatics', 'Keenon Robotics', 'Cohesity', 'Globality', 'Clip', 'MadeiraMadeira', 'Cambridge Mobile Telematics', 'Improbable', 'Zeta', 'Gympass', 'FirstCry', 'Grofers', 'Ola Cabs', 'QuintoAndar', 'Delhivery', 'OfBusiness'}",2012-06-06
+970,SoftBank Group. Monashees+,2.0,1,2.0,1,{'Brazil'},1,"{'Supply chain, logistics, & delivery'}",1,{'Loggi'},2019-06-05
+971,SoftBank Latin America Fund,2.7,2,1.35,2,"{'Brazil', 'Mexico'}",1,{'E-commerce & direct-to-consumer'},2,"{'Olist', 'Merama'}",2021-12-09
+972,SoftBankGroup,1.0,1,1.0,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'Snapdeal'},2014-05-21
+973,Softbank,37.7,3,12.566666666666668,2,"{'India', 'Hong Kong'}",3,"{'Edtech', 'E-commerce & direct-to-consumer', 'Fintech'}",3,"{'Eruditus Executive Education', 'FTX', 'Lenskart'}",2019-12-20
+974,Softbank Capital,2.4,1,2.4,1,{'India'},1,{'Fintech'},1,{'PolicyBazaar'},2019-05-06
+975,Softbank Corp.,1.0,1,1.0,1,{'India'},1,{'Mobile & telecommunications'},1,{'InMobi'},2014-12-02
+976,Softbank Group,173.05,9,19.227777777777778,5,"{'Brazil', 'Norway', 'China', 'Germany', 'United States'}",7,"{'Fintech', 'Consumer & retail', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Supply chain, logistics, & delivery', 'Artificial intelligence'}",9,"{'Bytedance', 'Alto Pharmacy', 'goPuff', 'Oda', 'CargoX', 'Enpal', 'candy.com', 'Zume', 'Digital Currency Group'}",2017-04-07
+977,Softbank Ventures Asia,1.0,1,1.0,1,{'Indonesia'},1,{'Fintech'},1,{'Ajaib'},2021-10-04
+978,Songhyun Investment,1.0,1,1.0,1,{'South Korea'},1,{'Auto & transportation'},1,{'Socar'},2020-10-16
+979,Soros Fund Management,3.75,2,1.875,2,"{'Argentina', 'United States'}",1,{'Fintech'},2,"{'Uala', 'Lukka'}",2021-08-13
+980,Sound Ventures,19.3,5,3.8600000000000003,1,{'United States'},3,"{'Consumer & retail', 'Health', 'E-commerce & direct-to-consumer'}",5,"{'Calm', 'OpenSea', 'Papa', 'TrialSpark', 'Truepill'}",2019-02-06
+981,Source Code Capital,7.37,5,1.474,2,"{'Nigeria', 'China'}",4,"{'Consumer & retail', 'Edtech', 'Supply chain, logistics, & delivery', 'Fintech'}",5,"{'Opay', 'Yijiupi', 'YunQuNa', 'Yimidida', 'Pipa Coding'}",2018-09-20
+982,Sozo Ventures,1.0,1,1.0,1,{'Japan'},1,{'Other'},1,{'Playco'},2020-09-21
+983,Spar Capital,13.4,1,13.4,1,{'United States'},1,{'Fintech'},1,{'Plaid Technologies'},2018-12-11
+984,Spark Capital,27.94,7,3.9914285714285715,2,"{'Germany', 'United States'}",6,"{'Travel', 'Fintech', 'Internet software & services', 'Cybersecurity', 'Mobile & telecommunications', 'Artificial intelligence'}",7,"{'Deel', 'Andela', 'GetYourGuide', 'Sift', 'Cybereason', 'Niantic', 'Carta'}",2017-11-24
+985,Spectrum Equity,5.0,2,2.5,1,{'United States'},1,{'Internet software & services'},2,"{'Kajabi', 'Lucid Software'}",2021-05-04
+986,Speedinvest,5.3100000000000005,2,2.6550000000000002,2,"{'Austria', 'United States'}",2,"{'E-commerce & direct-to-consumer', 'Fintech'}",2,"{'Savage X Fenty', 'BitPanda'}",2021-03-16
+987,Spotify,1.3,1,1.3,1,{'United States'},1,{'Internet software & services'},1,{'DistroKid'},2021-08-16
+988,Square Peg Capital,1.95,1,1.95,1,{'United States'},1,{'Internet software & services'},1,{'Rokt'},2021-12-16
+989,Standard Chartered,1.0,1,1.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'DianRong'},2017-08-02
+990,Standard Crypto,3.0,1,3.0,1,{'Vietnam'},1,{'Internet software & services'},1,{'Sky Mavis'},2021-10-04
+991,Starr Investment Holdings,4.0,1,4.0,1,{'United States'},1,{'Health'},1,{'Radiology Partners'},2019-07-19
+992,Steadview Capital,8.0,1,8.0,1,{'India'},1,{'Internet software & services'},1,{'Dream11'},2019-04-09
+993,Stellaris Venture Partners,1.07,1,1.07,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'Mamaearth'},2021-12-28
+994,Storm Ventures,18.95,4,4.7375,1,{'United States'},1,{'Internet software & services'},4,"{'Algolia', 'Workato', 'Talkdesk', 'Splashtop'}",2018-10-03
+995,Straumann,1.0,1,1.0,1,{'France'},1,{'Health'},1,{'Dental Monitoring'},2021-10-21
+996,Streamlined Ventures,2.1,1,2.1,1,{'United States'},1,{'Internet software & services'},1,{'Medable'},2021-10-26
+997,Stripe_,5.6,2,2.8,2,"{'Senegal', 'United States'}",1,{'Fintech'},2,"{'Wave', 'Ramp Financial'}",2021-03-29
+998,Stripes Group,9.8,2,4.9,1,{'United States'},2,"{'Internet software & services', 'Fintech'}",2,"{'FullStory', 'Fireblocks'}",2021-07-27
+999,Struck Capital,1.25,1,1.25,1,{'United States'},1,{'Internet software & services'},1,{'Mythical Games'},2021-11-04
+1000,Summer Capital,1.3,1,1.3,1,{'United States'},1,{'Fintech'},1,{'Lukka'},2022-01-14
+1001,Summerhill Venture Partners,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'C2FO'},2019-08-07
+1002,Summit Partners,19.98,7,2.8542857142857145,4,"{'Canada', 'Belgium', 'France', 'United States'}",4,"{'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Fintech'}",7,"{'Veepee', 'Podium', 'Odoo', 'Klaviyo', 'Modernizing Medicine', 'ReCharge', 'Visier'}",2007-07-20
+1003,Sunley House Capital Management,1.2,1,1.2,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'CarDekho'},2021-10-13
+1004,Sunstone Capital,1.1,1,1.1,1,{'Germany'},1,{'Travel'},1,{'GetYourGuide'},2019-05-16
+1005,Susa Ventures,1.13,1,1.13,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",1,{'STORD'},2021-09-13
+1006,Susquehanna Growth Equity,7.1,3,2.3666666666666667,1,{'United States'},2,"{'Internet software & services', 'Fintech'}",3,"{'ActiveCampaign', 'HighRadius', 'Morning Consult'}",2020-01-07
+1007,Sutter Hill Ventures,11.600000000000001,2,5.800000000000001,1,{'United States'},2,"{'Other', 'Cybersecurity'}",2,"{'Sila Nanotechnologies', 'Lacework'}",2019-04-16
+1008,Sway Ventures,2.17,1,2.17,1,{'United States'},1,{'Fintech'},1,{'Addepar'},2021-06-15
+1009,T. Rowe Associates,8.1,1,8.1,1,{'United States'},1,{'Health'},1,{'Tempus'},2018-03-21
+1010,T. Rowe Price,15.6,5,3.12,2,"{'Canada', 'United States'}",4,"{'Internet software & services', 'Health', 'Other', 'Fintech'}",5,"{'Color', 'ABL Space Systems', 'Clio', 'Checkr', 'Trumid'}",2019-09-19
+1011,TA Associates,7.5,2,3.75,1,{'India'},2,"{'Data management & analytics', 'Fintech'}",2,"{'National Stock Exchange of India', 'Fractal Analytics'}",2020-07-01
+1012,TAL Education Group,1.0,1,1.0,1,{'China'},1,{'Edtech'},1,{'KnowBox'},2019-05-30
+1013,TDK Ventures,1.0,1,1.0,1,{'United States'},1,{'Artificial intelligence'},1,{'Groq'},2021-04-14
+1014,TDM Growth Partners,2.95,2,1.475,2,"{'Australia', 'United States'}",2,"{'Internet software & services', 'E-commerce & direct-to-consumer'}",2,"{'Pet Circle', 'Rokt'}",2021-12-07
+1015,TDR Capital,4.2,1,4.2,1,{'United States'},1,{'Internet software & services'},1,{'Globalization Partners'},2022-01-24
+1016,TI Platform Management,1.6,1,1.6,1,{'United States'},1,{'Health'},1,{'Truepill'},2021-10-27
+1017,TLV Partners,6.4,3,2.1333333333333333,2,"{'Israel', 'United States'}",3,"{'Data management & analytics', 'Cybersecurity', 'Fintech'}",3,"{'Firebolt', 'Next Insurance', 'Aqua Security'}",2019-10-07
+1018,TMT Investments,8.4,1,8.4,1,{'Estonia'},1,{'Auto & transportation'},1,{'Bolt+'},2018-05-29
+1019,TPG Alternative & Renewable Technologies,2.0,1,2.0,1,{'United States'},1,{'Cybersecurity'},1,{'Kaseya'},2019-03-27
+1020,TPG Capital,1.0,1,1.0,1,{'India'},1,{'Data management & analytics'},1,{'Fractal Analytics'},2022-01-05
+1021,TPG Growth,12.6,3,4.2,1,{'United States'},3,"{'Consumer & retail', 'Hardware', 'Cybersecurity'}",3,"{'Infinidat', 'Tanium', 'Calm'}",2015-03-31
+1022,TQ Ventures,4.0,1,4.0,1,{'United States'},1,{'Mobile & telecommunications'},1,{'Clubhouse'},2021-01-24
+1023,TSG Consumer Partners,1.24,1,1.24,1,{'United Kingdom'},1,{'Consumer & retail'},1,{'BrewDog'},2017-04-10
+1024,TTV Capital,3.3,2,1.65,1,{'United States'},1,{'Fintech'},2,"{'Greenlight', 'SmartAsset'}",2020-09-24
+1025,TVS Capital,3.5,1,3.5,1,{'India'},1,{'Fintech'},1,{'Digit Insurance'},2021-01-15
+1026,Taigang Venture Capital,1.45,1,1.45,1,{'China'},1,{'Internet software & services'},1,{'Ouyeel'},2019-06-27
+1027,Tao Capital Partners,4.7,3,1.5666666666666667,1,{'United States'},3,"{'Consumer & retail', 'Internet software & services', 'Other'}",3,"{'Newsela', 'PAX', 'Apeel Sciences'}",2018-10-22
+1028,Target Global,10.85,3,3.6166666666666667,2,"{'United Kingdom', 'United States'}",2,"{'Supply chain, logistics, & delivery', 'Fintech'}",3,"{'REEF Technology', 'Zego', 'Rapyd'}",2018-12-10
+1029,Team8,1.0,1,1.0,1,{'United States'},1,{'Cybersecurity'},1,{'Claroty'},2021-06-17
+1030,Teamworthy Ventures,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Ibotta'},2019-08-06
+1031,Technology Crossover Ventures,41.4,9,4.6,5,"{'Norway', 'Canada', 'Netherlands', 'United Kingdom', 'United States'}",4,"{'Internet software & services', 'Data management & analytics', 'E-commerce & direct-to-consumer', 'Fintech'}",9,"{'Vice Media', 'Newsela', 'Built', 'Cognite', 'Miro', 'Hotmart', 'Clio', 'ZEPZ', 'Mollie'}",2011-04-02
+1032,Telling Telecommunication Holding Co.,4.58,1,4.58,1,{'China'},1,{'Hardware'},1,{'Meizu Technology'},2014-07-23
+1033,Temasek,15.02,9,1.6688888888888889,5,"{'Sweden', 'France', 'India', 'Singapore', 'United States'}",7,"{'Fintech', 'Consumer & retail', 'Internet software & services', 'Supply chain, logistics, & delivery', 'Other', 'Auto & transportation', 'Artificial intelligence'}",9,"{'ONE', 'Alan', ""Harry's Razor Company"", 'Pine Labs', 'SparkCognition', 'Fabric', 'Solugen', 'Einride', 'Bowery Farming'}",2018-02-16
+1034,Temasek Holdings,25.0,4,6.25,3,"{'China', 'United Kingdom', 'United States'}",4,"{'Consumer & retail', 'Edtech', 'E-commerce & direct-to-consumer', 'Other'}",4,"{'Fanatics', 'iTutorGroup', 'Impossible Foods', 'Improbable'}",2012-06-06
+1035,Temasek Holdings Ltd.,1.32,1,1.32,1,{'China'},1,{'Cybersecurity'},1,{'Tongdun Technology'},2019-04-25
+1036,Ten Eleven Ventures,1.0,1,1.0,1,{'United States'},1,{'Cybersecurity'},1,{'ReliaQuest'},2021-12-01
+1037,Tenaya Capital,10.0,2,5.0,1,{'United States'},2,"{'Data management & analytics', 'Fintech'}",2,"{'Fireblocks', 'Druva'}",2019-06-20
+1038,Tencent,41.57,7,5.938571428571429,2,"{'China', 'India'}",5,"{'Health', 'E-commerce & direct-to-consumer', 'Other', 'Auto & transportation', 'Artificial intelligence'}",7,"{'iCarbonX', 'We Doctor', 'Xiaohongshu', 'Koudai', 'Lianjia', 'Five Star Business Finance', 'WM Motor'}",2014-10-23
+1039,Tencent Holdings,156.9,28,5.603571428571429,6,"{'France', 'China', 'India', 'Australia', 'Ireland', 'United States'}",10,"{'Artificial intelligence', 'Hardware', 'Fintech', 'Consumer & retail', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Auto & transportation', 'Edtech', 'Other'}",28,"{'Dxy.cn', 'Weilong', 'BYTON', 'Flipdish', 'VIPKid', 'Momenta', 'Zhuan Zhuan', 'Mininglamp Technology', 'Discord', 'Epic Games', 'Skydance Media', 'Xingsheng Selected', 'Voodoo', 'Lydia', 'XtalPi', 'Yijiupi', 'Airwallex', 'Qonto', 'HAYDON', 'Dream11', 'SoundHound', 'Luoji Siwei', ""BYJU's"", 'Miaoshou Doctor', 'Enflame', 'Kuaikan Manhua', 'Yuanfudao', 'Coocaa'}",2016-08-04
+1040,Tencent Investment,9.28,1,9.28,1,{'China'},1,{'Other'},1,{'HEYTEA'},2019-07-01
+1041,Tengelmann Ventures,1.4,1,1.4,1,{'Germany'},1,{'Fintech'},1,{'Scalable Capital'},2021-06-08
+1042,The Carlyle Group,5.17,4,1.2925,2,"{'Japan', 'United States'}",4,"{'E-commerce & direct-to-consumer', 'Internet software & services', 'Other', 'Fintech'}",4,"{'CFGI', 'YipitData', 'Spiber', 'Pharmapacks'}",2020-11-12
+1043,The Raine Group,1.0,1,1.0,1,{'Sweden'},1,{'Travel'},1,{'VOI'},2021-12-21
+1044,The Rise Fund,2.5,1,2.5,1,{'United States'},1,{'Fintech'},1,{'Varo Bank'},2021-09-09
+1045,The Times Group,1.0,1,1.0,1,{'India'},1,{'Fintech'},1,{'MobiKwik'},2021-10-13
+1046,The Venture Collective,1.0,1,1.0,1,{'United States'},1,{'Other'},1,{'Axiom Space'},2021-02-16
+1047,Third Point,3.2,1,3.2,1,{'United States'},1,{'Fintech'},1,{'ConsenSys'},2021-11-17
+1048,Thirty Five Ventures,13.3,1,13.3,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'OpenSea'},2021-07-20
+1049,Thoma Bravo,34.3,3,11.433333333333332,2,"{'Hong Kong', 'United States'}",2,"{'Cybersecurity', 'Fintech'}",3,"{'Guideline', 'FTX', 'Venafi'}",2020-12-10
+1050,Threshold Ventures,13.4,4,3.35,1,{'United States'},1,{'Internet software & services'},4,"{'CircleCI', 'LaunchDarkly', 'BetterUp', 'Zapier'}",2021-01-14
+1051,Thrity Five Ventures,3.75,1,3.75,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Dutchie'},2021-03-16
+1052,Thrive Capital,40.38,16,2.52375,2,"{'United Kingdom', 'United States'}",6,"{'Fintech', 'Consumer & retail', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Cybersecurity'}",16,"{'Monzo', 'Glossier', 'Patreon', ""Harry's Razor Company"", 'Benchling', 'Capsule', 'Skims', 'Cityblock Health', 'Justworks', 'Lattice', 'Rightway', 'TrialSpark', 'Cadence', 'Cedar', 'Honor Technology', 'Stytch'}",2018-02-16
+1053,Tianjin Haihe Industry Fund,1.4,1,1.4,1,{'China'},1,{'Mobile & telecommunications'},1,{'Yidian Zixun'},2017-10-17
+1054,Tiantu Capital,3.1,2,1.55,1,{'China'},2,"{'Consumer & retail', 'E-commerce & direct-to-consumer'}",2,"{'Guoquan Shihui', 'Juanpi'}",2016-04-14
+1055,Tiantu Capital Co.,1.32,1,1.32,1,{'China'},1,{'Cybersecurity'},1,{'Tongdun Technology'},2019-04-25
+1056,Tiger Brokers,1.1,1,1.1,1,{'Hong Kong'},1,{'Fintech'},1,{'Amber Group'},2021-06-21
+1057,Tiger Global,5.2,2,2.6,1,{'United States'},2,"{'Artificial intelligence', 'E-commerce & direct-to-consumer'}",2,"{'Avant', 'Thumbtack'}",2012-12-17
+1058,Tiger Global Management,165.02,47,3.511063829787234,11,"{'China', 'India', 'Turkey', 'Australia', 'Germany', 'Chile', 'Estonia', 'Hong Kong', 'Ireland', 'United Kingdom', 'United States'}",12,"{'Hardware', 'Fintech', 'Consumer & retail', 'Internet software & services', 'Health', 'E-commerce & direct-to-consumer', 'Other', 'Supply chain, logistics, & delivery', 'Auto & transportation', 'Edtech', 'Mobile & telecommunications', 'Artificial intelligence'}",47,"{'NotCo', 'FalconX', 'Contentful', 'Sendbird', 'Flipdish', 'PAX', 'Sidecar Health', 'Locus Robotics', 'CRED', 'DealShare', 'Meicai', 'InVision', 'Getir', 'Upstox', 'Ola Electric Mobility', 'Checkout.com', 'Zenoti', 'SeekOut', 'ActiveCampaign', 'Veriff', 'Rightway', 'Vedantu', 'Qualia', 'JUUL Labs', 'Ivalua', 'SafetyCulture', 'Karat', 'CoinSwitch Kuber', 'Amperity', 'Infra.Market', 'TradingView', 'Amber Group', 'Rokt', 'Groww', 'SaltPay', 'Razorpay', ""Harry's Razor Company"", 'Outschool', 'Jokr', 'Intercom', 'MURAL', 'Grofers', 'ChargeBee Technologies', 'Kajabi', 'SHEIN', 'Five Star Business Finance', 'MoonPay'}",2016-06-22
+1059,Tiger Global management,2.8,2,1.4,2,"{'China', 'United States'}",2,"{'Internet software & services', 'E-commerce & direct-to-consumer'}",2,"{'Koudai', 'GupShup'}",2014-10-23
+1060,Times Internet,3.0,1,3.0,1,{'India'},1,"{'Supply chain, logistics, & delivery'}",1,{'Delhivery'},2019-02-27
+1061,Tokopedia,2.9,1,2.9,1,{'Indonesia'},1,{'Fintech'},1,{'Ovo'},2019-03-14
+1062,Tokyo Century Corporation,2.9,1,2.9,1,{'Indonesia'},1,{'Fintech'},1,{'Ovo'},2019-03-14
+1063,Tomales Bay Capital,2.0,1,2.0,1,{'United States'},1,{'Artificial intelligence'},1,{'Hive'},2021-04-21
+1064,TopoScend Capital,1.0,1,1.0,1,{'China'},1,{'Artificial intelligence'},1,{'Intellifusion'},2019-03-22
+1065,Toscafund Asset Management,5.0,1,5.0,1,{'United Kingdom'},1,{'Fintech'},1,{'OakNorth'},2017-10-12
+1066,TowerBrook Capital Partners,1.1,1,1.1,1,{'France'},1,{'Other'},1,{'OVH'},2016-08-15
+1067,Toyota Motor Corporation,2.0,1,2.0,1,{'Japan'},1,{'Artificial intelligence'},1,{'Preferred Networks'},2018-05-17
+1068,Trammell Ventures,2.92,1,2.92,1,{'United States'},1,{'Fintech'},1,{'Kraken'},2019-06-25
+1069,Trane Technologies,1.23,1,1.23,1,{'Canada'},1,{'Other'},1,{'Nexii'},2021-09-08
+1070,Transamerica Ventures,1.7,1,1.7,1,{'United States'},1,{'Artificial intelligence'},1,{'H2O.ai'},2021-11-07
+1071,Transformation Capital,1.0,1,1.0,1,{'Ireland'},1,{'Health'},1,{'LetsGetChecked'},2021-06-07
+1072,Triangle Peak Partners,1.0,1,1.0,1,{'United States'},1,{'Internet software & services'},1,{'SnapLogic'},2021-12-13
+1073,Tribe Capital,15.2,2,7.6,1,{'United States'},2,"{'Other', 'Fintech'}",2,"{'Relativity Space', 'Bolt'}",2020-11-23
+1074,Trifecta Capital,2.3,2,1.15,1,{'India'},1,{'E-commerce & direct-to-consumer'},2,"{'MyGlamm', 'GlobalBees'}",2021-11-10
+1075,Trifecta Capital Advisors,1.07,1,1.07,1,{'India'},1,"{'Supply chain, logistics, & delivery'}",1,{'Rivigo'},2019-07-11
+1076,Trinity Ventures,7.9,3,2.6333333333333333,1,{'United States'},1,{'Internet software & services'},3,"{'VTS', 'Outreach', 'Side'}",2019-04-16
+1077,TriplePoint Capital,2.4,2,1.2,2,"{'Germany', 'United States'}",2,"{'Internet software & services', 'Other'}",2,"{'InFarm', 'Envoy'}",2021-12-16
+1078,Tru Arrow Partners,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Masterworks'},2021-10-05
+1079,True,1.0,1,1.0,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Zwift'},2020-09-16
+1080,True Ventures,4.5,2,2.25,1,{'United States'},1,{'Internet software & services'},2,"{'Solo.io', 'Handshake'}",2021-05-12
+1081,Trustbridge Partners,3.45,2,1.725,1,{'China'},1,{'Edtech'},2,"{'Fenbi Education', 'Changingedu'}",2017-10-30
+1082,Tus Holdings,2.5,1,2.5,1,{'China'},1,{'Auto & transportation'},1,{'BYTON'},2018-04-20
+1083,Two Sigma Ventures,13.0,4,3.25,2,"{'Canada', 'United States'}",3,"{'Internet software & services', 'E-commerce & direct-to-consumer', 'Cybersecurity'}",4,"{'Socure', 'Coalition', 'Figment', 'Whoop'}",2020-10-28
+1084,U.S.-China Green Fund,1.0,1,1.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'Hosjoy'},2018-10-18
+1085,UBS,6.0,1,6.0,1,{'United States'},1,{'Fintech'},1,{'iCapital Network'},2021-07-27
+1086,UBS Asset Management,1.0,1,1.0,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",1,{'REEF Technology'},2018-12-10
+1087,US Venture Partners,1.3,1,1.3,1,{'United States'},1,{'Health'},1,{'HeartFlow'},2017-12-04
+1088,Uncork Capital,6.0,4,1.5,1,{'United States'},3,"{'Internet software & services', 'Supply chain, logistics, & delivery', 'Fintech'}",4,"{'Human Interest', 'LaunchDarkly', 'Shippo', 'Wrapbook'}",2021-06-02
+1089,Undisclosed,3.3,2,1.65,2,"{'Netherlands', 'United States'}",2,"{'Other', 'Fintech'}",2,"{'You & Mr Jones', 'Bunq'}",2019-11-19
+1090,Unicom Innovation Venture Capital,2.63,2,1.315,1,{'China'},2,"{'Hardware', 'Supply chain, logistics, & delivery'}",2,"{'56PINGTAI', 'Iluvatar CoreX'}",2021-01-25
+1091,Uniion Square Ventures,3.0,1,3.0,1,{'United States'},1,{'Edtech'},1,{'Outschool'},2021-04-14
+1092,Unilever Ventures,1.7,1,1.7,1,{'United Kingdom'},1,"{'Supply chain, logistics, & delivery'}",1,{'Gousto'},2020-11-03
+1093,Union Square Ventures,24.28,6,4.046666666666667,2,"{'Canada', 'United States'}",3,"{'Edtech', 'Artificial intelligence', 'Fintech'}",6,"{'Sift', 'Upgrade', 'C2FO', 'Quizlet', 'Dapper Labs', 'Carta'}",2018-02-12
+1094,Uniqa Ventures,5.3100000000000005,2,2.6550000000000002,2,"{'Austria', 'United States'}",2,"{'E-commerce & direct-to-consumer', 'Fintech'}",2,"{'Savage X Fenty', 'BitPanda'}",2021-03-16
+1095,Unternehmertum Venture Capital,3.0,1,3.0,1,{'Germany'},1,{'Auto & transportation'},1,{'FlixMobility'},2019-07-18
+1096,Upfront Ventures,7.75,4,1.9375,2,"{'France', 'United States'}",3,"{'Hardware', 'E-commerce & direct-to-consumer', 'Other'}",4,"{'GOAT', 'Ynsect', 'Density', 'Apeel Sciences'}",2019-02-21
+1097,Upper90,10.0,1,10.0,1,{'United States'},1,{'Other'},1,{'Thrasio'},2020-07-15
+1098,V FUND,2.32,1,2.32,1,{'China'},1,{'Hardware'},1,{'Biren Technology'},2020-08-18
+1099,V Star Capital,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'China Cloud'},2018-06-11
+1100,VGames,1.5,1,1.5,1,{'United States'},1,{'Internet software & services'},1,{'1047 Games'},2021-09-14
+1101,VY Capital,8.38,2,4.19,2,"{'India', 'United States'}",2,"{'E-commerce & direct-to-consumer', 'Fintech'}",2,"{'Urban Company', 'Upgrade'}",2018-02-12
+1102,Valar Ventures,23.94,6,3.99,4,"{'Germany', 'Austria', 'France', 'United States'}",2,"{'E-commerce & direct-to-consumer', 'Fintech'}",6,"{'Savage X Fenty', 'N26', 'Stash', 'BitPanda', 'BlockFi', 'Qonto'}",2019-01-10
+1103,Valiant Capital Partners,2.1,1,2.1,1,{'India'},1,{'E-commerce & direct-to-consumer'},1,{'FirstCry'},2020-02-07
+1104,Valor Capital Group,4.65,3,1.55,1,{'Brazil'},3,"{'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Fintech'}",3,"{'Olist', 'CargoX', 'CloudWalk'}",2021-09-08
+1105,Valor Equity Partners,3.7,1,3.7,1,{'United States'},1,{'Other'},1,{'Redwood Materials'},2021-07-28
+1106,Vast Ventures,1.8,1,1.8,1,{'United States'},1,{'Other'},1,{'Diamond Foundry'},2021-03-29
+1107,Vattenfall,9.08,1,9.08,1,{'Sweden'},1,{'Other'},1,{'Northvolt'},2019-06-12
+1108,Vcanbio,1.0,1,1.0,1,{'China'},1,{'Artificial intelligence'},1,{'iCarbonX'},2016-04-12
+1109,VebVentures,2.5,1,2.5,1,{'Switzerland'},1,{'Cybersecurity'},1,{'Acronis'},2019-09-18
+1110,Venrock,41.4,9,4.6,2,"{'Canada', 'United States'}",3,"{'Health', 'Artificial intelligence', 'Fintech'}",9,"{'6Sense', 'Virta Health', 'Aledade', 'Interos', 'Rebellion Defense', 'Dapper Labs', 'Devoted Health', 'Lyra Health', 'Dataminr'}",2018-06-04
+1111,Ventech China,1.0,1,1.0,1,{'China'},1,{'Fintech'},1,{'JimuBox'},2015-04-21
+1112,Ventura Capital,2.0,1,2.0,1,{'United Kingdom'},1,{'Fintech'},1,{'Zilch'},2021-11-10
+1113,Venture Highway,7.5,2,3.75,2,"{'India', 'Singapore'}",2,"{'Internet software & services', 'E-commerce & direct-to-consumer'}",2,"{'Moglix', 'Meesho'}",2021-04-05
+1114,Venture51,15.0,1,15.0,1,{'United States'},1,{'Fintech'},1,{'Ripple'},2019-12-20
+1115,Verizon Ventures,1.15,1,1.15,1,{'United States'},1,{'Data management & analytics'},1,{'CloudBees'},2021-12-09
+1116,Version One Ventures,2.2,2,1.1,2,"{'Canada', 'United States'}",2,"{'Supply chain, logistics, & delivery', 'Artificial intelligence'}",2,"{'Ada Support', 'Shippo'}",2021-05-07
+1117,Vertex Ventures,5.35,2,2.675,2,"{'Israel', 'United States'}",2,"{'Artificial intelligence', 'Data management & analytics'}",2,"{'OwnBackup', 'VerbIT'}",2021-01-28
+1118,Vertex Ventures China,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'Geek+'},2018-11-21
+1119,Vertex Ventures Israel,1.2,1,1.2,1,{'United States'},1,{'Cybersecurity'},1,{'Axonius'},2021-03-01
+1120,Vertex Ventures SE Asia,2.0,2,1.0,2,"{'India', 'Singapore'}",2,"{'E-commerce & direct-to-consumer', 'Fintech'}",2,"{'Licious', 'NIUM'}",2021-07-13
+1121,Vickers Venture Partners,12.0,1,12.0,1,{'United States'},1,{'Health'},1,{'Biosplice Therapeutics'},2018-08-06
+1122,Victory Park Capital,1.0,1,1.0,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Heyday'},2021-11-16
+1123,Viking Global Investors,8.899999999999999,2,4.449999999999999,1,{'United States'},2,"{'Health', 'Cybersecurity'}",2,"{'Color', 'Arctic Wolf Networks'}",2020-10-22
+1124,Vintage Investment Partners,4.140000000000001,2,2.0700000000000003,2,"{'United States', 'Israel'}",2,"{'Internet software & services', 'Cybersecurity'}",2,"{'Transmit Security', 'Yotpo'}",2021-03-18
+1125,Viola Ventures,3.8,2,1.9,2,"{'Israel', 'United States'}",2,"{'Artificial intelligence', 'Data management & analytics'}",2,"{'Redis Labs', 'Lightricks'}",2019-07-31
+1126,Visa Ventures,1.0,1,1.0,1,{'Singapore'},1,{'Fintech'},1,{'NIUM'},2021-07-13
+1127,Vision Knight Capital,2.0,1,2.0,1,{'China'},1,{'Consumer & retail'},1,{'Guoquan Shihui'},2021-03-17
+1128,Vision Plus Capital,4.0,2,2.0,2,"{'China', 'Singapore'}",2,"{'Internet software & services', 'Artificial intelligence'}",2,"{'Xinchao Media', 'Advance Intelligence Group'}",2018-04-09
+1129,Vista Equity Partners,5.2,2,2.6,2,"{'Canada', 'United States'}",2,"{'Internet software & services', 'Supply chain, logistics, & delivery'}",2,"{'Globalization Partners', 'Assent Compliance'}",2022-01-06
+1130,Vitruvian Partners,1.0,1,1.0,1,{'France'},1,{'Health'},1,{'Dental Monitoring'},2021-10-21
+1131,Volcanics Ventures,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'Geek+'},2018-11-21
+1132,Volkswagen,1.5,1,1.5,1,{'Israel'},1,{'Auto & transportation'},1,{'Gett'},2016-05-24
+1133,Volkswagen Group,16.33,2,8.165,2,"{'Sweden', 'United States'}",2,"{'Artificial intelligence', 'Other'}",2,"{'Argo AI', 'Northvolt'}",2019-06-12
+1134,Vostok New Ventures,2.5,2,1.25,2,"{'Sweden', 'Israel'}",2,"{'Auto & transportation', 'Travel'}",2,"{'Gett', 'VOI'}",2016-05-24
+1135,Vulcan Capital,1.65,1,1.65,1,{'Germany'},1,{'Fintech'},1,{'solarisBank'},2021-07-13
+1136,WRVI Capital,1.0,1,1.0,1,{'United States'},1,{'Other'},1,{'Boom Supersonic'},2020-12-16
+1137,Wakefield Group,2.4,1,2.4,1,{'United States'},1,{'Hardware'},1,{'Carbon'},2015-08-20
+1138,Walden International,7.1899999999999995,2,3.5949999999999998,2,"{'China', 'United States'}",2,"{'Mobile & telecommunications', 'Data management & analytics'}",2,"{'SambaNova Systems', 'Huaqin Telecom Technology'}",2019-10-08
+1139,Walden Venture Capital,3.4000000000000004,2,1.7000000000000002,1,{'United States'},2,"{'Artificial intelligence', 'Fintech'}",2,"{'iTrustCapital', 'SoundHound'}",2018-05-03
+1140,Wanxin Media,1.0,1,1.0,1,{'China'},1,{'Edtech'},1,{'HuJiang'},2015-10-29
+1141,Warbug Pincus,15.5,1,15.5,1,{'China'},1,{'Edtech'},1,{'Yuanfudao'},2017-05-31
+1142,Warburg Pincus,25.99,12,2.165833333333333,6,"{'Philippines', 'Canada', 'China', 'India', 'Vietnam', 'United States'}",7,"{'Hardware', 'Fintech', 'Health', 'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Cybersecurity', 'Other'}",12,"{'Ziroom', 'Varo Bank', 'Wenheyou', 'MoMo', 'Aura', 'Mofang Living', 'Assent Compliance', 'Rivigo', 'SouChe Holdings', 'Mynt', 'Geek+', 'Modernizing Medicine'}",2016-04-13
+1143,Warmsun Holding,6.0,1,6.0,1,{'China'},1,{'Hardware'},1,{'Royole Corporation'},2015-08-18
+1144,Wavemaker Partners,1.4,1,1.4,1,{'United States'},1,{'Internet software & services'},1,{'VideoAmp'},2021-10-21
+1145,We Capital,1.1,1,1.1,1,{'China'},1,{'Internet software & services'},1,{'Qingting FM'},2021-06-02
+1146,Webb Investment Network,3.7,1,3.7,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'GOAT'},2020-09-23
+1147,Wellington Management,1.0,1,1.0,1,{'United Kingdom'},1,{'Fintech'},1,{'PPRO'},2021-01-19
+1148,WestBridge Capital,4.300000000000001,2,2.1500000000000004,2,"{'India', 'United States'}",2,"{'Edtech', 'Health'}",2,"{'LEAD School', 'Innovaccer'}",2021-02-19
+1149,WestCap Group,9.3,3,3.1,1,{'United States'},2,"{'Health', 'Fintech'}",3,"{'Celsius Network', 'Amount', 'Cerebral'}",2021-05-17
+1150,Western Capital Management,2.0,1,2.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'HuiMin'},2016-09-05
+1151,White Star Capital,2.0,1,2.0,1,{'Germany'},1,{'Travel'},1,{'Tier Mobility'},2021-10-25
+1152,Wincove,4.2,1,4.2,1,{'United States'},1,{'Internet software & services'},1,{'Globalization Partners'},2022-01-24
+1153,Wing Venture Capital,11.95,3,3.983333333333333,1,{'United States'},3,"{'Fintech', 'Artificial intelligence', 'Data management & analytics'}",3,"{'Gong', 'Cohesity', 'Human Interest'}",2018-06-11
+1154,Wipro Ventures,1.3,1,1.3,1,{'United States'},1,{'Data management & analytics'},1,{'YugaByte'},2021-10-28
+1155,Wonder Ventures,1.5,1,1.5,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'Whatnot'},2021-09-16
+1156,Woodford Investment Management,1.0,1,1.0,1,{'United Kingdom'},1,{'Artificial intelligence'},1,{'BenevolentAI'},2015-06-02
+1157,Woori Investment,1.0,1,1.0,1,{'South Korea'},1,{'Fintech'},1,{'Dunamu'},2021-07-22
+1158,Work-Bench,2.0,1,2.0,1,{'United States'},1,{'Health'},1,{'Spring Health'},2021-09-16
+1159,Workday Ventures,1.5,1,1.5,1,{'United States'},1,{'Internet software & services'},1,{'Paradox'},2021-12-27
+1160,World Innovation Lab,1.6,1,1.6,1,{'Japan'},1,{'Fintech'},1,{'SmartHR'},2021-06-08
+1161,World Lab Innovation,2.0,1,2.0,1,{'United States'},1,{'Fintech'},1,{'Unqork'},2020-10-06
+1162,XAnge Private Equity,1.0,1,1.0,1,{'France'},1,{'Fintech'},1,{'Lydia'},2021-12-08
+1163,XBTO Ventures,1.0,1,1.0,1,{'United States'},1,{'Other'},1,{'Firefly Aerospace'},2021-05-04
+1164,XVC Venture Capital,4.0,2,2.0,2,"{'China', 'United States'}",2,"{'Edtech', 'Supply chain, logistics, & delivery'}",2,"{'Weee!', 'Pipa Coding'}",2021-03-16
+1165,Xiang He Capital,13.0,2,6.5,2,"{'China', 'Hong Kong'}",2,"{'Edtech', 'Supply chain, logistics, & delivery'}",2,"{'Zuoyebang', 'Lalamove'}",2018-07-18
+1166,Xiaomi,2.0,1,2.0,1,{'China'},1,{'Artificial intelligence'},1,{'Black Sesame Technologies'},2021-09-22
+1167,Xingwang Investment Management,2.52,2,1.26,1,{'China'},2,"{'Consumer & retail', 'Mobile & telecommunications'}",2,"{'Zihaiguo', 'Ximalaya FM'}",2017-09-22
+1168,Y Combinator,57.95,18,3.2194444444444446,4,"{'Netherlands', 'Indonesia', 'Australia', 'United States'}",7,"{'Fintech', 'Internet software & services', 'Supply chain, logistics, & delivery', 'E-commerce & direct-to-consumer', 'Other', 'Mobile & telecommunications', 'Artificial intelligence'}",18,"{'Deel', 'reddit', 'Convoy', 'GO1', 'Ironclad', 'Checkr', 'Scale AI', 'Lattice', 'Snapdocs', 'CaptivateIQ', 'Quora', 'Boom Supersonic', 'Sendbird', 'Xendit', 'Whatnot', 'Rippling', 'Standard Cognition', 'MessageBird'}",2017-04-21
+1169,YL Ventures,1.8,1,1.8,1,{'Israel'},1,{'Cybersecurity'},1,{'Orca Security'},2021-03-23
+1170,Yabeo Capital,1.65,1,1.65,1,{'Germany'},1,{'Fintech'},1,{'solarisBank'},2021-07-13
+1171,Yaxia Automobile,1.16,1,1.16,1,{'China'},1,{'Auto & transportation'},1,{'Tuhu'},2018-09-15
+1172,Yinhong Equity Investment Fund,1.0,1,1.0,1,{'China'},1,{'Fintech'},1,{'Hyperchain'},2021-04-11
+1173,Yinxinggu Capital,1.5,1,1.5,1,{'China'},1,{'Data management & analytics'},1,{'DT Dream'},2017-06-08
+1174,York Capital Management,1.3,1,1.3,1,{'Israel'},1,{'Health'},1,{'InSightec'},2020-03-06
+1175,Yunfeng Capital,13.23,3,4.41,1,{'China'},3,"{'Consumer & retail', 'Auto & transportation', 'Artificial intelligence'}",3,"{'Weilong', 'Banma Network Technologies', 'DeepBlue Technology'}",2018-04-16
+1176,Yunqi Partners,1.0,1,1.0,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'Keenon Robotics'},2021-09-15
+1177,Zeal Capital Partners,1.0,1,1.0,1,{'United States'},1,{'Fintech'},1,{'Esusu'},2022-01-27
+1178,Zeev Ventures,24.95,7,3.564285714285714,2,"{'Israel', 'United States'}",4,"{'Travel', 'Internet software & services', 'Data management & analytics', 'Fintech'}",7,"{'Domestika', 'Next Insurance', 'HomeLight', 'Tipalti', 'TripActions', 'Firebolt', 'Sunbit'}",2018-11-08
+1179,Zhangjiang Haocheng Venture Capital,2.19,1,2.19,1,{'China'},1,{'Mobile & telecommunications'},1,{'Huaqin Telecom Technology'},2019-10-08
+1180,ZhenFund,29.0,7,4.142857142857143,3,"{'China', 'Singapore', 'United States'}",5,"{'Consumer & retail', 'Internet software & services', 'E-commerce & direct-to-consumer', 'Mobile & telecommunications', 'Artificial intelligence'}",7,"{'Meicai', 'Mobvoi', 'Mia.com', 'News Break', 'Advance Intelligence Group', 'Xiaohongshu', 'SmartMore'}",2015-09-08
+1181,Zheshang Venture Capital,2.0,1,2.0,1,{'China'},1,{'E-commerce & direct-to-consumer'},1,{'HuiMin'},2016-09-05
+1182,Zhongrong International Trust,1.6,1,1.6,1,{'China'},1,{'Auto & transportation'},1,{'Cao Cao Mobility'},2018-01-17
+1183,and Sequoia Capital China,3.92,1,3.92,1,{'China'},1,{'Health'},1,{'Medlinker'},2018-07-31
+1184,capitalG,116.45,6,19.408333333333335,1,{'United States'},3,"{'Internet software & services', 'Supply chain, logistics, & delivery', 'Fintech'}",6,"{'Convoy', 'Dataiku', 'Stripe', 'Unqork', 'Webflow', 'Digital Currency Group'}",2014-01-23
+1185,dmg ventures,2.0,1,2.0,1,{'United Kingdom'},1,{'Fintech'},1,{'Zilch'},2021-11-10
+1186,eWTP Capital,1.0,1,1.0,1,{'Thailand'},1,"{'Supply chain, logistics, & delivery'}",1,{'Flash Express'},2021-02-01
+1187,enaya Capital,2.6,1,2.6,1,{'United States'},1,{'Internet software & services'},1,{'Clari'},2021-03-03
+1188,frst,2.1,1,2.1,1,{'United Kingdom'},1,{'Fintech'},1,{'PayFit'},2022-01-06
+1189,iFLYTEK,1.0,1,1.0,1,{'China'},1,{'Hardware'},1,{'TERMINUS Technology'},2018-10-25
+1190,iFly,2.8,1,2.8,1,{'United States'},1,"{'Supply chain, logistics, & delivery'}",1,{'Weee!'},2021-03-16
+1191,iNovia Capital,1.1,1,1.1,1,{'United States'},1,{'E-commerce & direct-to-consumer'},1,{'AppDirect'},2015-10-07
+1192,iTech Capital,1.0,1,1.0,1,{'Netherlands'},1,{'Hardware'},1,{'BitFury'},2018-11-06
+1193,iVision Ventures,1.0,1,1.0,1,{'China'},1,"{'Supply chain, logistics, & delivery'}",1,{'Keenon Robotics'},2021-09-15
+1194,index Ventures,33.0,1,33.0,1,{'United Kingdom'},1,{'Fintech'},1,{'Revolut'},2018-04-26
+1195,next47,4.6,3,1.5333333333333332,2,"{'Israel', 'United States'}",3,"{'Supply chain, logistics, & delivery', 'Cybersecurity', 'Fintech'}",3,"{'Bringg', 'Verkada', 'Pipe'}",2020-01-29
+1196,s28 Capital,1.4,1,1.4,1,{'United States'},1,{'Cybersecurity'},1,{'Panther Labs'},2021-12-02
